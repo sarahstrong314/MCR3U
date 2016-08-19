@@ -8,3 +8,6 @@
 – explore the algebraic development of the quadratic formula (e.g., given the algebraic development, connect the steps to a numerical example; follow a demonstration of the algebraic development [student reproduction of the development of the general case is not required]);
 – solve quadratic equations that have real roots, using a variety of methods (i.e., factoring, using the quadratic formula, graphing) 
 
+[New] Solving Problems Involving Quadratic Relations
+– determine the zeros and the maximum or minimum value of a quadratic relation from its graph (i.e., using graphing calculators or graphing software) or from its defining equation (i.e., by applying algebraic techniques);
+
