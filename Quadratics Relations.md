@@ -1,2 +1,0 @@
-[New] Solving Problems Involving Quadratic Relations
-– determine the zeros and the maximum or minimum value of a quadratic relation from its graph (i.e., using graphing calculators or graphing software) or from its defining equation (i.e., by applying algebraic techniques);
