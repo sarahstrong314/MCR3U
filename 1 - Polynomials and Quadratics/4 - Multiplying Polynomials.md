@@ -3,9 +3,9 @@ How Do We Multiply Polynomials?
 
 ### Multiplying Terms
 Recall that a term is a product of constants and variables. To multiply two terms, we multiply the constants and variables they're made up of.
-For example, to multiple 3x and 4x^2, we simplify 3 \times x \times 4 \times x \times x to get 12x^3. In other words, all we have to do is multiply the coefficients and add the degrees for each variable.
+For example, to multiple 3x and 4x^2, we simplify 3 × x × 4 × x × x to get 12x^3. In other words, all we have to do is multiply the coefficients and add the degrees for each variable.
 
-Here is another example. -3x^2y \times 2x^3y^2 = -6x^5y^3
+Here is another example. -3x^2y × 2x^3y^2 = -6x^5y^3
 
 
 ### Multiplying Polynomials

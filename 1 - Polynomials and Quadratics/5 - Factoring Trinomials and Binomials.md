@@ -4,7 +4,7 @@ Factoring Trinomials and Binomials
 ### Definitions
 * A **factor of a term** is another term that divides into the term.
 
- Example: 2x is a factor of 4x since 2x \times 2 = 4x.
+ Example: 2x is a factor of 4x since 2x × 2 = 4x.
 
 * A **factor of a polynomial** is a term or polynomial that divides into the polynomial.
 
@@ -12,7 +12,7 @@ Factoring Trinomials and Binomials
  
 * A **root of a polynomial** is a value of its variables that results in the polynomial evaluating to zero. A root can also be called a **zero**.
 
- Example: x=-1/2 is a root of 2x^2 + 5x + 2 since 2(-1/2)^2 + 5(-1/2) + 2 = 0.
+ Example: x = -1/2 is a root of 2x^2 + 5x + 2 since 2(-1/2)^2 + 5(-1/2) + 2 = 0.
 
  * **Factoring a polynomial** is the process of changing it from a sum of terms to a product of factors.
  
@@ -24,9 +24,9 @@ One way of factoring a polynomial is to find a common factor among all the terms
 
 
 ### Factoring x^2 + bx + c
-To factor a trinomial in the form x^2 + bx + c, we need to find its roots. If it does have roots, say s and t, they will have the following property: s + t = b and s\times t = c. When we find s and t, the factored form is simply (x - s)(x - t).
+To factor a trinomial in the form x^2 + bx + c, we need to find its roots. If it does have roots, say s and t, they will have the following property: s + t = b and st = c. When we find s and t, the factored form is simply (x - s)(x - t).
 
-For example, we can factor x^2 + 5x - 14 by determining through guess-and-check that 7 + (-2) = 5 and 7 \times -2 = -14, so x^2 + 5x - 14 = (x + 7)(x - 2).
+For example, we can factor x^2 + 5x - 14 by determining through guess-and-check that 7 + (-2) = 5 and 7 × -2 = -14, so x^2 + 5x - 14 = (x + 7)(x - 2).
 
 Not all trinomials in the form x^2 + bx + c has roots. The ones that do not have any cannot be factored.
 
@@ -34,14 +34,14 @@ Not all trinomials in the form x^2 + bx + c has roots. The ones that do not have
 ### Factoring ax^2 + bx + c
 To factor a trinomial in the form ax^2 + bx + c, we can follow a similar process as when a = 1, but with some extra steps.
 
-1. Find two constants, s and t, that have the property s + t = b, s \times t = a \times c. If s and t do not exist, it cannot be factored.
+1. Find two constants, s and t, that have the property s + t = b, st = ac. If s and t do not exist, it cannot be factored.
 2. Rewrite ax^2 + bx + c as ax^2 + sx + tx + c.
 3. Rewrite it by factoring ax^2 + sx, then factoring tx + c. There will be a common factor among both of them.
 4. Factor out the common factor.
 
 Here is an example using 2x^2 + 5x + 2.
 
-We want two constants s and t such that s + t = 5 and s \times t = 4. The solution s = 1 and t = 4 works. We could also use s = 4 and t = 1.
+We want two constants s and t such that s + t = 5 and st = 4. The solution s = 1 and t = 4 works. We could also use s = 4 and t = 1.
 2x^2 + 5x + 2 = 2x^2 + x + 4x + 2 = x(2x + 1) + 2(2x +1)= (2x + 1)(x + 2).
 
 
