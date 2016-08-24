@@ -1,4 +1,4 @@
-How Do We Find The Roots of A Quadratic Relation?
+Finding The Roots of Quadratic Relations
 -------
 
 ### Standard Form vs. Factored Form

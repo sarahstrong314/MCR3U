@@ -14,7 +14,7 @@ Factoring Trinomials and Binomials
 
  Example: x = -1/2 is a root of 2x^2 + 5x + 2 since 2(-1/2)^2 + 5(-1/2) + 2 = 0.
 
- * **Factoring a polynomial** is the process of changing it from a sum of terms to a product of factors.
+* **Factoring a polynomial** is the process of changing it from a sum of terms to a product of factors.
  
  Example: (2x + 1)(x + 2) is the factored form of x^2 + 5 + 2.
 
@@ -53,4 +53,4 @@ We want two constants s and t such that s + t = 5 and st = 4. The solution s = 1
 
 When a binomial is a difference of squares, it can always be factored. a^2 - b^2 = (a-b)(a+b), where a and b are both terms.
 
-For example, 9x^2 - 4 = (3x - 2)(3x + 2), and 16x^4 - x^2 = (4x^2 - x)(4x^2 + x)
+For example, 9x^2 - 4 = (3x - 2)(3x + 2), and 16x^4 - x^2 = (4x^2 - x)(4x^2 + x).

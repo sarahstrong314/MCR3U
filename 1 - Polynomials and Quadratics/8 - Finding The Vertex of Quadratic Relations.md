@@ -1,4 +1,4 @@
-How Do We Find the Vertex of a Quadratic Relation?
+Finding the Vertex of Quadratic Relations
 -------
 
 ### Maxima vs. Minima
