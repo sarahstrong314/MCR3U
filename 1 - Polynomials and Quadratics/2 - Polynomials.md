@@ -15,7 +15,7 @@ Polynomials
 
  Example: x^4 is the leading term of 7x^3 + 6x + x^4
 
- * The **degree of a polynomial** is the degree of its leading term.
+* The **degree of a polynomial** is the degree of its leading term.
 
  Example: 4 is the degree of 7x^3 + 6x + x^4
 
@@ -26,7 +26,7 @@ Recall that a polynomial is a sum of terms. For example, 1 + 2x + x^2 is a polyn
 Here is a table showing the different parts of some polynomials.
 
 | | Constants | Coefficients | Variables | Terms | Like terms | Simplified form |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
 | 2 + x | 2 | 1 | x | 2, x | N/A | 2 + x |
 | -x + y | N/A | -1, 1 | x, y | N/A | -x + y |
 | 2x - x^2 + y | N/A | 2, -1, 1  | x, y | N/A | 2x - x^2 + y |
@@ -39,12 +39,11 @@ The word "polynomial" comes from two Greek words: "polys" (many) and "nomos" (pa
 
 There are different names for polynomials with a certain number of terms.
 
+* A **monomial** is a reduced polynomial with one term.
 
-* A *monomial* is a reduced polynomial with one term.
+* A **binomial** is a reduced polynomial with two terms.
 
-* A *binomial* is a reduced polynomial with two terms.
-
-* A *trinomial* is a reduced polynomial with three terms.
+* A **trinomial** is a reduced polynomial with three terms.
 
 
 "Monos" means single in Greek, "bis" means twice in Latin, and "tres" means three in Latin.
