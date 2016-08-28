@@ -1,3 +1,8 @@
+---
+title: readme
+---
+
+
 # MCR3U
 
 1. Polynomials and Quadratics
