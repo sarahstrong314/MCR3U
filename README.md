@@ -25,9 +25,9 @@ title: readme
 5. Trigonometry and Sinusoidal Functions
 
 6. Sequences and Series
- * What sequences are
- * How to express and solve for arithmetic and geometric sequences
- * What series are
+ * What sequences are and how to express them
+ * How to solve for arithmetic and geometric sequences
+ * What series are and how to express them
  * How to express and solve for arithmetic and geometric series
 
 7. Annuities
