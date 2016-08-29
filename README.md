@@ -20,14 +20,24 @@ title: readme
 
 3. Function Transformations
 
-4. Exponential Expressions and Exponential Functions
+4. Exponents and Radicals
+ * Power Rules
+ * Negative Exponents and Reciprocals
+ * Rational Exponents and Radicals
+ * Adding Radical Expressions
+ * Multiplying Radical Expressions
 
-5. Trigonometry and Sinusoidal Functions
+5. Exponential Functions
 
-6. Sequences and Series
+6. Trigonometry 
+
+7. Sinusoidal Functions
+
+8. Sequences and Series
  * What sequences are and how to express them
  * How to solve for arithmetic and geometric sequences
  * What series are and how to express them
- * How to express and solve for arithmetic and geometric series
+ * What the Binomial Theorem is and what it means
+ * How to solve for arithmetic and geometric series
 
-7. Annuities
+9. Annuities

@@ -1,4 +1,0 @@
-Simplifying Exponential Expressions
--------
-
-TODO
