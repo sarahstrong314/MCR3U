@@ -21,11 +21,9 @@ title: readme
 3. Function Transformations
 
 4. Exponents and Radicals
- * Power Rules
- * Negative Exponents and Reciprocals
- * Rational Exponents and Radicals
- * Adding Radical Expressions
- * Multiplying Radical Expressions
+ * What some useful power rules are
+ * What negative and rational exponents mean
+ * How to add and multiply rational expressions
 
 5. Exponential Functions
 
