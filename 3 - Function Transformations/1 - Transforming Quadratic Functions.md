@@ -1,4 +1,0 @@
-Transforming Quadratic Functions
--------
-
-TODO

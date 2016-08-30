@@ -1,4 +1,0 @@
-Transforming Polynomial Functions
--------
-
-TODO

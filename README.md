@@ -19,6 +19,11 @@ title: readme
  * What polynomial, exponential, trigonometric, and discrete functions are
 
 3. Function Transformations
+ * What families of functions and parent functions are
+ * How to shift a function vertically or horizontally
+ * How to find transformations of quadratics in factored or vertex form
+ * How to stretch or compress a function vertically or horizontally
+ * How to reflect a function along the x-axis or y-axis
 
 4. Exponents and Radicals
  * What some useful power rules are
