@@ -35,14 +35,14 @@ To tell whether a set of ordered pairs or a table of values is a function, check
 
 (1,1), (1,4), (2,6), (5,2), (3,7) is not a function since the x-coordinate 1 has two corresponding y-coordinates, 1 and 4.
 
- The following table of values is a function since each x-coordinate has only one corresponding y-coordinate.
+The following table of values is a function since each x-coordinate has only one corresponding y-coordinate.
 
- | x | y |
- | --- | --- |
- | 0 | -1 |
- | 1 | 10 |
- | 2 | 8 |
- | 3 | -11 |
+| x | y |
+| --- | --- |
+| 0 | -1 |
+| 1 | 10 |
+| 2 | 8 |
+| 3 | -11 |
 
 
 To tell whether a graph of a relation is a function, use the **vertical-line test**. This involves holding a straight-edge, such as a ruler, parallel to the y-axis and moving it along to see whether it hits two or more points of the relation at once. If it does not, the relation is a function.
