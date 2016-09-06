@@ -21,7 +21,7 @@ The inverse of any polynomial function is a radical relation, which uses the roo
 
 *** Inverses of Exponential Functions
 
-The inverse of an exponential function is called a **logarithmic function**. The exponential function y = 2^x has the solution x = log_2y. We will be learning about logarithmic functions later on in the course.
+The inverse of an exponential function is called a **logarithmic function**. The exponential function y = 2^x has the solution x = log_2y. Logarithmic functions are not covered in the course, but are covered in *Advanced Functions*.
 
 
 *** Inverses of Trigonometric Functions
