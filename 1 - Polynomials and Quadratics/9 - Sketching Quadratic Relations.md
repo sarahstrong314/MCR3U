@@ -1,9 +1,6 @@
 Sketching Quadratic Relations
 -------
 
-### Cartesian Planes
-TODO
-
 ### Finding Important Points of a Quadratic
 To sketch a linear relation, we need at least two points, but to sketch a quadratic relation, we need at least three points. To sketch as accurately as possible, we should find the vertex, the roots, and the y-intercept. If there are no roots, we can find some other points by substituting convenient values of x.
 
