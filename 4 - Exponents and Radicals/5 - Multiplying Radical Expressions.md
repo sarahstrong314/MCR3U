@@ -1,4 +1,0 @@
-Multiplying Radical Expressions
--------
-
-TODO
