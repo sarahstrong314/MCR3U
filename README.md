@@ -28,7 +28,7 @@ title: readme
 4. Exponents and Radicals
  * What some useful power rules are
  * What negative and rational exponents mean
- * How to add and multiply rational expressions
+ * How to simplify, add, and multiply radical expressions
 
 5. Exponential Functions
 
