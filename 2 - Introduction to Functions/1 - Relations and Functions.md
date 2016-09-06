@@ -59,7 +59,9 @@ When we name a function f and x is the independent variable, the dependent varia
 Here are examples of functions written as equations.
 
 f(x) = x + 1
+
 g(x) = x^2 + 3x - 2
+
 h(x) = ax^3 - 5x
 
 By writing them using function notation, we can easily refer to each function without confusing them. We also know for sure that a in function h is a constant, because if it were another variable we'd write h(x,a) instead.
