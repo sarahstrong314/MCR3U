@@ -1,11 +1,11 @@
 Introduction to Discrete Functions
 -------
 
-### Continuous Discrete Functions
+### Continuous and Discrete Functions
 
-A **continuous function** is a function whose domain is a continuous range of real numbers. All continuous functions can be graphed and traced without lifting up your pencil.
+A **continuous function** is a function whose domain is a continuous range of real numbers. All continuous functions can be graphed and traced without lifting up the pencil.
 
-Polynomial, exponential, and sinusoidal functions are all examples of continuous functions. Rational functions are not continuous functions.
+Polynomial, exponential, and sinusoidal functions are all examples of continuous functions.
 
 A **discrete function** is a function that can be written explicitly as a finite number of ordered pairs. All discrete functions can be graphed by drawing a dot for each coordinate.
 
@@ -16,7 +16,7 @@ Another example of a sequence is 1, 1, 2, 6, 24, 120, 720, ... which is the fact
 
 ### Arithmetic and Geometric Sequences
 
-A *sequence** is an infinite ordered list of numbers.
+A **sequence** is an infinite ordered list of numbers.
 
 In this course, we will be focussing on two categories of sequences: arithmetic and geometric sequences.
 
@@ -24,7 +24,7 @@ An **arithmetic sequence** is a sequence in which each pair of consecutive terms
 
 For example, the sequence 1, 3, 5, 7, 9, ... is an arithmetic sequence where a = 1 and d = 2.
 
-A **geometric sequence** is a sequence in which each pair of consecutive terms have the ratio. Th quotient of the **ratio** is denoted by the constant r. The first term in a geometric sequence is also denoted by the constant a.
+A **geometric sequence** is a sequence in which each pair of consecutive terms have the ratio. The quotient of the **ratio** is denoted by the constant r. The first term in a geometric sequence is also denoted by the constant a.
 
 For example, the sequence 1, 3, 9, 27, 81, ... is a geometric sequence where a = 1 and r = 3.
 
