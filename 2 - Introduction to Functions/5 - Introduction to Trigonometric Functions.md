@@ -38,9 +38,8 @@ Unlike polynomial or exponential functions, sinusoidal functions have a repeatin
 Sinusoidal functions also have infinitely many maxima and minima. The **amplitude** is half the distance between the maximum value and minimum value.
 
 
-### Real-life Trigonometric Patterns
+### Real-life Trigonometric Functions
 
 * Tides
-* Compound interest
-* Chemical reactions
-* Radioactivity
+* Sound waves
+* Circulating a fixed point

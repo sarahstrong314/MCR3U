@@ -30,4 +30,5 @@ For example, the sequence 1, 3, 9, 27, 81, ... is a geometric sequence where a =
 
 
 ### Discrete Functions and Finances
+
 TODO
