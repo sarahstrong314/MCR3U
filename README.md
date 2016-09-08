@@ -39,6 +39,8 @@ title: readme
  * How to rationalize radical expressions
 
 5. Exponential Functions
+ * How to sketch exponential functions
+ * How to apply exponential growth and decay
 
 6. Trigonometry 
 

@@ -1,4 +1,0 @@
-Exponential Expressions
--------
-
-TODO
