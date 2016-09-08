@@ -21,7 +21,7 @@ Quotient of Powers: a^n / a^m = a^(n - m)
 Proof:
 a^n / a^m = (a \times a \times ... \times a)_{n times} / (a \times a \times ... \times a)_{m times} =  (a \times a \times ... \times a)_{m - n times} = a^(m - n)
 
-Power of Quotient: (a/b)^n = a^n/b^n
+Power of Quotients: (a/b)^n = a^n/b^n
 
 Proof:
 (a/b)^n  = (a/b \times a/b \times ... \times a/b)_{n times} = (a \times a \times ... \times a)_{n times} / (b \times b \times ... \times b)_{n times} = a^n / b^n

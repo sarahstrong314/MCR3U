@@ -3,7 +3,7 @@ Rational Exponents and Radicals
 
 ### Reciprocal Exponents
 
-A **radical** is an expression that uses the root symbol: √.
+A **radical** is an expression that uses the root symbol: √. The expression under the √ symbol is called a **radicand**. The word "radical" comes from the Latin word for root, *radix*.
 
 We will be using one of the previous identities to determine the exponents of radicals.
 
