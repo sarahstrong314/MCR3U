@@ -1,0 +1,20 @@
+Solving Linear-Quadratic Systems
+-------
+
+Recall from grade 9 that solving a system of equations involves finding points of intersection. This is what we will be doing, except with both linear and quadratic relations.
+
+When we graph a linear relation and a quadratic relation on the same plane, there are three possibilities for how they intersect. They either intersect 0 times, exactly once, or exactly twice.
+
+Here are some examples:
+
+y = -1 and y = x^2 do not intersect.
+
+y = x and y = x^2 intersect exactly once at (0,0).
+
+y = x + 2 and y = x^2 intersect exactly twice at (-1, 1) and (2, 4).
+
+Since we know how to graph both linear and quadratic relations, one way to find their intersections is to graph them and find where the two relations intersect.
+
+To find the intersections without graphing, we simply equate them and solve for the roots.
+
+For example, to find the intersections of y = x + 2 and y = x^2, find the solutions to x + 2 = x^2. We get 0 = x^2 - x - 2 = (x + 1)(x - 2), so the roots are when x = -1 and x = 2. This tells us that y = x + 2 and y = x^2 intersect when x = -1 and x = 2. Now we plug those values into either y = x + 2 or y = x^2, to get the points (-1, 1) and (2, 4).

@@ -12,6 +12,7 @@ title: readme
  * What a quadratic relation is
  * How to finding the roots and vertices of quadratic relations
  * How to sketch quadratic relations
+ * How to solve linear-quadratic systems
 
 2. Introduction to Functions
  * What relations and functions are
