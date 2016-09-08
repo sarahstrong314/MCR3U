@@ -5,10 +5,15 @@ title: readme
 
 # MCR3U
 
-1. Polynomials and Quadratics
+0. Polynomials and Rational Expressions
  * What terms and polynomials are
  * How to add, subtract, and multiply polynomial expressions
  * How to factor certain types of trinomials and binomials
+ * What rational expressions are
+ * How to multiply and divide rational expressions
+ * How to add and subtract rational expressions
+
+1. Polynomials and Quadratics
  * What a quadratic relation is
  * How to finding the roots and vertices of quadratic relations
  * How to sketch quadratic relations
