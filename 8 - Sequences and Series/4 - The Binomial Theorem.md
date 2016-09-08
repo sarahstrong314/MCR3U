@@ -12,9 +12,9 @@ We can plug in various values of n and expand the binomial to try to find a tren
 (x + y)^5 = x^5 + 5x^4y + 10x^3y^2 + 10x^y^3 + 5xy^4 + y^5
 
 If we look at the coefficients of each term in the expansion, we get the nth row of Pascal's Triangle.
-The kth value in the nth row of Pascal's Triangle is denoted \binom{n}{k}, pronounced n choose k
+The kth value in the nth row of Pascal's Triangle is denoted \binom{n}{k}, pronounced n choose k. This is covered in more detail in *Mathematics of Data Management*.
 
 If we look at the degrees of x, it starts at n and decreases by 1 each time.
 If we look at the degrees of y, it starts at 0 and increases by 1 each time.
 
-If we put this all together, we get: (x + y)^n = \sum_{i=0}^n{\binom{n}{k}x^{n-i}y^i}
+If we put this all together, we get: (x + y)^n = \sum_{i=0}^n{\binom{n}{k}x^{n-i}y^i}.
