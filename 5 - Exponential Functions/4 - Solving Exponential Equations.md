@@ -1,4 +1,4 @@
-Solving Exponential Functions
+Solving Exponential Equations
 -------
 
 We know how to evaluate expressions with exponents, but what about solving for variables in the exponent. For example, how would we find the value of x in 256 = 2^x? 

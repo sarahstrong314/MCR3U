@@ -41,7 +41,7 @@ title: readme
 5. Exponential Functions
  * How to sketch exponential functions
  * How to apply exponential growth and decay
- * How to solve exponential functions
+ * How to solve exponential equations
 
 6. Trigonometry 
 
