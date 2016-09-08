@@ -9,6 +9,6 @@ Many applications of exponential growth involve functions that are in the form f
 
 The previous example can be modelled with the function f(x) = 3(2)^x, since the initial amount was 3, and it is growing by a factor of 2 every term.
 
-To solve problems involving predicting how much something grows after a period of time, all we have to do is write it as a function and plug in the desired value for the independent variable.
+To solve problems involving predicting how much something grows after a period of time, all we have to do is model it as a function and plug in the desired value for the independent variable.
 
 A common application of exponential growth is bacteria population. Different bacteria grow exponentially by different factors. If there are 100 of a certain kind of bacteria that triples every two minutes, its growth can be modelled with the function f(x) = 100(3)^(x/2), where x is the number of minutes.

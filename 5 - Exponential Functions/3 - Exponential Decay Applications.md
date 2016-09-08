@@ -9,6 +9,6 @@ Many applications of exponential decay involve functions that are in the form f(
 
 The previous example can be modelled with the function f(x) = 48(1/2)^x, since the initial amount was 48, and it is decaying by a factor of 1/2 every term.
 
-To solve problems involving predicting how much something decays after a period of time, all we have to do is write it as a function and plug in the desired value for the independent variable.
+To solve problems involving predicting how much something decays after a period of time, all we have to do is model it as a function and plug in the desired value for the independent variable.
 
 A common application of exponential decay is decaying chemical elements. Unstable chemical elements have what is called a **half-life**, the amount of time it takes for half of it to decay. If there is 100 mg of a certain chemical element with a half-life of 50 years, its decay can be modelled with the function f(x) = 100(1/2)^(x/50).
