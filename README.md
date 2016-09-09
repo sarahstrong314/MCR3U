@@ -54,4 +54,7 @@ title: readme
  * What the Binomial Theorem is and what it means
  * How to solve for arithmetic and geometric series
 
-9. Annuities
+9. Financial Applications
+ * What simple interest and compound interest are
+ * How to solve financial problems involving simple and compound interest
+ * What annuities are and how to solve problems involving them
