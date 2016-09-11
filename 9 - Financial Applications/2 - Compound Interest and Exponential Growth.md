@@ -22,16 +22,13 @@ The following table shows a list of common methods of compounding.
 
 ### Formulae
 
-The amount after *n* compounding periods can be calculated using A = P(1 + i)^n.
+The amount after *n* compounding periods can be calculated using A = P(1 + i)^n. To understand this formula, note that after each compounding period, the current amount increases by a rate of i, which is the same as multiplying it by 1 + i. Therefore, after *n* compounding periods, the amount is P(1 + i)^n. 
 
 If we are solving for the principal, we can rearrange the formula above to get FV = \frac{PV}{(1+i)^n}. The present value is the principal, and the future value is the amount.
 
+These formulae can be applied only when money is deposited or lent on only one occasion. If money is constantly being deposited or lent, we are not dealing with compound interest. 
 
-### Applications of Compound Interest
-
-Compound interest can be applied only when money is deposited or lent on only one occasion. If money is constantly being deposited or lent, we are not dealing with compound interest. 
-
-If the rate of interest is annual (i.e. per annum), we can still use the formula I = P \times r \times t, however the unit for *t* needs to match the rate *r*. For example, if the rate of interest is semi-annual (i.e., every 6 months), t would be the number of 6 month intervals that have passed.
+If the rate of interest is not annual (i.e. per annum), we would use a slightly modified formula: A = P(1 + i/n)^(nt), where t is the amount of time that has passed.
 
 
 ### Growth of Compound Interest
