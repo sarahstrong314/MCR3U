@@ -11,7 +11,7 @@ Compound Interest and Exponential Growth
 The following table shows a list of common methods of compounding.
 
 | Frequency of Compounding | Number of Times Interest is Added During a Year |
-|---| ---|
+| --- | --- |
 | Annual | 1 (every year) 
 | Semi-annual | 2 (every 6 months)|
 | Quarterly | 4 (every 3 months) |
