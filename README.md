@@ -44,6 +44,12 @@ title: readme
  * How to solve exponential equations
 
 6. Trigonometry 
+ * What special right triangles are and how to use them to find exact values of special angles
+ * What the unit circle is and how it ties in to trigonometry
+ * What related angles are and how to use them to find angles with the same trigonometric ratio values
+ * What SOHCAHTOA, the sine law, and the cosine law and how to use them to solve for missing side and angles of triangles
+ * How to apply SOHCAHTOA, sine law, and cosine law to 3D problems
+ * How to prove trigonometric identities
 
 7. Sinusoidal Functions
 

@@ -1,0 +1,25 @@
+Related Angles
+-------
+
+A **related angle** of a given angle is the acute angle at which the trigonometric ratios have the same magnitude. If the given angle is \theta, the related angle is often denoted \theta_r.
+
+To locate the related angle, first draw the angle in standard position. If the terminal arm is on the positive side of the x-axis, draw a new initial arm along the positive x-axis, and otherwise draw it on along the negative x-axis. The related angle is between the new initial arm and the terminal arm.
+
+Here are some examples.
+
+| \theta | sin\theta | cos\theta | tan \theta | \theta_r | sin\theta_r | cos\theta_r | tan \theta_r |
+| --- | --- | --- | --- | --- | --- | --- | --- | 
+| 135° | \sqrt(2)/2 | -\sqrt(2)/2 | -1 | 45° | \sqrt(2)/2 | \sqrt(2)/2 | 1 |
+| 240° | -\sqrt(3)/2 | -1/2 | \sqrt(3) | 60° | \sqrt(3)/2 | 1/2 | \sqrt(3) |
+| 330° | -1/2 | \sqrt(3)/2 | -\sqrt(3) | 30° | 1/2 | \sqrt(3)/2 | \sqrt(3) |
+
+Here a table summarizing how to find the related angle of any angle between 0° and 360°, without having to use a Cartesian Plane.
+
+| Quadrant of angle \theta | related angle |
+| --- | --- | --- | --- | 
+| 1  | \theta |
+| 2 | 180° - \theta | 
+| 3 | \theta - 180° | 
+| 4 | 360° - \theta | 
+
+To find two angles from 0° to 360° for which the value of a given trigonometric ratio is the same, first determine the quadrant, other than Q1 for which the trigonometric ratio is positive. We can pick any angle in that quadrant, then find its related angles. The value of the trigonometric ratio for both of the angles will be the same.
