@@ -48,8 +48,7 @@ title: readme
  * What the unit circle is and how it ties in to trigonometry
  * What related angles are and how to use them to find angles with the same trigonometric ratio values
  * What SOHCAHTOA, the sine law, and the cosine law and how to use them to solve for missing side and angles of triangles
- * How to apply SOHCAHTOA, sine law, and cosine law to 3D problems
- * How to prove trigonometric identities
+ * How to prove some trigonometric identities
 
 7. Sinusoidal Functions
 
