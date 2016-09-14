@@ -1,7 +1,7 @@
 Introduction to Exponential Functions
 -------
 
-*** Examples of Exponential Functions
+### Examples of Exponential Functions
 
 Here are examples of **exponential functions**.
 
@@ -16,7 +16,7 @@ f(x) = 2*4^(x + 3) + 3
 All exponential functions have the independent variable occurring only once in an exponent.
 
 
-*** Properties of Exponential Functions
+### Properties of Exponential Functions
 
 The **base** of an exponential function is the base to the exponent the variable is in. 
 

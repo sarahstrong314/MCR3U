@@ -1,7 +1,7 @@
 Introduction to Trigonometric Functions
 -------
 
-*** Trigonometric Ratios
+### Trigonometric Ratios
 
 Recall the three primary trigonometric ratios: sine (sin), cosine (cos), and tangent (tan).
 
@@ -14,7 +14,7 @@ For each of these six ratios, we also have inverses: sin^-1, cos^-1, tan^-1, csc
 Trigonometric functions are functions using these twelve ratios, but in this course we will be working with only the first six.
 
 
-*** Examples of Trigonometric Functions
+### Examples of Trigonometric Functions
 
 Here are examples of **trigonometric functions**.
 
@@ -29,11 +29,11 @@ f(x) = csc(-x + 90)
 In this course, the independent variable x will be measured in degrees.
 
 
-*** Properties of Sinusoidal Functions
+### Properties of Sinusoidal Functions
 
 **Sinusoidal** functions are functions that use the sine and cosine ratios.
 
-Unlike polynomial or exponential functions, sinusoidal functions have a repeating pattern. After a certain horizontal distance, called the **period**, the function will repeat itself. 
+Unlike polynomial or exponential functions, sinusoidal functions are **periodic functions**, meaning they have a repeating pattern. After a certain horizontal distance, called the **period**, the function will repeat itself. 
 
 Sinusoidal functions also have infinitely many maxima and minima. The **amplitude** is half the distance between the maximum value and minimum value.
 
