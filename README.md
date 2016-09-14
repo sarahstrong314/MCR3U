@@ -51,6 +51,9 @@ title: readme
  * How to prove some trigonometric identities
 
 7. Sinusoidal Functions
+ * How to graph sinusoidal functions
+ * How to identify key properties of sinusoidal functions
+ * How to apply sinusoidal functions to situations not involving angles
 
 8. Sequences and Series
  * What sequences are and how to express them

@@ -20,11 +20,11 @@ Here are examples of **trigonometric functions**.
 
 f(x) = sin(x)
 
-f(x) = -sin(x + 30)
+f(x) = -sin(x + 30°)
 
-f(x) = tan(2x - 60)
+f(x) = tan(2x - 60°)
 
-f(x) = csc(-x + 90)
+f(x) = csc(-x + 90°)
 
 In this course, the independent variable x will be measured in degrees.
 
