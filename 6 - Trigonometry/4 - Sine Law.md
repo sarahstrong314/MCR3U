@@ -1,4 +1,4 @@
-The Sine Law
+Sine Law
 -------
 
 When we are solving for missing sides or angles in right triangles, we can always use SOHCAHTOA or the Pythagorean Theorem. However, we cannot use them the triangle is not a right triangle.

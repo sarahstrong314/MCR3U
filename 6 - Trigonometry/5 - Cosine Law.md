@@ -1,4 +1,4 @@
-The Cosine Law
+Cosine Law
 -------
 
 Not every triangle can be solved using the Sine Law. When we have two sides and the angle between them, or we have three sides, we need another means.
