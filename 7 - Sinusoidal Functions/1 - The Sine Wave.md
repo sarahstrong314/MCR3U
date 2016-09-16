@@ -5,7 +5,7 @@ The Sine Wave
 
 Recall the sine values of some of the special angles.
 
-| \theta | sin\theta |
+| θ | sinθ |
 | --- | --- |
 | 0° | 0 |
 | 30° | 1/2 |
@@ -14,16 +14,16 @@ Recall the sine values of some of the special angles.
 
 Recall the following table for finding related angles.
 
-| Quadrant of angle \theta | related angle |
+| Quadrant of angle θ | Related angle |
 | --- | --- | --- | --- | 
-| 1  | \theta |
-| 2 | 180° - \theta | 
-| 3 | \theta - 180° | 
-| 4 | 360° - \theta | 
+| 1  | θ |
+| 2 | 180° - θ | 
+| 3 | θ - 180° | 
+| 4 | 360° - θ | 
 
 We can use this along with the CAST rule to finish the rest of the table of values using increments of 30° up to 360°.
 
-| \theta | sin\theta |
+| θ | sinθ |
 | --- | --- |
 | 0° | 0 |
 | 30° | 1/2 |
@@ -48,7 +48,7 @@ Going through the same procedure as for the sine function, we can come up with t
 
 We can use this along with the CAST rule to finish the rest of the table of values using increments of 30° up to 360°.
 
-| \theta | cos\theta |
+| θ | cosθ |
 | --- | --- |
 | 0° | 1 |
 | 30° | \sqrt3/2 |
@@ -74,7 +74,7 @@ By plotting these points and connecting them with a smooth curve, we see that it
 
 Both the sine and cosine function have infinitely many increasing and decreasing intervals.
 
-In the function f(\theta) = cos(\theta), (0°, 180°) is a decreasing interval and (180°, 360°) is an increasing interval. At the maxima and minima, the function is considered to be neither increasing not decreasing.
+In the function f(θ) = cosθ, (0°, 180°) is a decreasing interval and (180°, 360°) is an increasing interval. At the maxima and minima, the function is considered to be neither increasing not decreasing.
 
 Since the cosine function repeats itself after every 360°, all of the decreasing intervals start at a multiple of 360° and end 180° later. We can express all decreasing intervals as (k360°, k360° + 180°), k \in \mathbb{Z}. Similarly, we can express all increasing intervals as (k360° - 180°, k360°), k \in \mathbb{Z}.
 

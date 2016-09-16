@@ -1,4 +1,4 @@
-Sequence Notation
+Sequence Notations
 -------
 
 ### Arithmetic Sequences
@@ -32,6 +32,6 @@ Sometimes, t_n used instead of t(n), where the t in t_n just means the nth term.
 
 To represent a sequence with recursive formula, we need the initial term(s) and an general expression for the other terms based on its previous term(s).
 
-An arithmetic sequence represented as a recursive formula is t(1) = a, t(n) = t(n-1) + d, n \ge 1.
+An arithmetic sequence represented as a recursive formula is t(1) = a, t(n) = t(n-1) + d, n ≤ 1.
 
-A geometric sequence represented as a recursive formula is t(1) = a, t(n) = rt(n-1), n \ge 1.
+A geometric sequence represented as a recursive formula is t(1) = a, t(n) = rt(n-1), n ≤ 1.

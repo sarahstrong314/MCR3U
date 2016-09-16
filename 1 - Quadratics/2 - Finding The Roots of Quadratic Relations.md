@@ -2,9 +2,9 @@ Finding The Roots of Quadratic Relations
 -------
 
 ### Standard Form vs. Factored Form
-A quadratic relation is in **standard form** if it is in the form y = ax^2 + bx + c, for some constants a \ne 0, b, and c.
+A quadratic relation is in **standard form** if it is in the form y = ax^2 + bx + c, for some constants a ≠ 0, b, and c.
 
-A quadratic relation is in **factored form** if it is in the form y = a(x-s)(x-t), for some constants a \ne 0, s, and t. 
+A quadratic relation is in **factored form** if it is in the form y = a(x-s)(x-t), for some constants a ≠ 0, s, and t. 
 
 
 ### The Roots of a Quadratic Relation

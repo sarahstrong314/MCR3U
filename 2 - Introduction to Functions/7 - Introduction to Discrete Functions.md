@@ -11,7 +11,7 @@ A **discrete function** is a function that can be written explicitly as a finite
 
 Some types of discrete functions are not often graphed. For examples, the Fibonacci Sequence is an example of a discrete function, and it is often simply written as a list of values: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ... In this case, the independent variable is the term number, and the dependent variable is the value.
 
-Another example of a sequence is 1, 1, 2, 6, 24, 120, 720, ... which is the factorial function. The factorial function, denoted by an exclamation mark, is defined as n! = n(n-1)(n-2)...(2)(1) where n \in \mathbb{Z}_\ge{0}. In other words, the factorial of an integer greater than or equal to 0 is that number multiplied by every other positive integer less than it. 2! = 2 \times 1 = 2, 3! = 3 \times 2 \times 1 = 6, and 4! = 4 \times 3 \times 2 \times 1 = 24. The factorial function is a discrete function since the domain is only natural numbers and 0.
+Another example of a sequence is 1, 1, 2, 6, 24, 120, 720, ... which is the factorial function. The factorial function, denoted by an exclamation mark, is defined as n! = n(n-1)(n-2)...(2)(1) where n \in \mathbb{Z}, n ≤ 0. In other words, the factorial of an integer greater than or equal to 0 is that number multiplied by every other positive integer less than it. 2! = 2 × 1 = 2, 3! = 3 × 2 × 1 = 6, and 4! = 4 × 3 × 2 × 1 = 24. The factorial function is a discrete function since the domain is only natural numbers and 0.
 
 
 ### Arithmetic and Geometric Sequences

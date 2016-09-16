@@ -28,6 +28,6 @@ a^(n/m) is the mth root of a^n, and also the nth power of the mth root of a.
 
 ### Distribution Rules of Radicals
 
-We know that a^n \times b^n = (ab)^n. We proved that this works when n is a natural number. It also works when n is a rational number, as long as a and b are not both negative.
+We know that a^n × b^n = (ab)^n. We proved that this works when n is a natural number. It also works when n is a rational number, as long as a and b are not both negative.
 
-If n = 1/2, we get sqrt(a) \times \sqrt(b) = \sqrt(ab).
+If n = 1/2, we get sqrt(a) × \sqrt(b) = \sqrt(ab).

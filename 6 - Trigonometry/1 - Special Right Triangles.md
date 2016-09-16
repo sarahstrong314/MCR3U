@@ -11,20 +11,20 @@ Observe the following two right triangles.
 
 These are called **special right triangles** because they are right triangles that have only special angles. One of the sides in each special triangle has length 1.
 
-Recall SOHCAHTOA, the acronym that reminds us that in every right triangle with an acute angle \theta, sin\theta = OPP/HYP, cos\theta = ADJ/OPP, tan\theta = OPP/ADJ, where OPP is the side opposite of the angle \theta, ADJ is the adjacent side, and HYP is the hypotenuse. \theta, pronounced "theta", is a Greek letter than is commonly used to represent an angle size.
+Recall SOHCAHTOA, the acronym that reminds us that in every right triangle with an acute angle θ, sinθ = OPP/HYP, cosθ = ADJ/OPP, tan\theta = OPP/ADJ, where OPP is the side opposite of the angle θ, ADJ is the adjacent side, and HYP is the hypotenuse. θ, pronounced "theta", is a Greek letter than is commonly used to represent an angle size.
 
 We can use SOHCAHTOA and the special triangles to evaluate the exact values of the sine, cosine, and tangent of 30°, 45°, and 60°.
 
 Using the 30°-60°-90° triangle, we get the following.
 
-|\theta | ADJ | OPP | HYP | sin\theta | cos\theta | tan\theta |
+| θ | ADJ | OPP | HYP | sinθ | cosθ | tanθ |
 | --- | --- | --- | --- | --- | --- | --- |
 | 30° | \sqrt(3) | 1 | 2 | 1/2 | \sqrt(3)/2 | \sqrt(3) |
 | 60° | 1 | \sqrt(3) | 2 | \sqrt(3)/2 | 1/2 | 1/\sqrt(3) = \sqrt(3)/3 |
 
 Using the 45-45-90 triangle, we get the following.
 
-| \theta | ADJ | OPP | HYP | sin\theta | cos\theta | tan\theta |
+| θ | ADJ | OPP | HYP | sinθ | cosθ | tanθ |
 | --- | --- | --- | --- | --- | --- | --- |
 | 45° | 1 | 1 | \sqrt(2) | 1/\sqrt(2) = \sqrt(2)/2 | 1/\sqrt(2) = \sqrt(2)/2 | 1 |
 
@@ -39,4 +39,4 @@ Two triangles are **similar** if they have the same three interior angles, but n
 
 When we have two similar triangles, one's side lengths are a scalar multiple of the other's side lengths. We can use this to solve for missing side lengths in triangles that are similar to the special right triangles.
 
-For example, if we have \DeltaABC where \angleA = 30°, \angleB = 90°, \angleC = 60°, and AC = 4, we can compare it to the 30°-60°-90° special triangle and note that the scalar multiple is 2. Then we know that BC = 2 and AC = 2\sqrt(3), since every side is multiplied by 2.
+For example, if we have ΔABC where \angleA = 30°, \angleB = 90°, \angleC = 60°, and AC = 4, we can compare it to the 30°-60°-90° special triangle and note that the scalar multiple is 2. Then we know that BC = 2 and AC = 2\sqrt(3), since every side is multiplied by 2.

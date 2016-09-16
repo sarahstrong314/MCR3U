@@ -5,15 +5,15 @@ The **unit circle** is the circle centered at the origin and with radius 1. It i
 
 To demonstrate how the unit circle can help us with trigonometry, observe the following graph below.
 
-[TODO: graph of unit circle with angle \theta labelled between x-axis and another radius]
+[TODO: graph of unit circle with angle θ labelled between x-axis and another radius]
 
-Look at the right triangle with the acute angle \theta. Since the hypotenuse is 1, sin\theta = OPP/HYP = height/1 and cos\theta = ADJ/OPP = length/1, so the height of the triangle is sin\theta and the length of the triangle is cos\theta. That means that the coordinate at the end of the hypotenuse is (sin\theta, cos\theta).
+Look at the right triangle with the acute angle θ. Since the hypotenuse is 1, sinθ = OPP/HYP = height/1 and cosθ = ADJ/OPP = length/1, so the height of the triangle is sinθ and the length of the triangle is cosθ. That means that the coordinate at the end of the hypotenuse is (sinθ, cosθ).
 
-This applies to all quadrants of the Cartesian Plane. Every coordinate on the unit circle is of the form (sin\theta, cos\theta) where \theta is the angle measured from (sin\theta, cos\theta) to (0,0) to (1,0).
+This applies to all quadrants of the Cartesian Plane. Every coordinate on the unit circle is of the form (sinθ, cosθ) where θ is the angle measured from (sinθ, cosθ) to (0,0) to (1,0).
 
 We can use the unit circle to find exact values of the trigonometric functions of the remaining special angles. By using the points (1,0), (0,1), (-1,0), and (0,-1), we get the following.
 
-| Point | \theta | cos\theta | sin\theta |
+| Point | θ | cosθ | sinθ |
 | --- | --- | --- | --- | 
 | (1,0)  | 0° | 1 | 0 | 
 | (0,1) | 90° | 0 | 1 | 
@@ -35,9 +35,9 @@ The four quadrants of the Cartesian Plane are named Q1, Q2, Q3, and Q4, starting
 
 The CAST rule tells us which primary trigonometry ratios are positive in each of the four quadrants. CAST stands for cosine, all, sine, tangent. It starts from Q4, then goes to Q1, Q2, then Q3. In the table below, "-" indicates a negative value and "+" indicates a positive value.
 
-| Quadrant | size of angle in standard position | sin\theta | cos\theta | tan\theta |
+| Quadrant | size of angle in standard position | sinθ | cosθ | tanθ |
 | --- | --- | --- | --- | 
-| 4 | 0 < \theta < 90° | - | + | - | 
-| 1 | 90 < \theta < 180° | + | + | + | 
-| 2 | 180 < \theta < 270° | + | - | - |
-| 3 | 270 < \theta < 360° | - | - | + |
+| 4 | 0 < θ < 90° | - | + | - | 
+| 1 | 90 < θ < 180° | + | + | + | 
+| 2 | 180 < θ < 270° | + | - | - |
+| 3 | 270 < θ < 360° | - | - | + |
