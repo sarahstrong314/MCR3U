@@ -39,10 +39,24 @@ The **range** of a function is the set of values that the dependent variable can
 
 Here are some examples of domains and ranges of common functions. To exclude certain values, we can write a comma then state the restrictions .
 
-| | Domain | Range |
+| Domain | Range |
 | --- | --- | --- |
 | f(x) = x | \mathbb{R} | \mathbb{R} |
 | f(x) = x^2 | \mathbb{R} | \mathbb{R} |
 | f(x) = \sqrt{x} | \mathbb{R}, x ≤ 0 | \mathbb{R}, x ≤ 0 |
 | f(x) = 1/x | \mathbb{R}, x ≠ 0 | \mathbb{R}, x ≠ 0 |
 | f(x) = 2^x | \mathbb{R} | \mathbb{R}, x > 0 |
+
+
+### Interval Notation
+
+We can also use what is called **interval notation** to express the domain and range of a function. It uses two points: the starting point and the ending point, brackets around them that determine whether the points are included or excluded from the interval.
+
+| Interval Notation | Inequality Notation |
+| --- | --- |
+| [a,b] | a ≤ x ≤ b |
+| (a,b) | a < x < b |
+| [a,b) | a ≤ x < b |
+| (a,b] | a < x ≤ b |
+
+If there is no bound in one or both of the directions, we can use −∞ for a or ∞ for b. For example, (0, ∞) is the set of positive real numbers, and (-∞, ∞) is the set of all real numbers. To denote that a given value is in an interval, we can use the \in symbol. For example, 4 \in (0, 5).
