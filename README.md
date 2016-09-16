@@ -40,8 +40,8 @@ title: readme
 
 5. Exponential Functions
  * How to sketch exponential functions
- * How to apply exponential growth and decay
  * How to solve exponential equations
+ * How to apply exponential growth and decay
 
 6. Trigonometry 
  * What special right triangles are and how to use them to find exact values of special angles
@@ -51,8 +51,8 @@ title: readme
  * How to prove some trigonometric identities
 
 7. Sinusoidal Functions
- * How to graph sinusoidal functions
- * How to identify key properties of sinusoidal functions
+ * What the sine wave is and how to graph the sine and cosine functions
+ * How to identify key properties of sinusoidal functions and use them to sketch sinusoidal functions
  * How to apply sinusoidal functions to situations not involving angles
 
 8. Sequences and Series

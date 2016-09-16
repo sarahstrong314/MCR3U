@@ -1,4 +1,4 @@
-Graphing the Sine Function and Cosine Function
+The Sine Wave
 -------
 
 ### The Sine Function

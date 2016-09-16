@@ -1,13 +1,15 @@
-Finding the Vertex of Quadratic Relations
+Finding the Vertices of Quadratic Relations
 -------
 
 ### Maxima vs. Minima
+
 All quadratic relations have either a maximum or minimum value. It has a minimum value if its *a* value in standard form or factored form is positive, and if has a maximum value if *a* is negative.
 
 Since a parabola has vertical symmetry, the axis of symmetry goes through the vertex. 
 
 
 ### Vertex Form
+
 A quadratic relation is in vertex form if it is in the form y = a(x-h)^2 + k. The vertex is (h, k).
 
 
