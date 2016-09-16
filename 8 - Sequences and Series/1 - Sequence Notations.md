@@ -1,6 +1,20 @@
 Sequence Notation
 -------
 
+### Arithmetic Sequences
+
+An **arithmetic sequence** is a sequence in which each pair of consecutive terms have the same difference. This **common difference** is denoted by the constant d. The first term in an arithmetic sequence is denoted by the constant a.
+
+For example, the sequence 1, 3, 5, 7, 9, ... is an arithmetic sequence where a = 1 and d = 2.
+
+
+### Geometric Sequences
+
+A **geometric sequence** is a sequence in which each pair of consecutive terms have the same ratio. The quotient of the **ratio** is denoted by the constant r. The first term in a geometric sequence is also denoted by the constant a.
+
+For example, the sequence 1, 3, 9, 27, 81, ... is a geometric sequence where a = 1 and r = 3.
+
+
 ### Sequences Represented with Function Notation
 
 Sequences in function notation are often denoted with the t instead of f.

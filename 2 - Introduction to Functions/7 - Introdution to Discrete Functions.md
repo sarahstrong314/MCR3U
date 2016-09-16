@@ -16,19 +16,23 @@ Another example of a sequence is 1, 1, 2, 6, 24, 120, 720, ... which is the fact
 
 ### Arithmetic and Geometric Sequences
 
-A **sequence** is an infinite ordered list of numbers.
+A **sequence** is an infinite ordered list of numbers. A sequence is an example of a discrete function.
 
 In this course, we will be focussing on two categories of sequences: arithmetic and geometric sequences.
 
-An **arithmetic sequence** is a sequence in which each pair of consecutive terms have the same difference. This **common difference** is denoted by the constant d. The first term in an arithmetic sequence is denoted by the constant a.
+An **arithmetic sequence** is a sequence in which each pair of consecutive terms have the same difference. 
 
-For example, the sequence 1, 3, 5, 7, 9, ... is an arithmetic sequence where a = 1 and d = 2.
+For example, the sequence 1, 3, 5, 7, 9, ... is an arithmetic sequence. The common difference is 2.
 
-A **geometric sequence** is a sequence in which each pair of consecutive terms have the ratio. The quotient of the **ratio** is denoted by the constant r. The first term in a geometric sequence is also denoted by the constant a.
+A **geometric sequence** is a sequence in which each pair of consecutive terms have the same ratio. 
 
-For example, the sequence 1, 3, 9, 27, 81, ... is a geometric sequence where a = 1 and r = 3.
+For example, the sequence 1, 3, 9, 27, 81, ... is a geometric sequence. The ratio is 1:3, or simply 3.
 
 
 ### Discrete Functions and Finances
 
-TODO
+Savings accounts at banks have **interest rates**, which increases the amount you have in your account at regular intervals. The amount of money in account over time can be represented as a continuous function with time as the independent variable, or as a discrete function with the number of intervals as the independent variable.
+
+Interest rates also come up when loaning money. Often, services that offer a loan charge an interest rate. The more money you borrow, the more you have to pay back.
+
+There are two kinds of interest that we will be covering in this course: **simple interest** and **compound interest**. They represent different kinds of growth.
