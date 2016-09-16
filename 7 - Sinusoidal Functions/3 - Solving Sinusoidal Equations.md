@@ -1,4 +1,4 @@
-Equations of Sinusoidal Functions
+Solving Sinusoidal Equations
 -------
 
 Recall that there are exactly two solutions to sin(\theta) = x, where 0° \ge \theta < 360° and -1 \ge x \ge 1. Same goes for solutions to cos(theta) = x.
