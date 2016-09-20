@@ -60,3 +60,16 @@ We can also use what is called **interval notation** to express the domain and r
 | (a,b] | a < x ≤ b |
 
 If there is no bound in one or both of the directions, we can use −∞ for a or ∞ for b. For example, (0, ∞) is the set of positive real numbers, and (-∞, ∞) is the set of all real numbers. To denote that a given value is in an interval, we can use the \in symbol. For example, 4 \in (0, 5).
+
+
+### Continuous and Discrete Functions
+
+A **continuous function** is a function whose domain is one interval of real numbers. All continuous functions can be graphed and traced without lifting up the pencil.
+
+All polynomial functions are continuous functions.
+
+A **discrete function** is a function that can be written explicitly as a finite number of ordered pairs. All discrete functions can be graphed by plotting a point for each coordinate.
+
+Some types of discrete functions are not often graphed. For examples, the Fibonacci Sequence is an example of a discrete function, and it is often simply written as a list of values: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ... In this case, the independent variable is the term number, and the dependent variable is the value.
+
+Not all functions are either continuous or discrete.

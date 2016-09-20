@@ -1,5 +1,8 @@
-Sequence Notations
+Introduction to Sequences
 -------
+
+A **sequence** is an ordered list of values, called **terms**.
+
 
 ### Arithmetic Sequences
 

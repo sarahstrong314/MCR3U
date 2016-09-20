@@ -1,6 +1,11 @@
 Simple Interest and Linear Growth
 -------
 
+Savings accounts at banks have **interest rates**, which increases the amount you have in your account at regular intervals. The amount of money in account over time can be represented as a continuous function with time as the independent variable, or as a discrete function with the number of intervals as the independent variable.
+
+Interest rates also come up when loaning money. Often, services that offer a loan charge an interest rate. The more money you borrow, the more you have to pay back.
+
+
 ### Definitions
 
 * A **principal**, *P*, is an amount of money initially invested or borrowed.

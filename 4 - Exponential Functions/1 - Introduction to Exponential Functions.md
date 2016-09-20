@@ -33,3 +33,8 @@ All exponential functions also have only one y-intercept.
 * Compound interest
 * Chemical reactions
 * Radioactivity
+
+
+### Inverses of Exponential Functions
+
+The inverse of an exponential function is called a **logarithmic function**. The exponential function y = 2^x has the solution x = log_2y. Logarithmic functions are not covered in the course, but are covered in *Advanced Functions*.

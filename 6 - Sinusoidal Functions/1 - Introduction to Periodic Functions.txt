@@ -1,0 +1,18 @@
+Introduction to Periodic Functions
+-------
+
+**Periodic functions** are function that have a repeating pattern. After a certain horizontal distance, called the **period**, the function will repeat itself. They have infinitely many maxima and minima. The **amplitude** is half the distance between the maximum value and minimum value.
+
+
+### Sinusoidal Functions
+
+**Sinusoidal functions** are functions that use the sine and cosine ratios (not including the arcsin or arccos functions).
+
+Unlike polynomial or exponential functions, sinusoidal functions are periodic functions. This is because sinx = sin(x + 360°) = sin(x + 720°) = ... and same goes for cosx.
+
+
+### Real-life Sinusoidal Functions
+
+* Tides
+* Sound waves
+* Circulating a fixed point

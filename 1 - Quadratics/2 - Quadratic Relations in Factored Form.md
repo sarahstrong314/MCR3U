@@ -1,0 +1,25 @@
+Quadratic Relations in Factored Form
+-------
+
+A quadratic relation is in **factored form** if it is in the form y = a(x-s)(x-t), for some constants a ≠ 0, s, and t. 
+
+
+### Finding the Roots of a Quadratic Relation in Factored Form
+
+To find the roots of a quadratic relation, we need to solve for the independent variable when the dependent variable is 0.
+
+When a quadratic relation is in factored form, y = a(x-s)(x-t), the roots are s and t. This is because if you plug in x=s, you get a(0)(s-t) = 0, and if you plug in x=t, you get a(t-s)(0)=0.
+
+All quadratic relations in factored form have one or two real roots. A **real root** is a root that is a real number. 
+
+
+### Finding the Vertex of a Quadratic Relation in Factored Form
+
+Because a parabola is vertically symmetrical, the x-coordinate of the vertex is half-way between the x-coordinates of the two roots. Once we have the roots of a quadratic relation, we can also find its vertex by plugging in its x-coordinate into the equation. If there is one root, that root is also the vertex.
+
+
+### Sketching a Quadratic Relation in Factored Form
+
+To sketch a linear relation, we need at least two points, but to sketch a quadratic relation, we need at least three points. To sketch as accurately as possible, we should find the vertex, the roots, and the y-intercept. If some of those points coincide and we do not have enough points, we can find some other points by substituting convenient values of x.
+
+Once we have enough important points, all we do is plot and connect them to create a parabola.

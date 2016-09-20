@@ -1,0 +1,29 @@
+Quadratic Relations in Vertex Form
+-------
+
+
+A quadratic relation is in vertex form if it is in the form y = a(x-h)^2 + k. The vertex is (h, k).
+
+
+### Maxima vs. Minima
+
+All quadratic relations have either a maximum or minimum value. It has a minimum value if its *a* value in standard form or factored form is positive, and if has a maximum value if *a* is negative.
+
+Since a parabola has vertical symmetry, the axis of symmetry goes through the vertex. 
+
+
+### Finding the Roots of a Quadratic Relation in Vertex Form
+
+Recall that a quadratic relation can have 0, 1, or 2 real roots.
+
+When it has 0 roots, *a* and *k* will have the same signs. If *k* and *a* are positive, the vertex is above the x-axis and the parabola opens up. If *k* and *a* are negative, the vertex is below the x-axis and the parabola opens down. In both cases, the parabola never touches the x-axis, meaning there are no real roots.
+
+When it has 1 root, k will be 0. This is the case when the vertex is on the x-axis, meaning it is the root.
+
+When it has 2 roots, *a* and *k* will have the opposite sign. To find the roots, we can let the dependent variable be 0, then rearrange the equation and solve for the independent variable.
+
+Here is an example showing how to find the roots of y = 2(x - 3)^2 - 4.
+0 = 2(x-3)^2 - 4 => 4 = 2(x-3)^2 => 4/2 = (x-3)^2 => \pm\sqrt(2) = x-3 => \pm\sqrt(2) + 3 = x. This gives (3 + \sqrt(2), 0) and (3 - \sqrt(2), 0) as the roots.
+
+Here is the general case.
+0 = a(x-h)^2 + k => -k = a(x-h)^2 => -k/a = (x-h)^2 => \pm\sqrt(-k/a) = x-h => \pm\sqrt(-k/a) + h = x. As we can see, this only returns real numbers when *k* and *a* have opposite signs.
