@@ -23,7 +23,7 @@ When it has 1 root, k will be 0. This is the case when the vertex is on the x-ax
 When it has 2 roots, *a* and *k* will have the opposite sign. To find the roots, we can let the dependent variable be 0, then rearrange the equation and solve for the independent variable.
 
 Here is an example showing how to find the roots of y = 2(x - 3)^2 - 4.
-0 = 2(x-3)^2 - 4 => 4 = 2(x-3)^2 => 4/2 = (x-3)^2 => \pm\sqrt(2) = x-3 => \pm\sqrt(2) + 3 = x. This gives (3 + \sqrt(2), 0) and (3 - \sqrt(2), 0) as the roots.
+0 = 2(x-3)^2 - 4 => 4 = 2(x-3)^2 => 4/2 = (x-3)^2 => ±\sqrt(2) = x-3 => ±\sqrt(2) + 3 = x. This gives (3 + \sqrt(2), 0) and (3 - \sqrt(2), 0) as the roots.
 
 Here is the general case.
-0 = a(x-h)^2 + k => -k = a(x-h)^2 => -k/a = (x-h)^2 => \pm\sqrt(-k/a) = x-h => \pm\sqrt(-k/a) + h = x. As we can see, this only returns real numbers when *k* and *a* have opposite signs.
+0 = a(x-h)^2 + k => -k = a(x-h)^2 => -k/a = (x-h)^2 => ±\sqrt(-k/a) = x-h => ±\sqrt(-k/a) + h = x. As we can see, this only returns real numbers when *k* and *a* have opposite signs.
