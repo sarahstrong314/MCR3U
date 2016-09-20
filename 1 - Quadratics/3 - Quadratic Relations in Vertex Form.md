@@ -2,7 +2,7 @@ Quadratic Relations in Vertex Form
 -------
 
 
-A quadratic relation is in vertex form if it is in the form y = a(x-h)^2 + k. The vertex is (h, k).
+A quadratic relation is in vertex form if it is in the form y = a(x-h)^2 + k. The vertex is (h, k). The parabola opens up when *a* is positive, and opens down when *a* is negative.
 
 
 ### Maxima vs. Minima

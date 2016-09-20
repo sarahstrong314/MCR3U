@@ -1,7 +1,7 @@
 Quadratic Relations in Factored Form
 -------
 
-A quadratic relation is in **factored form** if it is in the form y = a(x-s)(x-t), for some constants a ≠ 0, s, and t. 
+A quadratic relation is in **factored form** if it is in the form y = a(x-s)(x-t), for some constants *a* ≠ 0, *s*, and *t*. The parabola opens up when *a* is positive, and opens down when *a* is negative.
 
 
 ### Finding the Roots of a Quadratic Relation in Factored Form

@@ -28,9 +28,9 @@ y = x^2 + xz
 y = x^2 + x + 1/x
 
 
-A quadratic is in standard form when it is in the form y = ax^2 + bx + c
+A quadratic is in **standard form** when it is in the form y = ax^2 + bx + c.
 
-When quadratic relations are represented in a table of values, the second difference is a constant.
+When quadratic relations are represented in a table of values, the second difference is a constant. When the x-values are incrementing by 1, the second difference is the same as the *a* value in standard form.
 
 Here is an example of a quadratic relation represented as a table of values. The second difference is 2.
 
@@ -45,11 +45,11 @@ When quadratic relations are graphed on a Cartesian plane, the shape it makes is
 
 
 ### Key features of Parabolas 
+* All parabolas either open up, or open down. It opens up when *a* is positive, and opens down when *a* is negative.
 * The **y-intercept** is the coordinates on a parabola that lie on the y-axis. All parabolas have exactly one y-intercept.
 * The **roots** (also known as **zeroes**) are coordinates on the parabola that lie on the x-axis. All parabolas have either zero, one, or two roots. 
-* The **vertex** of a parabola is the extreme point. If the leading coefficient of the quadratic is positive, it is a minimum value, and if the leading coefficient is negative, it is a maximum value.. 
-* All parabolas have either a **maximum value** or **minimum value**. It is the y-coordinate of the vertex.
-* The **axis of symmetry** is the vertical line of symmetry of the parabola. The equation for the axis of symmetry is in the form x = a, where a is the x-coordinate of the vertex, or the average x-coordinate of the roots.
+* The **vertex** of a parabola is the extreme point. The y-value of this vertex is a **minimum value** when *a* is positive, and a **maximum value** when *a* is negative. 
+* The **axis of symmetry** is the vertical line of symmetry of the parabola. The equation for the axis of symmetry is in the form x = h, where *h* is the x-coordinate of the vertex, or the average x-coordinate of the roots.
 
 
 ### Real-life Quadratic Relations
