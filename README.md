@@ -20,7 +20,7 @@ title: readme
  * How to identify quadratic relations in the same family
  * How to solve linear-quadratic systems
 
-2. Introduction to Functions
+2. Functions and Function Transformations
  * What relations and functions are
  * How to write and describe functions
  * What families of functions and parent functions are

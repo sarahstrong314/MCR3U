@@ -21,10 +21,10 @@ Quotient of Powers: a^n / a^m = a^(n - m)
 Proof:
 a^n / a^m = (a × a × ... × a)_{n times} / (a × a × ... × a)_{m times} =  (a × a × ... × a)_{m - n times} = a^(m - n)
 
-Power of Quotients: (a/b)^n = a^n/b^n
+Power of Quotients: a^n / b^n = (a/b)^n
 
 Proof:
-(a/b)^n  = (a/b × a/b × ... × a/b)_{n times} = (a × a × ... × a)_{n times} / (b × b × ... × b)_{n times} = a^n / b^n
+a^n / b^n = (a × a × ... × a)_{n times} / (b × b × ... × b)_{n times} = (a/b × a/b × ... × a/b)_{n times} = (a/b)^n
 
 
 ### Power Rule
