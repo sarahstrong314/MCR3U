@@ -5,7 +5,7 @@ Stretches, Compressions, and Reflections
 
 A **vertical stretch** or **vertical compression** is a transformation resulting from a constant being multiplied to the independent variable.
 
-This constant is denoted k. When abs(k) is greater than 1, it is compression by a factor of k. When abs(k) is between 0 and 1, is a stretch by a factor of 1/k.
+This constant is denoted k. When abs(k) is greater than 1, it is a compression by a factor of k. When abs(k) is between 0 and 1, is a stretch by a factor of 1/k.
  
 Examples: The transformation of f(x) = (2x)^2 is a vertical stretch by a factor of 2, the transformation of f(x) = (x/2)^2 is a vertical compression by a factor of 2.
  
@@ -14,7 +14,7 @@ Examples: The transformation of f(x) = (2x)^2 is a vertical stretch by a factor 
 
 A **horizontal stretch** or **horizontal compression** is a transformation resulting from a constant being multiplied to the function.
 
-This constant is denoted a. When abs(a) is greater than 1, it is stretch by a factor of a. When abs(a) is between 0 and 1, is a compression by a factor of 1/a.
+This constant is denoted a. When abs(a) is greater than 1, it is a stretch by a factor of a. When abs(a) is between 0 and 1, is a compression by a factor of 1/a.
  
 Examples: The transformation of f(x) = 2x^2 is a horizontal compression by a factor of 2, the transformation of f(x) = (x^2)/2 is a horizontal stretch by a factor of 2.
 
