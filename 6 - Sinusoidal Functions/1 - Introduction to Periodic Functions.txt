@@ -10,6 +10,7 @@ Introduction to Periodic Functions
 
 Unlike polynomial or exponential functions, sinusoidal functions are periodic functions. This is because sinx = sin(x + 360°) = sin(x + 720°) = ... and same goes for cosx.
 
+The **axis** of a sinusoidal function is the horizontal line to which there is rotational symmetry.
 
 ### Real-life Sinusoidal Functions
 
