@@ -1,25 +1,17 @@
 Domains and Ranges of Functions
 -------
 
-### Sets
-
-A **set** is a collection of things. Sets are denoted using curly braces and can contain anything. The "things" inside sets are referred to as **elements**. 
-
-We can put anything inside a set. For example, here is a set of animals: {elephant, panda, bunny}.
-
-Unlike tuples, the order of the elements in a set do not matter. Also, if we write out a set with duplicate elements, we can remove them. For example, {penguin, llama, deer, penguin} can be simplified to {penguin, llama, deer}.
- 
-In this course we will mostly be working with set of numbers.
+### Set Notation
 
 Some well-known sets of numbers have names, but they can also be written using set notation.
 
-We can explicitly write out each element, and use ellipses (the "...") to mean "you get the idea" if the trend is clear.
+We can write sets by explicitly writing out each element, and use ellipses (the "...") to mean "you get the idea" if the trend is clear.
 
 For example, the set of natural numbers, denoted \mathbb{N}, is {1, 2, 3, 4, ...}. 
 
 There is also the set of integers, denoted \mathbb{Z}, which is {... -3, -2, -1, 0, 1, 2, 3, ...}. The letter Z comes from the German word for numbers, *Zahlen*.
 
-To denote whether an element is contained in a set, we use the symbol \in, often pronounced "in". It is neither an "e" nor an epsilon. We can also use \notin to denote that an element is not contained in a set.
+To denote whether an element is contained in a set, we use the symbol \in, often pronounced "in". It is neither an "e" nor the Greek letter "epsilon". We can also use \notin to denote that an element is not contained in a set.
 
 For example, 1 \in \mathbb{N}, 1 \in \mathbb{Z}, -1 \notin \mathbb{N}, 0.5 \notin \mathbb{Z}.
 

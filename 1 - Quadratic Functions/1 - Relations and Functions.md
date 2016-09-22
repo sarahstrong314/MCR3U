@@ -7,7 +7,9 @@ Relations and Functions
 
 * A **dependent variable** is a variable that is influenced by another variable.
 
-* A **tuple** is an ordered list of things, called **elements**. Tuples are denoted using parentheses, where each element is separated by commas.
+* A **tuple** is an ordered list of things, called **elements**. Tuples are denoted using parentheses, where each element is separated by a comma.
+
+* A **set** is an unordered list of things, called **elements**. Sets are denoted using curly braces, where each element is separated by a comma.
 
 * An **ordered pair** is a tuple of two numbers, the first one for the independent variable and the second one for a dependent variable.
 
@@ -15,7 +17,7 @@ Relations and Functions
 
  These are all examples of relations.
 
- (1,1), (1,4), (2,6), (5,2), (3,7)
+{(1,1), (1,4), (2,6), (5,2), (3,7)}
 
 | x | y |
 | --- | --- |
@@ -33,7 +35,7 @@ Relations and Functions
 
 To tell whether a set of ordered pairs or a table of values is a function, check whether each x value appears only once.
 
-(1,1), (1,4), (2,6), (5,2), (3,7) is not a function since the x-coordinate 1 has two corresponding y-coordinates, 1 and 4.
+{(1,1), (1,4), (2,6), (5,2), (3,7)} is not a function since the x-coordinate 1 has two corresponding y-coordinates, 1 and 4.
 
 The following table of values is a function since each x-coordinate has only one corresponding y-coordinate.
 
