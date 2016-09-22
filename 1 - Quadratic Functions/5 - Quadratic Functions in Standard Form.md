@@ -1,12 +1,12 @@
-Quadratic Relations in Standard Form
+Quadratic Functions in Standard Form
 -------
 
-A quadratic relation is in **standard form** if it is in the form y = ax^2 + bx + c, for some constants a ≠ 0, b, and c.
+A quadratic relation is in **standard form** if it is in the form f(x) = ax^2 + bx + c, for some constants a ≠ 0, b, and c.
 
 
 ### Finding the Roots of a Quadratic Relation in Standard Form
 
-When a quadratic relation is in standard form, you can try to rewrite it in factored form to solve for the roots. However, not all quadratic relations can be easily factored, and some may not be factorable at all.
+When a quadratic relation is in standard form, you can try to rewrite it in factored form to solve for the roots. However, not all quadratic functions can be easily factored, and some may not be factorable at all.
 
 You can also use **the quadratic formula**, which is a fool-proof way of finding the roots.
 
@@ -38,26 +38,26 @@ For example, if we have x^2 + 6x, we can add 9 to get a perfect square since x^2
 
 Here is an example of how to rewrite a quadratic relation in vertex form from standard form.
 
-y = x^2 + 6x + 5
+f(x) = x^2 + 6x + 5
 
-y = (x^2 + 6x + 9 - 9) + 5
+f(x) = (x^2 + 6x + 9 - 9) + 5
 
-y = (x^2 + 6x + 9) - 9 + 5
+f(x) = (x^2 + 6x + 9) - 9 + 5
 
-y = (x + 3)^2 - 4
+f(x) = (x + 3)^2 - 4
 
 This tells us that the vertex of x^2 + 6x + 5 is (-3, -4).
 
 Here is another example.
 
-y = 2x^2 - 4x + 5
+f(x) = 2x^2 - 4x + 5
 
-y = 2(x^2 - 2x) + 5
+f(x) = 2(x^2 - 2x) + 5
 
-y = 2(x^2 - 2x + 1 - 1) + 5
+f(x) = 2(x^2 - 2x + 1 - 1) + 5
 
-y = 2(x^2 - 2x + 1) - 2 + 5
+f(x) = 2(x^2 - 2x + 1) - 2 + 5
 
-y = 2(x - 2)^2 + 4
+f(x) = 2(x - 2)^2 + 4
 
 This tells us that the vertex of 2x^2 - 4x + 5 is (2, 1).

@@ -13,16 +13,17 @@ title: readme
  * How to multiply and divide rational expressions
  * How to add and subtract rational expressions
 
-1. Polynomials and Quadratics
- * What a quadratic relation is
- * How to finding the roots and vertices of quadratic relations
- * How to sketch quadratic relations
- * How to identify quadratic relations in the same family
+1. Quadratic Functions
+ * What relations and functions are
+ * How to write functions
+ * What quadratic functions are
+ * How to finding the roots and vertices of quadratic functions
+ * How to sketch quadratic functions
+ * How to identify quadratic functions in the same family
  * How to solve linear-quadratic systems
 
-2. Functions and Function Transformations
- * What relations and functions are
- * How to write and describe functions
+2. Function Transformations
+ * How to describe functions
  * What families of functions and parent functions are
  * How to shift a function vertically or horizontally
  * How to stretch or compress a function vertically or horizontally
