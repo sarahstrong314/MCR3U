@@ -39,11 +39,11 @@ Fill in the table below by writing the descriptions of each given term.
  
 ### Expanded Form of Terms 
 
-Recall that a term is a product of constants and variables. For example, $$8x^2$$ is a term because $$8x^2 = 8 ×$$x$$× x$$.
+Recall that a term is a product of constants and variables. For example, $$8x^2$$ is a term because $$8x^2$$ = $$8 × x × x$$.
 
 Here is a table showing the different parts of some terms.
 
-| Term | | Expanded form of term |
+| Term | Expanded form of term |
 | --- | --- | 
 | $$2$$ | $$2$$ |
 | $$x$$ | $$x$$ |
