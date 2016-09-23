@@ -8,7 +8,7 @@ Introduction to Periodic Functions
 
 **Sinusoidal functions** are functions that use the sine and cosine ratios (not including the arcsin or arccos functions).
 
-Unlike polynomial or exponential functions, sinusoidal functions are periodic functions. This is because sinx = sin(x + 360°) = sin(x + 720°) = ... and same goes for cosx.
+Unlike polynomial or exponential functions, sinusoidal functions are periodic functions. This is because sinx = sin(x + 360\degree) = sin(x + 720\degree) = ... and same goes for cosx.
 
 The **axis** of a sinusoidal function is the horizontal line to which there is rotational symmetry.
 

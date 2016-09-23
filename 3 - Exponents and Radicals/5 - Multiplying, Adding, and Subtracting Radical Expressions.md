@@ -5,7 +5,7 @@ Multiplying, Adding, and Subtracting Radical Expressions
 
 To multiply two radicals, we use the property \sqrt{a} \times \sqrt{b} = \sqrt{ab}.
 
-For example \sqrt{20} \times \sqrt{10} = \sqrt{200} = \sqrt{4} \times \sqrt{25} \times sqrt{2} = 2 \times 5 \times \sqrt{2} = 10\sqrt{2}.
+For example \sqrt{20} \times \sqrt{10} = \sqrt{200} = \sqrt{4} \times \sqrt{25} \times \sqrt{2} = 2 \times 5 \times \sqrt{2} = 10\sqrt{2}.
 
 We can also use the property c\sqrt{a} \times d\sqrt{b} = cd\sqrt{ab}.
 

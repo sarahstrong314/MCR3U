@@ -12,7 +12,7 @@ Factoring Trinomials and Binomials
  
 * A **root of a polynomial** is a value of its variables that results in the polynomial evaluating to zero. A root can also be called a **zero**.
 
- Example: x = -1/2 is a root of 2x^2 + 5x + 2 since 2(-1/2)^2 + 5(-1/2) + 2 = 0.
+ Example: x = \frac{-1}{2} is a root of 2x^2 + 5x + 2 since 2(\frac{-1}{2})^2 + 5(\frac{-1}{2}) + 2 = 0.
 
 * **Factoring a polynomial** is the process of changing it from a sum of terms to a product of factors.
  

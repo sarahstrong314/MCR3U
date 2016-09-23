@@ -17,7 +17,7 @@ For example, 1 \in \mathbb{N}, 1 \in \mathbb{Z}, -1 \notin \mathbb{N}, 0.5 \noti
 
 Sometimes we cannot explicitly write out the elements in a set. If this is the case, we can describe a pattern. We write out a general expression for the elements, then a colon or a pipeline, then the condition of the constants in the expression.
 
-The set of rational numbers, denoted \mathbb{Q}, is {a/b : a,b \in \mathbb{Z}, b \ne 0}. We would read this as  "a over b where a and b is in the set of integers and b is not equal to 0".  Another way to think of this example is that \mathbbb(Q) contains all fractions in the form a/b where a and b are both integers and b is not 0. The letter Q comes from the word *quotient*.
+The set of rational numbers, denoted \mathbb{Q}, is {\frac{a}{b} : a,b \in \mathbb{Z}, b \ne 0}. We would read this as  "a over b where a and b is in the set of integers and b is not equal to 0".  Another way to think of this example is that \mathbb{Q} contains all fractions in the form \frac{a}{b} where a and b are both integers and b is not 0. The letter Q comes from the word *quotient*.
 
 The set of real numbers is denoted \mathbb{R} cannot be written in set notation like the others. 
 
@@ -36,7 +36,7 @@ Here are some examples of domains and ranges of common functions. To exclude cer
 | f(x) = x | \mathbb{R} | \mathbb{R} |
 | f(x) = x^2 | \mathbb{R} | \mathbb{R} |
 | f(x) = \sqrt{x} | \mathbb{R}, x \le 0 | \mathbb{R}, x \le 0 |
-| f(x) = 1/x | \mathbb{R}, x \ne 0 | \mathbb{R}, x \ne 0 |
+| f(x) = \frac{1}{x} | \mathbb{R}, x \ne 0 | \mathbb{R}, x \ne 0 |
 | f(x) = 2^x | \mathbb{R} | \mathbb{R}, x > 0 |
 
 
@@ -51,7 +51,7 @@ We can also use what is called **interval notation** to express the domain and r
 | [a,b) | a \le x < b |
 | (a,b] | a < x \le b |
 
-If there is no bound in one or both of the directions, we can use −∞ for a or ∞ for b. For example, (0, ∞) is the set of positive real numbers, and (-∞, ∞) is the set of all real numbers. To denote that a given value is in an interval, we can use the \in symbol. For example, 4 \in (0, 5).
+If there is no bound in one or both of the directions, we can use −\infty for a or \infty for b. For example, (0, \infty) is the set of positive real numbers, and (-\infty, \infty) is the set of all real numbers. To denote that a given value is in an interval, we can use the \in symbol. For example, 4 \in (0, 5).
 
 
 ### Continuous and Discrete Functions

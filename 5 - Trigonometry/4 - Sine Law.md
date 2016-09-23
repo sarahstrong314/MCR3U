@@ -7,7 +7,7 @@ Consider the following triangle.
 
 [TODO: image of triangle with sides and angles labelled]
 
-The Sine Law is the following: sinA/a = sinB/b = sinC/c. We can also take the reciprocals to get the equivalent: a/sinA = b/sinB = c/sinC. The triangle is intentionally labelled in this manner so that the pattern in the Sine Law is clear.
+The Sine Law is the following: \frac{sinA}{a} = \frac{sinB}{b} = \frac{sinC}{c}. We can also take the reciprocals to get the equivalent: \frac{a}{sinA} = \frac{b}{sinB} = \frac{c}{sinC}. The triangle is intentionally labelled in this manner so that the pattern in the Sine Law is clear.
 
 We can use the Sine Law to solve for missing sides or angles in triangles when we have 2 sides and an angle, or two angles and a side, the angle given must be opposite to one of the sides given. 
 
@@ -22,10 +22,10 @@ Consider the two images below.
 
 [TODO: images showing ambiguous case]
 
-In both cases, a = 4, c =  6, and \angleA = 30°. However, they are different triangles.
+In both cases, a = 4, c =  6, and \angleA = 30\degree. However, they are different triangles.
 
-If we use the Sine Law, we get sinA/a = sinC/c => sin30°/4 = sinC/6 => 6(1/2)/4 = sinC => sinC = 3/4 => C = sin^-1(3/4) => C \approx 49°.
+If we use the Sine Law, we get \frac{sinA}{a} = \frac{sinC}{c} => \frac{sin30\degree}{4} = \frac{sinC}{6} => \frac{6(\frac{1}{2})}{4} = sinC => sinC = \frac{3}{4} => C = sin^{-1}(\frac{3}{4}) => C \approx 49\degree.
 
-This is the answer to the acute triangle, since your calculator will give the solution between 0° and 90°. To find the answer to the obtuse triangle, we have to determine another solution to C = sin^-1(3/4). We know that the sine ratio is positive in Q1 and Q2, so the solution is somewhere between 90 and 180. Since it is 49° is the related angle, we get 180 - 49° = 131°. We could also have just looked at the image and observed that they are supplementary angles.
+This is the answer to the acute triangle, since your calculator will give the solution between 0\degree and 90\degree. To find the answer to the obtuse triangle, we have to determine another solution to C = sin^{-1}(\frac{3}{4}). We know that the sine ratio is positive in Q1 and Q2, so the solution is somewhere between 90 and 180. Since it is 49\degree is the related angle, we get 180 - 49\degree = 131\degree. We could also have just looked at the image and observed that they are supplementary angles.
 
 The ambiguous case occurs when the triangle is not a right triangle and the angle given is not opposite of the longest of the two given sides.

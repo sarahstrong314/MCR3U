@@ -1,10 +1,10 @@
 Solving Sinusoidal Equations
 -------
 
-Recall that there are exactly two solutions to sin\theta= x, where 0° \le \theta< 360° and -1 \le x \le 1. Same goes for solutions to cos\theta= x.
+Recall that there are exactly two solutions to sin\theta= x, where 0\degree \le \theta< 360\degree and -1 \le x \le 1. Same goes for solutions to cos\theta= x.
 
-Since the sine function have a period of 360°, if sin\theta= x then sin(\theta+ k360°) = x, for all k \in \mathbb{Z}. Same goes for the cosine function.
+Since the sine function have a period of 360\degree, if sin\theta= x then sin(\theta+ k360\degree) = x, for all k \in \mathbb{Z}. Same goes for the cosine function.
 
-When we're solving a sinusoidal function for a value of θ, there are infinitely solutions when the domain is not restricted, but we can express the set of all solutions.
+When we are solving a sinusoidal function for a value of \theta, there are infinitely solutions when the domain is not restricted, but we can express the set of all solutions.
 
-For example, the solution to sin\theta= 1/2, 0° \le \theta< 360°, is \theta= 30° or \theta= 150°. To express the set of all solutions to sin\theta= 1/2, we can write \theta= 30° + k360°, k \in \mathbb{Z} or \theta= 150° + k360°, k \in \mathbb{Z}.
+For example, the solution to sin\theta= \frac{1}{2}, 0\degree \le \theta< 360\degree, is \theta= 30\degree or \theta= 150\degree. To express the set of all solutions to sin\theta= \frac{1}{2}, we can write \theta= 30\degree + k360\degree, k \in \mathbb{Z} or \theta= 150\degree + k360\degree, k \in \mathbb{Z}.

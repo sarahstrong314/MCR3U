@@ -13,7 +13,7 @@ For example, to check whether \sqrt{30} can be simplified, we check whether 4, 9
 
 Here is another example:
 
-\sqrt{224} = \sqrt{4} \times \sqrt{56} = 2\sqrt{56}. However, we're not done since 4 is a factor of 56. 2\sqrt{56} = 2 \times \sqrt{4} \times \sqrt{14} = 4\sqrt{14}. Since 14 doesn't have any square factors greater than 1, we're done.
+\sqrt{224} = \sqrt{4} \times \sqrt{56} = 2\sqrt{56}. However, we are not done since 4 is a factor of 56. 2\sqrt{56} = 2 \times \sqrt{4} \times \sqrt{14} = 4\sqrt{14}. Since 14 does not have any square factors greater than 1, we are done.
 
 When the radicand is a fraction, we can use the property
 \sqrt{\frac{a}{b}} = \frac{\sqrt{a}}{\sqrt{b}}. This comes from the Power of Quotients rule.

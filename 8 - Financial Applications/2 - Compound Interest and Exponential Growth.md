@@ -28,7 +28,7 @@ If we are solving for the principal, we can rearrange the formula above to get F
 
 These formulae can be applied only when money is deposited or lent on only one occasion. If money is constantly being deposited or lent, we are not dealing with compound interest. 
 
-If the rate of interest is not annual (i.e. per annum), we would use a slightly modified formula: A = P(1 + i/n)^(nt), where t is the amount of time that has passed.
+If the rate of interest is not annual (i.e. per annum), we would use a slightly modified formula: A = P(1 + \frac{i}{n})^{nt}, where t is the amount of time that has passed.
 
 
 ### Growth of Compound Interest

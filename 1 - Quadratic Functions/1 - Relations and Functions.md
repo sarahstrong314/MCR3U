@@ -1,6 +1,7 @@
 Relations and Functions
 -------
 
+
 ### Definitions
 
 * An **independent variable** is a variable that is not influenced by on another variable.
@@ -66,7 +67,7 @@ g(x) = x^2 + 3x - 2
 
 h(x) = ax^3 - 5x
 
-By writing them using function notation, we can easily refer to each function without confusing them. We also know for sure that a in function h is a constant, because if it were another variable we'd write h(x,a) instead.
+By writing them using function notation, we can easily refer to each function without confusing them. We also know for sure that a in function h is a constant, because if it were another variable we would write h(x,a) instead.
 
 When we want to evaluate the function at a specific value of x, say 3, we can write f(3) to mean the value of f evaluated at x=3.
 Using the three functions above, f(3) = 4, g(3) = 16, and h(3) = 27a - 15.

@@ -21,9 +21,9 @@ These are all nonexamples of quadratic relations.
 
 f(x) = x^3 + x^2 
 
-f(x) = 1/x^2
+f(x) = \frac{1}{x^2}
 
-f(x) = x^2 + x + 1/x
+f(x) = x^2 + x + \frac{1}{x}
 
 
 A quadratic is in **standard form** when it is in the form y = ax^2 + bx + c.

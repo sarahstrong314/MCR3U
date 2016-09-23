@@ -7,18 +7,18 @@ To demonstrate how the unit circle can help us with trigonometry, observe the fo
 
 [TODO: graph of unit circle with angle \thetalabelled between x-axis and another radius]
 
-Look at the right triangle with the acute angle θ. Since the hypotenuse is 1, sin\theta= OPP/HYP = height/1 and cos\theta= ADJ/OPP = length/1, so the height of the triangle is sin\thetaand the length of the triangle is cosθ. That means that the coordinate at the end of the hypotenuse is (sinθ, cosθ).
+Look at the right triangle with the acute angle \theta. Since the hypotenuse is 1, \sin\theta = \frac{OPP}{HYP} = \frac{height}{1} and cos\theta = \frac{ADJ}{OPP} = \frac{length}{1}, so the height of the triangle is sin\theta and the length of the triangle is cos\theta. That means that the coordinate at the end of the hypotenuse is (sin\theta, cos\theta).
 
-This applies to all quadrants of the Cartesian Plane. Every coordinate on the unit circle is of the form (sinθ, cosθ) where \thetais the angle measured from (sinθ, cosθ) to (0,0) to (1,0).
+This applies to all quadrants of the Cartesian Plane. Every coordinate on the unit circle is of the form (sin\theta, cos\theta) where \thetais the angle measured from (sin\theta, cos\theta) to (0,0) to (1,0).
 
 We can use the unit circle to find exact values of the trigonometric functions of the remaining special angles. By using the points (1,0), (0,1), (-1,0), and (0,-1), we get the following.
 
 | Point | \theta| cos\theta| sin\theta|
 | --- | --- | --- | --- | 
-| (1,0)  | 0° | 1 | 0 | 
-| (0,1) | 90° | 0 | 1 | 
-| (-1,0) | 180° | -1 | 0 |
-| (0,-1) | 270° | 0 | -1 |
+| (1,0)  | 0\degree | 1 | 0 | 
+| (0,1) | 90\degree | 0 | 1 | 
+| (-1,0) | 180\degree | -1 | 0 |
+| (0,-1) | 270\degree | 0 | -1 |
 
 
 ### Definitions
@@ -26,7 +26,7 @@ We can use the unit circle to find exact values of the trigonometric functions o
 When an angle is drawn on a Cartesian Plane, the two arms that form it are called the **initial arm** and the **terminal arm**. The angle starts from the initial arm and ends at the terminal arm. If the terminal arm is closer to the initial arm in the counterclockwise direction than in the clockwise direction, the angle is positive. Otherwise, the angle is negative.
 
 * An angle is in **standard position** when its initial arm is on the positive x-axis and its vertex is at the origin. 
-* Two angles are **co-terminal angles** if they are both in standard position that have the same terminal arm. The difference of two co-terminal angles is always a multiple of 360°.
+* Two angles are **co-terminal angles** if they are both in standard position that have the same terminal arm. The difference of two co-terminal angles is always a multiple of 360\degree.
 
 
 ### CAST Rule
@@ -37,7 +37,7 @@ The CAST rule tells us which primary trigonometry ratios are positive in each of
 
 | Quadrant | size of angle in standard position | sin\theta| cos\theta| tan\theta|
 | --- | --- | --- | --- | 
-| 4 | 0 < \theta< 90° | - | + | - | 
-| 1 | 90 < \theta< 180° | + | + | + | 
-| 2 | 180 < \theta< 270° | + | - | - |
-| 3 | 270 < \theta< 360° | - | - | + |
+| 4 | 0 < \theta< 90\degree | - | + | - | 
+| 1 | 90 < \theta< 180\degree | + | + | + | 
+| 2 | 180 < \theta< 270\degree | + | - | - |
+| 3 | 270 < \theta< 360\degree | - | - | + |
