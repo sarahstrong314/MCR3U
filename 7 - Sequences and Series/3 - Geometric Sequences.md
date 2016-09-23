@@ -7,4 +7,4 @@ For example, the sequence 1, 3, 9, 27, 81, ... is a geometric sequence where a =
 
 A geometric sequence in function notation is t(n) = ar^(n - 1).
 
-A geometric sequence represented as a recursive formula is t(1) = a, t(n) = rt(n-1), n ≤ 1.
+A geometric sequence represented as a recursive formula is t(1) = a, t(n) = rt(n-1), n \ge 1.

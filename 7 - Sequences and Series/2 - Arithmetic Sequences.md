@@ -8,4 +8,4 @@ For example, the sequence 1, 3, 5, 7, 9, ... is an arithmetic sequence where a =
 
 An arithmetic sequence in function notation is t(n) = a + d(n - 1).
 
-An arithmetic sequence represented as a recursive formula is t(1) = a, t(n) = t(n-1) + d, n ≤ 1.
+An arithmetic sequence represented as a recursive formula is t(1) = a, t(n) = t(n-1) + d, n \ge 1.
