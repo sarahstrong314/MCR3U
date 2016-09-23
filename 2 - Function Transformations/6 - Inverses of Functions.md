@@ -25,7 +25,7 @@ The inverse of a quadratic function is a square root relation.
 
 The inverse of a cubic function is a cube root relation.
 
-The inverse of any polynomial function is a radical relation, which uses the root symbol: √. It will also use the ± sign.
+The inverse of any polynomial function is a radical relation, which uses the root symbol: √. It will also use the \pm sign.
 
 
 ### Properties of Function Inverses

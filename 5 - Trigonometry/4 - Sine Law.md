@@ -24,7 +24,7 @@ Consider the two images below.
 
 In both cases, a = 4, c =  6, and \angleA = 30°. However, they are different triangles.
 
-If we use the Sine Law, we get sinA/a = sinC/c => sin30°/4 = sinC/6 => 6(1/2)/4 = sinC => sinC = 3/4 => C = sin^-1(3/4) => C ≈ 49°.
+If we use the Sine Law, we get sinA/a = sinC/c => sin30°/4 = sinC/6 => 6(1/2)/4 = sinC => sinC = 3/4 => C = sin^-1(3/4) => C \approx 49°.
 
 This is the answer to the acute triangle, since your calculator will give the solution between 0° and 90°. To find the answer to the obtuse triangle, we have to determine another solution to C = sin^-1(3/4). We know that the sine ratio is positive in Q1 and Q2, so the solution is somewhere between 90 and 180. Since it is 49° is the related angle, we get 180 - 49° = 131°. We could also have just looked at the image and observed that they are supplementary angles.
 

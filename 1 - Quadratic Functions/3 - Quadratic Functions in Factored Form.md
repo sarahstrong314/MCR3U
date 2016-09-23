@@ -1,7 +1,7 @@
 Quadratic Functions in Factored Form
 -------
 
-A quadratic function is in **factored form** if it is in the form f(x) = a(x-s)(x-t), for some constants *a* ≠ 0, *s*, and *t*. The parabola opens up when *a* is positive, and opens down when *a* is negative.
+A quadratic function is in **factored form** if it is in the form f(x) = a(x-s)(x-t), for some constants *a* \ne 0, *s*, and *t*. The parabola opens up when *a* is positive, and opens down when *a* is negative.
 
 
 ### Finding the Roots of a Quadratic Function in Factored Form

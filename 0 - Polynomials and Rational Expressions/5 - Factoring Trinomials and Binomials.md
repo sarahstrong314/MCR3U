@@ -4,7 +4,7 @@ Factoring Trinomials and Binomials
 ### Definitions
 * A **factor of a term** is another term that divides into the term.
 
- Example: 2x is a factor of 4x since 2x × 2 = 4x.
+ Example: 2x is a factor of 4x since 2x \times 2 = 4x.
 
 * A **factor of a polynomial** is a term or polynomial that divides into the polynomial.
 
@@ -26,7 +26,7 @@ One way of factoring a polynomial is to find a common factor among all the terms
 ### Factoring x^2 + bx + c
 To factor a trinomial in the form x^2 + bx + c, we need to find its roots. If it does have roots, say s and t, they will have the following property: s + t = b and st = c. When we find s and t, the factored form is simply (x - s)(x - t).
 
-For example, we can factor x^2 + 5x - 14 by determining through guess-and-check that 7 + (-2) = 5 and 7 × -2 = -14, so x^2 + 5x - 14 = (x + 7)(x - 2).
+For example, we can factor x^2 + 5x - 14 by determining through guess-and-check that 7 + (-2) = 5 and 7 \times -2 = -14, so x^2 + 5x - 14 = (x + 7)(x - 2).
 
 Not all trinomials in the form x^2 + bx + c has roots. The ones that do not have any cannot be factored.
 

@@ -17,13 +17,13 @@ Interest rates also come up when loaning money. Often, services that offer a loa
 
 ### Formulae
 
-Simple interest after t years can be calculated using I = P × r × t.
+Simple interest after t years can be calculated using I = P \times r \times t.
 
 The amount can be calculated using A = P + I. The formula for I can be substituted to get A = P(1 + rt)
 
 These formulae can be applied only when money is deposited or lent on only one occasion. If money is constantly being deposited or lent, we are not dealing with simple interest. 
 
-If the rate of interest is not annual (i.e. per annum), we can still use the formula I = P × r × t, however the unit for *t* needs to match the rate *r*. For example, if the rate of interest is semi-annual (i.e., every 6 months), t would be the number of 6 month intervals that have passed.
+If the rate of interest is not annual (i.e. per annum), we can still use the formula I = P \times r \times t, however the unit for *t* needs to match the rate *r*. For example, if the rate of interest is semi-annual (i.e., every 6 months), t would be the number of 6 month intervals that have passed.
 
 
 ### Growth of Simple Interest

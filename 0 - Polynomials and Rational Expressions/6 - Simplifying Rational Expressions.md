@@ -10,4 +10,4 @@ For example, the rational expression \frac{(x + 1)(x - 3)}{x + 2} is simplified.
 
 Since we cannot divide by 0, there may be restrictions for the variables in the denominator. If the denominator is factorable, we can find the restrictions by factoring it and finding the root of each factor. 
 
-For example, the restriction of \frac{(x + 1)(x - 3)}{x + 2} is x ≠ 2.
+For example, the restriction of \frac{(x + 1)(x - 3)}{x + 2} is x \ne 2.

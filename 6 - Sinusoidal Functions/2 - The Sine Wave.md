@@ -5,7 +5,7 @@ The Sine Wave
 
 Recall the sine values of some of the special angles.
 
-| θ | sinθ |
+| \theta| sin\theta|
 | --- | --- |
 | 0° | 0 |
 | 30° | 1/2 |
@@ -14,16 +14,16 @@ Recall the sine values of some of the special angles.
 
 Recall the following table for finding related angles.
 
-| Quadrant of angle θ | Related angle |
+| Quadrant of angle \theta| Related angle |
 | --- | --- | --- | --- | 
-| 1  | θ |
-| 2 | 180° - θ | 
-| 3 | θ - 180° | 
-| 4 | 360° - θ | 
+| 1  | \theta|
+| 2 | 180° - \theta| 
+| 3 | \theta- 180° | 
+| 4 | 360° - \theta| 
 
 We can use this along with the CAST rule to finish the rest of the table of values using increments of 30° up to 360°.
 
-| θ | sinθ |
+| \theta| sin\theta|
 | --- | --- |
 | 0° | 0 |
 | 30° | 1/2 |
@@ -48,7 +48,7 @@ Going through the same procedure as for the sine function, we can come up with t
 
 We can use this along with the CAST rule to finish the rest of the table of values using increments of 30° up to 360°.
 
-| θ | cosθ |
+| \theta| cos\theta|
 | --- | --- |
 | 0° | 1 |
 | 30° | \sqrt3/2 |

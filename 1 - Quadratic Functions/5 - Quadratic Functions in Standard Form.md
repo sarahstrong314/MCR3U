@@ -1,7 +1,7 @@
 Quadratic Functions in Standard Form
 -------
 
-A quadratic relation is in **standard form** if it is in the form f(x) = ax^2 + bx + c, for some constants a ≠ 0, b, and c.
+A quadratic relation is in **standard form** if it is in the form f(x) = ax^2 + bx + c, for some constants a \ne 0, b, and c.
 
 
 ### Finding the Roots of a Quadratic Relation in Standard Form
@@ -10,9 +10,9 @@ When a quadratic relation is in standard form, you can try to rewrite it in fact
 
 You can also use **the quadratic formula**, which is a fool-proof way of finding the roots.
 
-The quadratic formula is x = \frac{- b ± \sqrt{b^2 - 4ac}}{2a}. To find the roots of any quadratic relation, all you have to do is plug in the values of a, b, and c from the standard form.
+The quadratic formula is x = \frac{- b \pm \sqrt{b^2 - 4ac}}{2a}. To find the roots of any quadratic relation, all you have to do is plug in the values of a, b, and c from the standard form.
 
-The ± indicates that one root is determined by using a +, and the other root is determined by using a -.
+The \pm indicates that one root is determined by using a +, and the other root is determined by using a -.
 
 
 ### Real Roots vs. Nonreal Roots
