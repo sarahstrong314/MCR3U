@@ -10,7 +10,7 @@ Interest rates also come up when loaning money. Often, services that offer a loa
 
 * A **principal**, *P*, is an amount of money initially invested or borrowed.
 * An **annual rate of interest**, *r*, is a rate at which interest is charged, as a percent, per year. It is a value between 0 and 1. The word *annual* comes from the Latin word for year, annum.
-* An **amount**, *A*, is a value of an investment or loan at the end of a time period. 
+* An **amount**, $a$, is a value of an investment or loan at the end of a time period. 
 * **Interest**, *I*, is money paid regularly at a particular rate for the use of money lent, or for delaying the repayment of a debt.
 * **Simple interest** is interest calculated only on the original principal, as opposed to the current amount.
 

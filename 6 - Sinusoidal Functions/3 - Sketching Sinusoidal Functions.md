@@ -23,11 +23,11 @@ These are the key features of a sinusoidal function in the form f(x) = asin(k(x 
 
 Here is a technique to sketch a sine or cosine function in the form f(x) = asin(k(x – d)) or f(x) = acos(k(x – d)).
 
-1. Draw the y-axis, but do not mark its intervals.
-2. Determine the y-intercept and the phase shift.
-3. Sketch the sine wave starting at the y-intercept with the appropriate phase shift.
-4. Mark the maximum and minimum value of the wave on the y-axis.
-5. Draw the x-axis according to the markings on the y-axis.
-6. Determine the period and mark the x-axis accordingly.
+1. Draw the $y$-axis, but do not mark its intervals.
+2. Determine the $y$-intercept and the phase shift.
+3. Sketch the sine wave starting at the $y$-intercept with the appropriate phase shift.
+4. Mark the maximum and minimum value of the wave on the $y$-axis.
+5. Draw the $x$-axis according to the markings on the $y$-axis.
+6. Determine the period and mark the $x$-axis accordingly.
 
 Another technique is to simply draw the base function, apply the vertical stretch/compression, then the vertical shift, then the horizontal stretch/compression, then the horizontal shift. However, that involves a lot of erasing!

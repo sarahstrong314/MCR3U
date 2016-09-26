@@ -64,7 +64,7 @@ We can use this along with the CAST rule to finish the rest of the table of valu
 | 330\degree | \frac{\sqrt{3}}{2} |
 | 360\degree | 0 |
 
-By plotting these points and connecting them with a smooth curve, we see that it has the same shape as the sine function. We can take the graph of the sine function and translate it horizontally by 90\degree to get the graph of the cosine function. Note that the the y-intercept of the cosine function is (1,0), whereas for the sine function it was (0,0).   
+By plotting these points and connecting them with a smooth curve, we see that it has the same shape as the sine function. We can take the graph of the sine function and translate it horizontally by 90\degree to get the graph of the cosine function. Note that the the $y$-intercept of the cosine function is (1,0), whereas for the sine function it was (0,0).   
 
 
 ### Increasing and Decreasing Intervals

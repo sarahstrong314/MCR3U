@@ -10,13 +10,13 @@ Examples of families of functions include: linear functions, quadratic functions
 
 | Family of Functions| Parent Function |
 | --- | --- |
-| linear | f(x) = x |
-| quadratic | f(x) = x^2 |
-| cubic | f(x) = x^3 |
-| absolute value | f(x) = \abs{x} |
-| reciprocal | f(x) = \frac{1}{x} |
-| squareroot | f(x) = \sqrt{x) |
-| cuberoot | f(x) = \sqrt[3]{x} |
+| linear | $f(x) = x$ |
+| quadratic | $f(x) = x^2$ |
+| cubic | $f(x) = x^3$ |
+| absolute value | $f(x) = \abs{x}$ |
+| reciprocal | $f(x) = \frac{1}{x}$ |
+| squareroot | $f(x) = \sqrt{x)$ |
+| cuberoot | $f(x) = \sqrt[3]{x}$ |
 
 * The **transformations of a function** are the transformations that have been applied to the parent function. There are three categories of transformations: shifting, compressing, and reflecting.
 

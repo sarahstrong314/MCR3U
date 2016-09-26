@@ -27,7 +27,7 @@ title: readme
  * What families of functions and parent functions are
  * How to shift a function vertically or horizontally
  * How to stretch or compress a function vertically or horizontally
- * How to reflect a function along the x-axis or y-axis 
+ * How to reflect a function along the $x$-axis or $y$-axis 
  * What inverses of functions are and how to graph them
 
 3. Exponents and Radicals

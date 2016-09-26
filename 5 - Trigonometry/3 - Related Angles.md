@@ -3,7 +3,7 @@ Related Angles
 
 A **related angle** of a given angle is the acute angle at which the trigonometric ratios have the same magnitude. If the given angle is \theta, the related angle is often denoted \theta_r.
 
-To locate the related angle, first draw the angle in standard position. The related angle is between the terminal arm and the x-axis.
+To locate the related angle, first draw the angle in standard position. The related angle is between the terminal arm and the $x$-axis.
 Here are some examples.
 
 | \theta| sin\theta| cos\theta| tan\theta| \theta_r | sin\theta_r | cos\theta_r | tan\theta_r |
