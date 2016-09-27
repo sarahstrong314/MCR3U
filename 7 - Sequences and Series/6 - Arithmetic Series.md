@@ -1,7 +1,7 @@
 Arithmetic Series
 -------
 
-The series of the first n terms of an arithmetic sequence is S_n = \frac{n(a+t(n))}{2}.
+The series of the first n terms of an arithmetic sequence is $S_n = \frac{n(a+t(n))}{2}$.
 
 To make sense of this formula, consider having to add the first 100 natural numbers.
 
@@ -19,4 +19,4 @@ We can find that sum easily by adding each column rather than each row.
 
 Each column adds up to 101, and there are 100 rows so the total sum is 10100. However, we counted each number twice, so we have to divide by 2 to get 5050.
 
-This gave us S_100 = \frac{100(1+100)}{2}.
+This gave us $S_100 = \frac{100(1+100)}{2}$.

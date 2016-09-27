@@ -11,17 +11,17 @@ Sketching Sinusoidal Functions
 
 ### Key Properties of Sinusoidal Functions
 
-These are the key features of a sinusoidal function in the form f(x) = asin(k(x – d)) + c or f(x) = acos(k(x – d)) + c.
+These are the key features of a sinusoidal function in the form $f(x) = asin(k(x – d)) + c$ or $f(x) = acos(k(x – d)) + c$.
 
-* The domain is \mathbb{R}.
-* The range is [c - \abs{a}, c + \abs{a}].
-* The amplitude is \abs{a}.
-* The phase shift is \frac{d}{k}.
-* The period is \frac{360\degree}{\abs{k}}, where \abs{} denotes magnitude, a.k.a. absolute value.
-* The maximum value is c + \abs{a}.
-* The minimum value is c - \abs{a}.
+* The domain is $\mathbb{R}$.
+* The range is $[c - \abs{a}, c + \abs{a}]$.
+* The amplitude is $\abs{a}$.
+* The phase shift is $\frac{d}{k}$.
+* The period is $\frac{360\degree}{\abs{k}}$.
+* The maximum value is $c + \abs{a}$.
+* The minimum value is $c - \abs{a}$.
 
-Here is a technique to sketch a sine or cosine function in the form f(x) = asin(k(x – d)) or f(x) = acos(k(x – d)).
+Here is a technique to sketch a sine or cosine function in the form $f(x) = asin(k(x – d))$ or $f(x) = acos(k(x – d))$.
 
 1. Draw the $y$-axis, but do not mark its intervals.
 2. Determine the $y$-intercept and the phase shift.
