@@ -8,17 +8,17 @@ Here are some examples.
 
 | $\theta$ | $sin\theta$ | $cos\theta$ | $tan\theta$ | $\theta_r$ | $sin\theta_r$ | $cos\theta_r$ | $tan\theta_r$ |
 | --- | --- | --- | --- | --- | --- | --- | --- | 
-| $135\degree$ | $\frac{\sqrt{2}}{2}$ | $-\frac{\sqrt{2}}{2}$ | -1 | $45\degree$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{2}}{2}$ | 1 |
-| $240\degree$ | $-\frac{\sqrt{3}}{2}$ | $-\frac{1}{2}$ | \sqrt{3} | $60\degree$ | $\frac{\sqrt{3}}{2}$ | $\frac{1}{2}$ | $\sqrt{3}$ |
-| $330\degree$ | $-\frac{1}{2}$ | $\frac{sqrt{3}}{2}$ | -\sqrt{3} | $30\degree$ | $\frac{1}{2}$ | $\frac{\sqrt{3}}{2}$ | $\sqrt{3}$ |
+| $135^\circ$ | $\frac{\sqrt{2}}{2}$ | $-\frac{\sqrt{2}}{2}$ | -1 | $45^\circ$ | $\frac{\sqrt{2}}{2}$ | $\frac{\sqrt{2}}{2}$ | 1 |
+| $240^\circ$ | $-\frac{\sqrt{3}}{2}$ | $-\frac{1}{2}$ | \sqrt{3} | $60^\circ$ | $\frac{\sqrt{3}}{2}$ | $\frac{1}{2}$ | $\sqrt{3}$ |
+| $330^\circ$ | $-\frac{1}{2}$ | $\frac{sqrt{3}}{2}$ | -\sqrt{3} | $30^\circ$ | $\frac{1}{2}$ | $\frac{\sqrt{3}}{2}$ | $\sqrt{3}$ |
 
-Here a table summarizing how to find the related angle of any angle between 0\degree and 360\degree, without having to use a Cartesian Plane.
+Here a table summarizing how to find the related angle of any angle between 0^\circ and 360^\circ, without having to use a Cartesian Plane.
 
 | Quadrant of angle $\theta$ | Related angle |
 | --- | --- | --- | --- | 
 | $Q1$  | $\theta$ |
-| $Q2$ | $180\degree - \theta$ | 
-| $Q3$ | $\theta- 180\degree$ | 
-| $Q4$ | $360\degree - \theta$ | 
+| $Q2$ | $180^\circ - \theta$ | 
+| $Q3$ | $\theta- 180^\circ$ | 
+| $Q4$ | $360^\circ - \theta$ | 
 
-To find two angles from $0\degree$ to $360\degree$ for which the value of a given trigonometric ratio is the same, first determine the quadrant, other than $Q1$ for which the trigonometric ratio is positive. We can pick any angle in that quadrant, then find its related angles. The value of the trigonometric ratio for both of the angles will be the same.
+To find two angles from $0^\circ$ to $360^\circ$ for which the value of a given trigonometric ratio is the same, first determine the quadrant, other than $Q1$ for which the trigonometric ratio is positive. We can pick any angle in that quadrant, then find its related angles. The value of the trigonometric ratio for both of the angles will be the same.

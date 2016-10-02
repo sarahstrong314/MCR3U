@@ -22,10 +22,10 @@ Consider the two images below.
 
 [TODO: images showing ambiguous case]
 
-In both cases, $a = 4$, $c =  6$, and $\angleA = 30\degree$. However, they are different triangles.
+In both cases, $a = 4$, $c =  6$, and $\angle A = 30^\circ$. However, they are different triangles.
 
-If we use the Sine Law, we get $\frac{sinA}{a} = \frac{sinC}{c} \Rightarrow \frac{sin30\degree}{4} = \frac{sinC}{6} \Rightarrow \frac{6(\frac{1}{2})}{4} = sinC \Rightarrow sinC = \frac{3}{4} \Rightarrow C = sin^{-1}(\frac{3}{4}) \Rightarrow C \approx 49\degree$.
+If we use the Sine Law, we get $\frac{sinA}{a} = \frac{sinC}{c} \Rightarrow \frac{sin30^\circ}{4} = \frac{sinC}{6} \Rightarrow \frac{6(\frac{1}{2})}{4} = sinC \Rightarrow sinC = \frac{3}{4} \Rightarrow C = sin^{-1}(\frac{3}{4}) \Rightarrow C \approx 49^\circ$.
 
-This is the answer to the acute triangle, since your calculator will give the solution between $0\degree$ and $90\degree$. To find the answer to the obtuse triangle, we have to determine another solution to $C = sin^{-1}(\frac{3}{4})$. We know that the sine ratio is positive in $Q1$ and $Q2$, so the solution is somewhere between $90\degree$ and $180\degree$. Since $49\degree$ is the related angle, we get $180\degree - 49\degree = 131\degree$. We could also have just looked at the image and observed that they are supplementary angles.
+This is the answer to the acute triangle, since your calculator will give the solution between $0^\circ$ and $90^\circ$. To find the answer to the obtuse triangle, we have to determine another solution to $C = sin^{-1}(\frac{3}{4})$. We know that the sine ratio is positive in $Q1$ and $Q2$, so the solution is somewhere between $90^\circ$ and $180^\circ$. Since $49^\circ$ is the related angle, we get $180^\circ - 49^\circ = 131^\circ$. We could also have just looked at the image and observed that they are supplementary angles.
 
 The ambiguous case occurs when the triangle is not a right triangle and the angle given is not opposite of the longest of the two given sides.

@@ -27,3 +27,12 @@ $0 = 2(x - 3)^2 - 4 \Rightarrow 4 = 2(x - 3)^2 \Rightarrow \frac{4}{2} = (x - 3)
 
 Here is the general case.
 $0 = a(x - h)^2 + k \Rightarrow -k = a(x - h)^2 \Rightarrow \frac{-k}{a} = (x - h)^2 \Rightarrow \pm\sqrt{\frac{-k}{a}} = x - h \Rightarrow \pm\sqrt{\frac{-k}{a}} + h = x$. As we can see, this only returns real numbers when $k$ and $a$ have opposite signs.
+
+
+For each of the following quadratic functions, find its roots, its vertex, its y-intercept, then sketch it.
+
+1. $f(x) = x^2 - 3$
+
+2. $f(x) = 2x^2 + 5$
+
+3. $f(x) = -(x - 4)^2 - 2$

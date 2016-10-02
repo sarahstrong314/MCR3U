@@ -8,6 +8,14 @@ For example, to multiple $3x$ and $4x^2$, we simplify $3 \times x \times 4 \time
 
 Here is another example. $-3x^2y \times 2x^3y^2 = -6x^5y^3$.
 
+Multiply the following terms.
+
+1. $2x$ and $3x^2$
+
+2. $2xy$ and $4x^2$
+
+3. $3x^3$ and $5y$.
+
 
 ### Multiplying Polynomials
 
@@ -16,3 +24,11 @@ To multiply a monomial by a polynomial, multiply the monomial by each term in th
 To multiply a binomial by a polynomial, multiply the first term in the binomial by the polynomial, then multiply the second term in the binomial by the polynomial, then add them all together. For example, to multiply $2 + 3x$ and $-7 + 2x - x^2$, we add $2(-7) + 2(2x) + 2(-x^2)$ and $3x(-7) + 3x(2x) + 3x(-x^2)$ to get $-14 + 4x + -2x^2 + -21x + 6x^2 - 3x^4$, then simplify to get $-14 - 17x + 5x^2 - 3x^3$.
 
 In general, to multiply two polynomials, we multiply each term in the first polynomial by the second polynomial, then add them all together. In this course, the most complex case will have to deal with is multiplying a binomial by a polynomial.
+
+Multiply the following polynomials.
+
+1. $3 + 2x$ and $4$
+
+2. $3 + 2x$ and $5 - x$
+
+3. $3 + 2x$ and $3 + x - 2x^2$.

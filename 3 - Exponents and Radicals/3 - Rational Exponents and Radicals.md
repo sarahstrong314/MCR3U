@@ -15,6 +15,12 @@ Now let $\sqrt[3]{a} = a^n$. Since $(\sqrt[3]{a})^3 = a^1$, we can write $(a^n)^
 
 $a^\frac{1}{n}$ is the $n$th root of $a$. So $a^\frac{1}{2}$ is the squareroot of $a$, $a^\frac{1}{5}$ is the fifth root of $a$, and so on.
 
+Write each of the following expressions as a radical. Check your solutions by evaluating each one with a calculator.
+
+1. $16^{1/2}$
+
+2. $27^{1/3}$
+
 
 ### Rational Exponents
 
@@ -24,6 +30,13 @@ $a^\frac{n}{m} = a^{\frac{1}{m}^n} = \sqrt[m]{a}^n$.
 $a^\frac{n}{m} = a^{n^\frac{1}{m}} = \sqrt[m]{a^n}$.
 
 $a^\frac{n}{m}$ is the $m$th root of $a^n$, and also the $n$th power of the $m$th root of $a$.
+
+
+Write each of the following expressions as a radical. Check your solutions by evaluating each one with a calculator.
+
+1. $16^{3/2}$
+
+2. $27^{4/3}$
 
 
 ### Distribution Rules of Radicals

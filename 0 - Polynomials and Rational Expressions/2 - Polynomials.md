@@ -11,12 +11,30 @@ Polynomials
 
 * The **degree of a polynomial** is the degree of its leading term when the polynomial has been reduced. Example: 4 is the degree of $7x^3 + 6x + x^4$.
 
- 
+Fill in the table below by describing each of the polynomials.
+
+| Polynomial | Leading Term | Degree |
+| --- | --- | --- | 
+| $x + y$| | |
+| $4x^2 + x^3$ | | |
+| $x^5 + 7x^6 + x^2$ | | |
+| $x + y + 2xy + xy^3$ | | |
+
+
 ### Simplifying Polynomials
 
 Recall that a polynomial is a sum of terms. For example, $1 + 2x + x^2$ is a polynomial because 1, $2x$, and $x^2$ are all terms.  $1 - 2x + x^2$ is also a polynomial because it is the sum of 1$,$ $-2x$, and $x^2$, which are all terms. 
 
 We can simplify polynomials by adding all the sets of like terms. For example, we can simplify $-3 + x + y^2 + 2x$ to $ -3 + 3x + y^2$.
+
+
+Simplify the following polynomials.
+
+1. $x + 4y + 2x + x^2$
+
+2. $2 + x^3 + 4 + y^2 + y^2$
+
+3. $x^3 + 3x^2 + 3x^3 + y$.
 
 
 ### Types of Polynomials

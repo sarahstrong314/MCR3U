@@ -17,7 +17,7 @@ These are the key features of a sinusoidal function in the form $f(x) = asin(k(x
 * The range is $[c - \abs{a}, c + \abs{a}]$.
 * The amplitude is $\abs{a}$.
 * The phase shift is $\frac{d}{k}$.
-* The period is $\frac{360\degree}{\abs{k}}$.
+* The period is $\frac{360^\circ}{\abs{k}}$.
 * The maximum value is $c + \abs{a}$.
 * The minimum value is $c - \abs{a}$.
 

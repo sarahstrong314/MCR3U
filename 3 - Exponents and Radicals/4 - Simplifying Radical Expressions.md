@@ -19,3 +19,9 @@ When the radicand is a fraction, we can use the property
 $\sqrt{\frac{a}{b}} = \frac{\sqrt{a}}{\sqrt{b}}$. This comes from the Power of Quotients rule.
 
 Simplifying radical expressions that are fractions will be cover later on this unit.
+
+Simplify each of the following radical expressions.
+
+1. $\sqrt{96}$
+
+2. $\sqrt{150}$

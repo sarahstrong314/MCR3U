@@ -11,3 +11,9 @@ For example, the rational expression $\frac{(x + 1)(x - 3)}{x + 2}$ is simplifie
 Since we cannot divide by 0, there may be restrictions for the variables in the denominator. If the denominator is factorable, we can find the restrictions by factoring it and finding the root of each factor. 
 
 For example, the restriction of $\frac{(x + 1)(x - 3)}{x + 2}$ is $x \ne 2$.
+
+Simplify each of the following rational expressions and state their restrictions.
+
+1. $\frac{x^2 + 7x + 10}{x + 5}$
+
+2. $\frac{2x^2 - 3x - 9}{(2x + 3)(-x + 5)}$

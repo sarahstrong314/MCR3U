@@ -7,37 +7,37 @@ Recall the sine values of some of the special angles.
 
 | $\theta$ | $sin\theta$ |
 | --- | --- |
-| $0\degree$ | 0 |
-| $30\degree$ | $\frac{1}{2}$ |
-| $60\degree$ | $\frac{\sqrt{3}}{2}$ |
-| $90\degree$ | 1 |
+| $0^\circ$ | 0 |
+| $30^\circ$ | $\frac{1}{2}$ |
+| $60^\circ$ | $\frac{\sqrt{3}}{2}$ |
+| $90^\circ$ | 1 |
 
 Recall the following table for finding related angles.
 
 | Quadrant of angle $\theta$ | Related angle |
 | --- | --- | --- | --- | 
 | $Q1$  | $\theta$ |
-| $Q2$ | $180\degree - \theta$ | 
-| $Q3$ | $\theta- 180\degree$ | 
-| $Q4$ | $360\degree - \theta$ | 
+| $Q2$ | $180^\circ - \theta$ | 
+| $Q3$ | $\theta- 180^\circ$ | 
+| $Q4$ | $360^\circ - \theta$ | 
 
-We can use this along with the CAST rule to finish the rest of the table of values using increments of $30\degree$ up to $360\degree$.
+We can use this along with the CAST rule to finish the rest of the table of values using increments of $30^\circ$ up to $360^\circ$.
 
 | $\theta$ | $sin\theta$ |
 | --- | --- |
-| $0\degree$ | 0 |
-| $30\degree$ | $\frac{1}{2}$ |
-| $60\degree$ | $\frac{\sqrt{3}}{2}$ |
-| $90\degree$ | 1 |
-| $120\degree$ | $\frac{\sqrt{3}}{2}$ |
-| $150\degree$ | $\frac{1}{2}$ |
-| $180\degree$ | 0 |
-| $210\degree$ | $-\frac{1}{2}$ |
-| $240\degree$ | $-\frac{\sqrt{3}}{2}$ |
-| $270\degree$ | -1 |
-| $300\degree$ | $-\frac{\sqrt{3}}{2}$ |
-| $300\degree$ | $-\frac{1}{2}$ |
-| $360\degree$ | 0 |
+| $0^\circ$ | 0 |
+| $30^\circ$ | $\frac{1}{2}$ |
+| $60^\circ$ | $\frac{\sqrt{3}}{2}$ |
+| $90^\circ$ | 1 |
+| $120^\circ$ | $\frac{\sqrt{3}}{2}$ |
+| $150^\circ$ | $\frac{1}{2}$ |
+| $180^\circ$ | 0 |
+| $210^\circ$ | $-\frac{1}{2}$ |
+| $240^\circ$ | $-\frac{\sqrt{3}}{2}$ |
+| $270^\circ$ | -1 |
+| $300^\circ$ | $-\frac{\sqrt{3}}{2}$ |
+| $300^\circ$ | $-\frac{1}{2}$ |
+| $360^\circ$ | 0 |
 
 By plotting these points and connecting them with a smooth curve, we see that the shape of the sine function resembles a wave. In fact, this shape is referred to as the **sine wave**.
 
@@ -46,25 +46,25 @@ By plotting these points and connecting them with a smooth curve, we see that th
 
 Going through the same procedure as for the sine function, we can come up with this table of values for the cosine function.
 
-We can use this along with the CAST rule to finish the rest of the table of values using increments of $30\degree$ up to $360\degree$.
+We can use this along with the CAST rule to finish the rest of the table of values using increments of $30^\circ$ up to $360^\circ$.
 
 | $\theta$ | $cos\theta$ |
 | --- | --- |
-| $0\degree$ | 1 |
-| $30\degree$ | $\frac{\sqrt{3}}{2}$ |
-| $60\degree$ | $\frac{1}{2}$ |
-| $90\degree$ | 0 |
-| $120\degree$ | $-\frac{1}{2}$ |
-| $150\degree$ | $-\frac{\sqrt{3}}{2}$ |
-| $180\degree$ | -1 |
-| $210\degree$ | $-\frac{\sqrt{3}}{2}$ |
-| $240\degree$ | $-\frac{1}{2}$ |
-| $270\degree$ | 0 |
-| $300\degree$ | $\frac{1}{2}$ |
-| $330\degree$ | $\frac{\sqrt{3}}{2}$ |
-| $360\degree$ | 0 |
+| $0^\circ$ | 1 |
+| $30^\circ$ | $\frac{\sqrt{3}}{2}$ |
+| $60^\circ$ | $\frac{1}{2}$ |
+| $90^\circ$ | 0 |
+| $120^\circ$ | $-\frac{1}{2}$ |
+| $150^\circ$ | $-\frac{\sqrt{3}}{2}$ |
+| $180^\circ$ | -1 |
+| $210^\circ$ | $-\frac{\sqrt{3}}{2}$ |
+| $240^\circ$ | $-\frac{1}{2}$ |
+| $270^\circ$ | 0 |
+| $300^\circ$ | $\frac{1}{2}$ |
+| $330^\circ$ | $\frac{\sqrt{3}}{2}$ |
+| $360^\circ$ | 0 |
 
-By plotting these points and connecting them with a smooth curve, we see that it has the same shape as the sine function. We can take the graph of the sine function and translate it horizontally by $90\degree$ to get the graph of the cosine function. Note that the the $y$-intercept of the cosine function is $(1,0)$, whereas for the sine function it was $(0,0)$.   
+By plotting these points and connecting them with a smooth curve, we see that it has the same shape as the sine function. We can take the graph of the sine function and translate it horizontally by $90^\circ$ to get the graph of the cosine function. Note that the the $y$-intercept of the cosine function is $(1,0)$, whereas for the sine function it was $(0,0)$.   
 
 
 ### Increasing and Decreasing Intervals
@@ -74,8 +74,8 @@ By plotting these points and connecting them with a smooth curve, we see that it
 
 Both the sine and cosine function have infinitely many increasing and decreasing intervals.
 
-In the function $f(\theta) = cos\theta$, $(0\degree, 180\degree)$ is a decreasing interval and $(180\degree, 360\degree)$ is an increasing interval. At the maxima and minima, the function is considered to be neither increasing not decreasing.
+In the function $f(\theta) = cos\theta$, $(0^\circ, 180^\circ)$ is a decreasing interval and $(180^\circ, 360^\circ)$ is an increasing interval. At the maxima and minima, the function is considered to be neither increasing not decreasing.
 
-Since the cosine function repeats itself after every 360\degree, all of the decreasing intervals start at a multiple of $360\degree$ and end $180\degree$ later. We can express all decreasing intervals as $(k360\degree, k360\degree + 180\degree)$, $k \in \mathbb{Z}$. Similarly, we can express all increasing intervals as $(k360\degree - 180\degree, k360\degree)$, $k \in \mathbb{Z}$.
+Since the cosine function repeats itself after every 360^\circ, all of the decreasing intervals start at a multiple of $360^\circ$ and end $180^\circ$ later. We can express all decreasing intervals as $(k360^\circ, k360^\circ + 180^\circ)$, $k \in \mathbb{Z}$. Similarly, we can express all increasing intervals as $(k360^\circ - 180^\circ, k360^\circ)$, $k \in \mathbb{Z}$.
 
-Using the same process, the increasing intervals for the sine function are (k360\degree - 90\degree, k360\degree + 90\degree), k \in \mathbb{Z} and the decreasing intervals are (k360\degree + 90\degree, k360\degree + 270\degree), k \in \mathbb{Z}.
+Using the same process, the increasing intervals for the sine function are (k360^\circ - 90^\circ, k360^\circ + 90^\circ), k \in \mathbb{Z} and the decreasing intervals are (k360^\circ + 90^\circ, k360^\circ + 270^\circ), k \in \mathbb{Z}.

@@ -9,3 +9,14 @@ For example, $\frac{x^2}{3} \times \frac{5}{x} = \frac{5x^2}{3x} = \frac{5x}{3}$
 To divide two rational expressions, multiply the first one by the reciprocal of the second one.
 
 For example, $\frac{x^2}{3} \div \frac{5}{x} = \frac{x^2}{3} \times \frac{x}{5} = \frac{x^3}{15}$.
+
+Multiply each of the following rational expressions.
+1. $\frac{(x - 3)(x + 2)}{(x - 2)}$ and $\frac{(x + 3)(x - 3)}{(x - 2)^2}$
+
+2. $\frac{2x^2 - 11x + 5}{(x - 2)}$ and $\frac{(x + 3)(x - 1)}{(x - 5)(x + 1)}$
+
+
+Divide each of the following rational expressions.
+1. $\frac{(x - 3)(x + 2)}{(x - 2)}$ and $\frac{(x + 3)(x - 3)}{(x - 2)^2}$
+
+2. $\frac{2x^2 - 11x + 5}{(x - 2)}$ and $\frac{(x + 3)(x - 1)}{(x - 5)(x + 1)}$

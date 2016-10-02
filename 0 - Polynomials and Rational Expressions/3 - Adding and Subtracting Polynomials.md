@@ -10,6 +10,14 @@ To add two polynomials, we first combine them into one polynomial, then we simpl
 Here is another example.
 $(1 + 3x + 2x^2) + (2 - 2x + x^2) = 1 + 3x + 2x^2 + 2 - 2x + x^2 = 1 + 2 + 3x - 2x + 2x^2 + x^2 = 3 + x + 3x^2$.
 
+Add the following polynomials.
+
+1. $1 + 2x + 3x^2$ and $4 + 2x + x^2$
+
+2. $2 + x^3$ and $4 + x^2 + 2x^3$
+
+3. $x^3 + x^2$ and $3x^3 + 1$.
+
 
 ### Subtracting Polynomials
 
@@ -19,3 +27,11 @@ For example, to subtract $3 + 4x$ and $-7 + 2x + x^2$, we first negate the secon
 
 Here is another example.
 $(1 + 3x + 2x^2) - (2 - 2x + x^2) = 1 + 3x + 2x^2 - 2 + 2x - x^2 = 1 - 2 + 3x + 2x + 2x^2 - x^2 = -1 + 5x + x^2$.
+
+Subtract the following polynomials.
+
+1. $1 + 2x + 3x^2$ and $4 + 2x + x^2$
+
+2. $2 + x^3$ and $4 + x^2 + 2x^3$
+
+3. $x^3 + x^2$ and $3x^3 + 1$.

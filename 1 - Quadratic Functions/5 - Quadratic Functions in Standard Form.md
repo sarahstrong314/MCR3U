@@ -61,3 +61,12 @@ $f(x) = 2(x^2 - 2x + 1) - 2 + 5$
 $f(x) = 2(x - 2)^2 + 4$
 
 This tells us that the vertex of $2x^2 - 4x + 5$ is $(2, 1)$.
+
+
+Write each of the following quadratic functions in vertex form.
+
+1. $f(x) = x^2 + 2x + 15$
+
+2. $f(x) = 4x^2 - 4x - 2$
+
+3. $f(x) = (x - 1)(x - 3)$

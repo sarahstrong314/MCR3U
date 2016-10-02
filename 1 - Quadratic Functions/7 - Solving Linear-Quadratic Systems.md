@@ -18,3 +18,11 @@ Since we know how to graph both linear and quadratic functions, one way to find 
 To find the intersections without graphing, we simply equate them and solve for the roots.
 
 For example, to find the intersections of $f(x) = x + 2$ and $g(x) = x^2$, find the solutions to $x + 2 = x^2$. We get $0 = x^2 - x - 2 = (x + 1)(x - 2)$, so the roots are when $x = -1$ and $x = 2$. This tells us that $f(x) = x + 2$ and $g(x) = x^2$ intersect when $x = -1$ and $x = 2$. Now we plug those values into either $f(x) = x + 2$ or $g(x) = x^2$, to get the points $(-1, 1)$ and $(2, 4)$.
+
+Find all the points of intersection, if any, among each set of functions.
+
+1. $f(x) = 2x + 15$ and $g(x) = x^2$
+
+2. $f(x) = -x - 4$ and $g(x) = x^2 + x$
+
+3. $f(x) = x + 3$ and $g(x) = 2x^2 + 3$

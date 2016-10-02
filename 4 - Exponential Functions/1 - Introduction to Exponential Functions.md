@@ -48,4 +48,4 @@ If we cannot get a common base, we can use the **logarithm** function to calcula
 
 ### Inverses of Exponential Functions
 
-The inverse of an exponential function is called a **logarithmic function**. The exponential function y = 2^x has the solution x = log_2y. Logarithmic functions are not covered in the course, but are covered in *Advanced Functions*.
+The inverse of an exponential function is called a **logarithmic function**. The exponential function $y = 2^x$ has the solution $x = log_2y$. Logarithmic functions are not covered in the course, but are covered in *Advanced Functions*.

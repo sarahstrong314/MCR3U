@@ -21,7 +21,7 @@ Examples: The transformation of $f(x) = 2x^2$ is a horizontal compression by a f
 
 ### Reflection
 
-A **reflection** is a transformation resulting from either the independent variable or the function being multiplied by $-1$.
+A **reflection** is a transformation resulting from either the independent variable or the function being multiplied by -1.
 
 If $k$ is negative, it denotes a reflection along the $y$-axis. If a is negative, it denotes a reflection along the $x$-axis.
 

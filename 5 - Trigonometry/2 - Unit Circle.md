@@ -15,10 +15,10 @@ We can use the unit circle to find exact values of the trigonometric functions o
 
 | Point | $\theta$ | $cos\theta$ | $sin\theta$ |
 | --- | --- | --- | --- | 
-| $(1,0)$  | $0\degree$ | 1 | 0 | 
-| $(0,1)$ | $90\degree$ | 0 | 1 | 
-| $(-1,0)$ | $180\degree$ | -1 | 0 |
-| $(0,-1)$ | $270\degree$ | 0 | -1 |
+| $(1,0)$  | $0^\circ$ | 1 | 0 | 
+| $(0,1)$ | $90^\circ$ | 0 | 1 | 
+| $(-1,0)$ | $180^\circ$ | -1 | 0 |
+| $(0,-1)$ | $270^\circ$ | 0 | -1 |
 
 
 ### Definitions
@@ -26,7 +26,7 @@ We can use the unit circle to find exact values of the trigonometric functions o
 When an angle is drawn on a Cartesian Plane, the two arms that form it are called the **initial arm** and the **terminal arm**. The angle starts from the initial arm and ends at the terminal arm. If the terminal arm is closer to the initial arm in the counterclockwise direction than in the clockwise direction, the angle is positive. Otherwise, the angle is negative.
 
 * An angle is in **standard position** when its initial arm is on the positive $x$-axis and its vertex is at the origin. 
-* Two angles are **co-terminal angles** if they are both in standard position that have the same terminal arm. The difference of two co-terminal angles is always a multiple of $360\degree$.
+* Two angles are **co-terminal angles** if they are both in standard position that have the same terminal arm. The difference of two co-terminal angles is always a multiple of $360^\circ$.
 
 
 ### CAST Rule
@@ -37,7 +37,7 @@ The CAST rule tells us which primary trigonometry ratios are positive in each of
 
 | Quadrant | size of angle in standard position | $sin\theta$ | $cos\theta$ | $tan\theta$ |
 | --- | --- | --- | --- | 
-| $Q4$ | $0\degreee < \theta< 90\degree$ | - | + | - | 
-| $Q1$ | $90\degree < \theta< 180\degree$ | + | + | + | 
-| $Q2$ | $180\degree < \theta< 270\degree$ | + | - | - |
-| $Q3$ | $270\degree < \theta< 360\degree$ | - | - | + |
+| $Q4$ | $0^\circe < \theta< 90^\circ$ | - | + | - | 
+| $Q1$ | $90^\circ < \theta< 180^\circ$ | + | + | + | 
+| $Q2$ | $180^\circ < \theta< 270^\circ$ | + | - | - |
+| $Q3$ | $270^\circ < \theta< 360^\circ$ | - | - | + |

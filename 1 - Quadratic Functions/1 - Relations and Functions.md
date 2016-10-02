@@ -22,10 +22,10 @@ ${(1,1), (1,4), (2,6), (5,2), (3,7)}$
 
 | $x$ | $y$ |
 | --- | --- |
-| 0 | $-1$ |
+| 0 | -1 |
 | 1 | 10 |
 | 2 | 8 |
-| 3 | $-11$ |
+| 3 | -11 |
 
  $y^2 = x^2 + 4$
 
@@ -40,17 +40,37 @@ ${(1,1), (1,4), (2,6), (5,2), (3,7)}$ is not a function since the $x$-coordinate
 
 The following table of values is a function since each $x$-coordinate has only one corresponding $y$-coordinate.
 
-| $x$ | y |
+| $x$ | $y$ |
 | --- | --- |
-| 0 | $-1$ |
+| 0 | -1 |
 | 1 | 10 |
 | 2 | 8 |
-| 3 | $-11$ |
+| 3 | -11 |
 
 
 To tell whether a graph of a relation is a function, use the **vertical-line test**. This involves holding a straight-edge, such as a ruler, parallel to the $y$-axis and moving it along to see whether it hits two or more points of the relation at once. If it does not, the relation is a function.
  
 To tell whether an equation is a function, graph it and use the vertical-line test.
+
+
+Which of the following relations are not functions? Modify the ones that are not to turn them into functions.
+
+1. {(3, 4), (1, 5), (-2, -2), (3, 6), (2, 9), (-1, 9)}
+
+
+2.
+| $x$ | $y$ |
+| --- | --- |
+| 0 | -1 |
+| 1 | 1 |
+| 2 | 5 |
+| 3 | -4 |
+| 4 | -1 |
+| 5 | 3 |
+
+
+3 $2y = x^2 + 2$
+
 
 
 ### Function Notation
@@ -74,3 +94,12 @@ Using the three functions above, $f(3) = 4$, $g(3) = 16$, and $h(3) = 27a - 15$.
 
 We can also substitute polynomials in place of $x$. To do this, we replace every instance of $x$ in the equation with the polynomial.
 Using the three functions above, $f(x + c) = x + c + 1$, $g(x - d) = (x - d)^2 + 3(x - d) - 2$, and $h(kx) = a(kx)^2 - 5kx$. 
+
+
+If $f(x) = 2x$, express the following.
+
+1. $f(-x)$
+
+2. $f(x + 2)$
+
+3. $f(x^2)$

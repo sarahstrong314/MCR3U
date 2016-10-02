@@ -34,12 +34,35 @@ Here is an example of a quadratic function represented as a table of values. The
 
 | $x$ | $f(x)$ |
 | --- | --- |
-| 0 | $-4$ |
-| 1 | $-1$ |
+| 0 | -4 |
+| 1 | -1 |
 | 2 | 6 |
-| 3 | $17$ |
+| 3 | 17 |
 
 When quadratic functions are graphed on a Cartesian plane, the shape it makes is called a **parabola**.
+
+Which of the following tables of values represent quadratic functions?
+
+1.
+| $x$ | $f(x)$ |
+| --- | --- |
+| 0 | 4 |
+| 1 | 3 |
+| 2 | 0 |
+| 3 | -5 |
+| 4 | -12 |
+| 5 | -21 |
+
+2.
+| $x$ | $f(x)$ |
+| --- | --- |
+| 0 | 7 |
+| 1 | 4 |
+| 2 | 3 |
+| 3 | 4 |
+| 4 | 7 |
+| 5 | 12 |
+
 
 
 ### Key features of Parabolas 

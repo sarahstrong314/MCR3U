@@ -23,3 +23,12 @@ Because a parabola is vertically symmetrical, the $x$-coordinate of the vertex i
 To sketch a linear function, we need at least two points, but to sketch a quadratic function, we need at least three points. To sketch as accurately as possible, we should find the vertex, the roots, and the $y$-intercept. If some of those points coincide and we do not have enough points, we can find some other points by substituting convenient values of $x$.
 
 Once we have enough important points, all we do is plot and connect them to create a parabola.
+
+
+For each of the following quadratic functions, find its roots, its vertex, its y-intercept, then sketch it.
+
+1. $f(x) = (x - 4)(x + 3)$
+
+2. $f(x) = 2(x + 4)(x - 3)$
+
+3. $f(x) = -(x - 4)(x + 3)$

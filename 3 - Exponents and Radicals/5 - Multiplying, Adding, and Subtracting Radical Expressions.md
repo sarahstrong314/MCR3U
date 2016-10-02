@@ -14,6 +14,13 @@ For example, $3\sqrt{2} \times 4\sqrt{3} = 12\sqrt{6}$.
 To multiply two radical expressions that involve both integers and radicals, we use the distribution rule just like when expanding polynomials.
 
 
+Rewrite each of the following expressions as a single radical and simplify.
+
+1. $\sqrt{8} \times \sqrt{3}$
+
+2. $(2 + \sqrt{5}) \times \sqrt{3}$
+
+
 ### Adding and Subtracting Radical Expressions
 
 To add two radicals, we cannot apply a similar property as multiplication $\sqrt{a} + \sqrt{b} \ne \sqrt{a + b}$. However, if the radicands are the same, we can add them by simply adding their coefficients.
@@ -23,3 +30,10 @@ For example, $3\sqrt{5} + \sqrt{5} = 4\sqrt{5}$.
 To subtract to radicals with the same radicand, we simply subtract their coefficients.
 
 For example, $3\sqrt{5} - \sqrt{5} = 2\sqrt{5}$.
+
+
+Rewrite each of the following expressions as a single radical and simplify.
+
+1. $3\sqrt{8} + \sqrt{8}$
+
+2. $\sqrt{5} - \sqrt{20}$
