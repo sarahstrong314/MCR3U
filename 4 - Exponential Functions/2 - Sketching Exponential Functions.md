@@ -16,3 +16,17 @@ We can also check the values of a and b to ensure that the function is...
 * increasing if $a < 0$ and $0 < b < 1$.
 * decreasing if $a > 0$ and $0 < b < 1$.
 * decreasing if $a < 0$ and $b > 1$.
+
+
+Sketch the following exponential functions.
+
+1. $f(x) = -(2)^{4x)} + 3$
+
+2. $f(x) = 4(3)^{x - 1)}$
+
+
+Without sketching the following exponential functions, determiene whether they are increasing or decreasing functions.
+
+1. $f(x) = -(4)^{x - 3)}$
+
+2. $f(x) = -(2)^{-(x - 4)}$

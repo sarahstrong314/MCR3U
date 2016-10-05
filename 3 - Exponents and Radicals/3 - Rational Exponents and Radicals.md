@@ -5,7 +5,7 @@ Rational Exponents and Radicals
 
 A **radical** is an expression that uses the root symbol: $\sqrt{}$. The expression under the $\sqrt{}$ symbol is called a **radicand**. The word "radical" comes from the Latin word for root, *radix*.
 
-We will be using one of the previous identities to determine the exponents of radicals.
+We will be using one of the previous identities to determine the exponents of radical expressions.
 
 Recall the Power of Powers rule: $(a^n)^m = a^{nm}$.
 

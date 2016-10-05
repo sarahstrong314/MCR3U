@@ -16,16 +16,16 @@ Method 3. Graphing $f$ then reflecting it over the line $y = x$ results in a $y$
 
 When the inverse of a function $f$ is a function itself, it is often denoted by $f^{-1}$. We have seen the $^{-1}$ to denote an inverse when we work with inverse trigonometric ratios. In the example above, we would write $f(x) = x + 1$ and $f^{-1}(x) = x - 1$.
 
+The inverse of a quadratic function is a square root relation. It is important to remember the $\pm$ sign to indicate both the positive and negative square root.
 
-### Inverses of Polynomial Functions
 
-The inverse of a linear function is another linear function.
+Find the inverses of the following functions using an two of the following methods. Which of the inverses are also functions?
 
-The inverse of a quadratic function is a square root relation.
+1. $f(x) = \frac{3x}{2} - 3$
 
-The inverse of a cubic function is a cube root relation.
+2. $f(x) = \frac{1}{x + 3}$
 
-The inverse of any polynomial function is a radical relation, which uses the root symbol: $\sqrt{}$. It will also use the $\pm$ sign.
+3. $f(x) = 3(-x)^2$
 
 
 ### Properties of Function Inverses

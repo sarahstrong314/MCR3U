@@ -12,3 +12,9 @@ The previous example can be modelled with the function $f(x) = 48\frac{1}{2})^x$
 To solve problems involving predicting how much something decays after a period of time, all we have to do is model it as a function and plug in the desired value for the independent variable.
 
 A common application of exponential decay is decaying chemical elements. Unstable chemical elements have what is called a **half-life**, the amount of time it takes for half of it to decay. If there is 100 mg of a certain chemical element with a half-life of 50 years, its decay can be modelled with the function $f(x) = 100(\frac{1}{2})^\frac{x}{50}$.
+
+
+1. Plutonium-239 has a half-life of 24 years. How long will it take a 40 mg sample of Pu-239 to decay to 5% of its original amount?
+
+2. Titanium-44 has a half-life of 63 years. How long will it take a 100 mg sample of Ti-44 to decay to 25% of its original amount?
+

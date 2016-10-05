@@ -35,7 +35,29 @@ If $x$ happens to be an integer or a rational number, we can simply write both s
 
 Here is another example: $3 = 81^x$. This time, we can get a common base of 3. We divide 81 by 3 over and over again until we get 1, and counting how many times it takes. It took 4 times, so $81 = 3^4$. Then we have $3 = (3^4)^x = 3^{4x}$. We equate the exponents to get $1 = 4x$, so $x = \frac{1}{4}$.
 
+Sometimes we have to change both bases to determine the value of x. For example, we in $8^x = 32$, we cannot multiply 8 by itself over and over again to get 32. However, we can rewrite $8^x$ as $2^{3x}$ since they are both equivalent. After determining that $2^5 = 32$, we get $3x = 5$ and thus $x = \frac{5}{3}$.
+
 If we cannot get a common base, we can use the **logarithm** function to calculate the exact amount. To solve for $a = b^x$, we calculate $x = \frac{log(a)}{log(b)}$ using the log button on a calculator. The logarithm function is the inverse of the exponential function, and will be covered in more detail in *Advanced Functions*.
+
+
+Solve for $x$ without using logarithms.
+
+1. $7^x = 2401$
+
+2. $5 = 5^x$
+
+3. $9^x = 27$
+
+### Power Table
+
+You may find this following table useful. The initial column represents bases and the initial row represents powers.
+
+|   | **2** | **3** | **4** | **5** |
+| --- | --- | --- | --- | --- |
+| **2** | 4 | 8 | 16 | 32 |
+| **3** | 9 | 27 | 81 | 273 |
+| **4** | 16 | 64 | 256 | 1024 |
+| **5** | 25 | 125 | 625 | 3125 |
 
 
 ### Real-life Exponential Growth and Decay
@@ -48,4 +70,4 @@ If we cannot get a common base, we can use the **logarithm** function to calcula
 
 ### Inverses of Exponential Functions
 
-The inverse of an exponential function is called a **logarithmic function**. The exponential function $y = 2^x$ has the solution $x = log_2y$. Logarithmic functions are not covered in the course, but are covered in *Advanced Functions*.
+The inverse of an exponential function is called a **logarithmic function**. The inverse of an exponential function $f(x)= a^x$ is $f^{-1}(x) = log_2x$. Logarithmic functions are also covered in *Advanced Functions*.

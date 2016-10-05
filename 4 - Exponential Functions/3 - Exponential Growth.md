@@ -12,3 +12,9 @@ The previous example can be modelled with the function $f(x) = 3(2)^x$, since th
 To solve problems involving predicting how much something grows after a period of time, all we have to do is model it as a function and plug in the desired value for the independent variable.
 
 A common application of exponential growth is bacteria population. Different bacteria grow exponentially by different factors. If there are 100 of a certain kind of bacteria that triples every two minutes, its growth can be modelled with the function $f(x) = 100(3)^\frac{x}{2}$, where $x$ is the number of minutes.
+
+
+
+1. A type of bacteria grows so that it quadruples in number every day. A sample has an initial population of 50. What will the population of the sample be after 1 month?
+
+2. A small town has a population of 2000. If it has a constant growth rate of 8% per year, what will its population be after 10 years?

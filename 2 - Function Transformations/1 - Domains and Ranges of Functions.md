@@ -29,7 +29,7 @@ $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{Q}$, and $\mathbb{R}$ are all **infinite se
 The **domain** of a function is the set of values that the independent variable can be.
 The **range** of a function is the set of values that the dependent variable can be.
 
-Here are some examples of domains and ranges of common functions. To exclude certain values, we can write a comma then state the restrictions .
+Here are some examples of domains and ranges of common functions. To exclude certain values, we can write a comma then state the restrictions.
 
 | Domain | Range |
 | --- | --- | --- |
@@ -38,6 +38,14 @@ Here are some examples of domains and ranges of common functions. To exclude cer
 | $f(x) = \sqrt{x}$ | $\mathbb{R}$, $x \le 0$ | $\mathbb{R}, x \le 0$ |
 | $(x) = \frac{1}{x}$ | $\mathbb{R}$, $x \ne 0$ | $\mathbb{R}, x \ne 0$ |
 | $f(x) = 2^x$ | $\mathbb{R}$ | $\mathbb{R}$, $x > 0$ |
+
+What are the domain and range of each of the following functions?
+
+1. $f(x) = x^2 + 2$
+
+2. $f(x) = -x^2 - 1$
+
+3. $f(x) = \frac{1}{x - 3}$
 
 
 ### Interval Notation
@@ -52,6 +60,14 @@ We can also use what is called **interval notation** to express the domain and r
 | $(a,b]$ | $a < x \le b$ |
 
 If there is no bound in one or both of the directions, we can use $−\infty$ for $a$ or $\infty$ for $b$. For example, $(0, \infty)$ is the set of positive real numbers, and $(-\infty, \infty)$ is the set of all real numbers. To denote that a given value is in an interval, we can use the $\in$ symbol. For example, $4 \in (0, 5)$.
+
+Express the following in interval noration.
+
+1. $3 < x \le 8$
+
+2. $ x < 4$
+
+3. $ -2 \le x$
 
 
 ### Continuous and Discrete Functions
