@@ -25,9 +25,13 @@ If we look at the degrees of $y$, it starts at 0 and increases by 1 each time.
 If we put this all together, we get the Binomial Theorem: $(x + y)^n = \sum_{i=0}^n{\binom{n}{i}x^{n-i}y^i}$, $n \ge 1$.
 
 
-Use the Binomial Theoerm to expand the following functions.
+When we are interested in coeffecients of certain terms, we can use square brackets notation. When we put variables of specific degrees in square brackets in front of an expression, it represents the coeffiient of that term in the expression. For example, $[xy](x + y)^2 = 2$ and $[x^2y^3](x + y)^5 = 10$. 
+
+
+Use the Binomial Theoerm to expand the following functions and find $[x^2]f(x)$.
 
 1. $f(x) = (2x + 1)^4$
 
 2. $f(x) = (2 - 5y)^2$
+
 
