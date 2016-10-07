@@ -20,3 +20,11 @@ We can find that sum easily by adding each column rather than each row.
 Each column adds up to 101, and there are 100 rows so the total sum is 10100. However, we counted each number twice, so we have to divide by 2 to get 5050.
 
 This gave us $S_100 = \frac{100(1+100)}{2}$.
+
+
+
+Find the sum of the first 100 terms of each of the following arithmetic series.
+
+1. $4 + 54 + 104 + 154 + 204 + ...$.
+
+2. $5 + 2 + (-1) + (-4) + (-7) + ...$.

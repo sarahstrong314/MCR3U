@@ -14,10 +14,17 @@ $\Sigma$ is the Greek letter capital sigma, which is similar to the English lett
 
 Here is an example of a series written in Sigma notation.
 
-$\sum_{n=1}^5 {2n}$ is $2(1) + 2(2) + 2(3) + 2(4) + 2(5) = 2 + 4 + 6 + 8 + 10$.
+$\sum_{n = 1}^5 {2n}$ is $2(1) + 2(2) + 2(3) + 2(4) + 2(5) = 2 + 4 + 6 + 8 + 10$.
 
 $2n$ is the expression for each term. The $n = 1$ under the Sigma denotes which value of $n$ to start with, and the 5 above the Sigma denotes which value of $n$ to stop at.
 
 Here is another example of a series written in Sigma notation.
 
-$\sum_{n=4}^7 {n^2 + 1}$ is $(4^2 + 1) + (5^2 + 1) + (6^2 + 1) + (7^2 + 1) = 17 + 26 + 37 + 50$.
+$\sum_{n = 4}^7 {n^2 + 1}$ is $(4^2 + 1) + (5^2 + 1) + (6^2 + 1) + (7^2 + 1) = 17 + 26 + 37 + 50$.
+
+
+Write out each of the following series as a sum of binomials.
+
+1. $\sum_{n = -1}^3 {2n + 3}$.
+ 
+2. $\sum_{n = -2}^2 {n^2 - 1}$.

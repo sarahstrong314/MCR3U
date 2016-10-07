@@ -79,3 +79,11 @@ In the function $f(\theta) = cos\theta$, $(0^\circ, 180^\circ)$ is a decreasing 
 Since the cosine function repeats itself after every 360^\circ, all of the decreasing intervals start at a multiple of $360^\circ$ and end $180^\circ$ later. We can express all decreasing intervals as $(k360^\circ, k360^\circ + 180^\circ)$, $k \in \mathbb{Z}$. Similarly, we can express all increasing intervals as $(k360^\circ - 180^\circ, k360^\circ)$, $k \in \mathbb{Z}$.
 
 Using the same process, the increasing intervals for the sine function are (k360^\circ - 90^\circ, k360^\circ + 90^\circ), k \in \mathbb{Z} and the decreasing intervals are (k360^\circ + 90^\circ, k360^\circ + 270^\circ), k \in \mathbb{Z}.
+
+Sketch one cycle of each of following trigonometric functions. State each functions's increasing and decreasing intervals.
+
+1. $f(x) = tanx$
+
+2. $f(x) = cscx$
+
+3. $f(x) = cscx$

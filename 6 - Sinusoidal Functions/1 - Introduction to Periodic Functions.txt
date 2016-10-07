@@ -17,3 +17,9 @@ The **axis** of a sinusoidal function is the horizontal line to which there is r
 * Tides
 * Sound waves
 * Circulating a fixed point
+
+Find the period and amplitude of the following periodic functions.
+
+1. [TODO: image]
+
+2. [TODO: image]

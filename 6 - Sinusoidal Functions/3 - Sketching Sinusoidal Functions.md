@@ -31,3 +31,9 @@ Here is a technique to sketch a sine or cosine function in the form $f(x) = asin
 6. Determine the period and mark the $x$-axis accordingly.
 
 Another technique is to simply draw the base function, apply the vertical stretch/compression, then the vertical shift, then the horizontal stretch/compression, then the horizontal shift. However, that involves a lot of erasing!
+
+Sketch the following trigonometric functions.
+
+1. $f(x) = 2sin(x - 90^\circ)$
+
+2. $f(x) = cos(-2x) + 3$

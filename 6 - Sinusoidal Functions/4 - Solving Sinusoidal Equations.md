@@ -8,3 +8,12 @@ Since the sine function has a period of $360^\circ$, if $sin\theta = x$ then $si
 When we are solving a sinusoidal function for a value of $\theta$, there are infinitely solutions when the domain is not restricted, but we can express the set of all solutions.
 
 For example, the solution to $sin\theta = \frac{1}{2}$, $0^\circ \le \theta< 360^\circ$, is $\theta = 30^\circ$ or $\theta= 150^\circ$. To express the set of all solutions to $sin\theta = \frac{1}{2}$, we can write $\theta = 30^\circ + k360^\circ$, $k \in \mathbb{Z}$ or $\theta = 150^\circ + k360^\circ$, $k \in \mathbb{Z}$.
+
+
+State the set of all solutions to the following sinusoidal equations.
+
+1. $sin2(\theta) = \frac{1}{2}$.
+
+2. $sin(\theta + 1) = \frac{1}{2}$.
+
+3. $sin(-\theta) = \frac{1}{2}$.

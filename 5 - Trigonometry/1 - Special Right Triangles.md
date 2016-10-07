@@ -40,3 +40,10 @@ Two triangles are **similar** if they have the same three interior angles, but n
 When we have two similar triangles, one's side lengths are a scalar multiple of the other's side lengths. We can use this to solve for missing side lengths in triangles that are similar to the special right triangles.
 
 For example, if we have $\Delta ABC$ where $\angle A = 30^\circ$, $\angle B = 90^\circ$, $\angle C = 60^\circ$, and $AC = 4$, we can compare it to the 30^\circ- 60^\circ - 90^\circ special triangle and note that the scalar multiple is 2. Then we know that $BC = 2$ and $AC = 2\sqrt{3}$, since every side is multiplied by 2.
+
+
+Find the missing sides of the following triangles by comparing them to the special triangles.
+
+1. [TODO: image]
+
+2. [TODO: image]

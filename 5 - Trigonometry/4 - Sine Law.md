@@ -29,3 +29,9 @@ If we use the Sine Law, we get $\frac{sinA}{a} = \frac{sinC}{c} \Rightarrow \fra
 This is the answer to the acute triangle, since your calculator will give the solution between $0^\circ$ and $90^\circ$. To find the answer to the obtuse triangle, we have to determine another solution to $C = sin^{-1}(\frac{3}{4})$. We know that the sine ratio is positive in $Q1$ and $Q2$, so the solution is somewhere between $90^\circ$ and $180^\circ$. Since $49^\circ$ is the related angle, we get $180^\circ - 49^\circ = 131^\circ$. We could also have just looked at the image and observed that they are supplementary angles.
 
 The ambiguous case occurs when the triangle is not a right triangle and the angle given is not opposite of the longest of the two given sides.
+
+Find the missing information of the following triangles using the Sine Law and/or other techniques.
+
+1. [TODO: image]
+
+2. [TODO: image]

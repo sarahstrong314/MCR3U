@@ -23,3 +23,11 @@ If we look at the degrees of $x$, it starts at $n$ and decreases by 1 each time.
 If we look at the degrees of $y$, it starts at 0 and increases by 1 each time.
 
 If we put this all together, we get the Binomial Theorem: $(x + y)^n = \sum_{i=0}^n{\binom{n}{i}x^{n-i}y^i}$, $n \ge 1$.
+
+
+Use the Binomial Theoerm to expand the following functions.
+
+1. $f(x) = (2x + 1)^4$
+
+2. $f(x) = (2 - 5y)^2$
+

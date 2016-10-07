@@ -37,7 +37,19 @@ The CAST rule tells us which primary trigonometry ratios are positive in each of
 
 | Quadrant | size of angle in standard position | $sin\theta$ | $cos\theta$ | $tan\theta$ |
 | --- | --- | --- | --- | 
-| $Q4$ | $0^\circe < \theta< 90^\circ$ | - | + | - | 
+| $Q4$ | $0^\circ < \theta< 90^\circ$ | - | + | - | 
 | $Q1$ | $90^\circ < \theta< 180^\circ$ | + | + | + | 
 | $Q2$ | $180^\circ < \theta< 270^\circ$ | + | - | - |
 | $Q3$ | $270^\circ < \theta< 360^\circ$ | - | - | + |
+
+If we have an angle that is not between $0^\circ$ and $360^\circ$, we can determine which quadrant it is by finding its coterminal angle between $0^\circ$ and $360^\circ$.
+
+Determine the sign of each primary trigonometric ratio of the following angles.
+
+1. $14^\circ$
+
+2. $-29^\circ$
+
+3. $102^\circ$
+
+4. $572^\circ$

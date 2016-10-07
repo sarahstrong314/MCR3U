@@ -22,3 +22,15 @@ Here a table summarizing how to find the related angle of any angle between 0^\c
 | $Q4$ | $360^\circ - \theta$ | 
 
 To find two angles from $0^\circ$ to $360^\circ$ for which the value of a given trigonometric ratio is the same, first determine the quadrant, other than $Q1$ for which the trigonometric ratio is positive. We can pick any angle in that quadrant, then find its related angles. The value of the trigonometric ratio for both of the angles will be the same.
+
+If we have an angle that is not between $0^\circ$ and $360^\circ$, we can determine which quadrant it is by finding its coterminal angle between $0^\circ$ and $360^\circ$.
+
+Find the related angle to each of the following.
+
+1. $14^\circ$
+
+2. $-29^\circ$
+
+3. $102^\circ$
+
+4. $572^\circ$

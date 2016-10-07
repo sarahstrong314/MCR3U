@@ -12,3 +12,9 @@ The Cosine Law is the following: $a^2 = b^2 + c^2 - 2bccosA$. We can also rearra
 The Cosine Law works on every triangle, however it is best used for cases in which the Sine Law does not work.
 
 If we use the Cosine Law on a right triangle, we get the Pythagorean Theorem.
+
+Find the missing information of the following triangles using the Cosine Law and/or other techniques.
+
+1. [TODO: image]
+
+2. [TODO: image]

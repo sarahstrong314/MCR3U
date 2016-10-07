@@ -40,3 +40,12 @@ The third diagonal is 1, 3, 6, 10, 15, ..., which can be expressed as $t_3(1) = 
 The fourth diagonal is 1, 4, 10, 20, 35, ..., which can be expressed as $t_4(1) = 1$, $t_4(n) = t_4(n-1) + t_3(n)$, $n \ge 2$.
 
 Each term in Pascal's Triangle can be denoted by $t_n,m$, where $n$ is the horizontal row number and $m$ is the diagonal row number. For example, $t_4,3$ is 6. The very first 1 is considered to be $t_0,0$, and is sometimes even excluded from the triangle.
+
+
+Write each of the following sequences either in function notation or as a recursive formula.
+
+1. 0, 2, 6, 12, 20, 30, 42, ... 
+
+2. 1, 4, 27, 1024, 3125, ...
+
+3. 1, 1, 1, 3, 5, 9, 17, 31, ...
