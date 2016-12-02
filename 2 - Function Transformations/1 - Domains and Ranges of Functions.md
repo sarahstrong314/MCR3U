@@ -29,15 +29,16 @@ $\mathbb{N}$, $\mathbb{Z}$, $\mathbb{Q}$, and $\mathbb{R}$ are all **infinite se
 The **domain** of a function is the set of values that the independent variable can be.
 The **range** of a function is the set of values that the dependent variable can be.
 
-Here are some examples of domains and ranges of common functions. To exclude certain values, we can write a comma then state the restrictions.
+Here are some examples of domains and ranges of common functions. To exclude certain values in a set, we can use a colon (:) or pipe (|) to separate the set and the restriction. The colon or pipe is often read as "such as".
 
 | Domain | Range |
 | --- | --- | --- |
 | $f(x) = x$ | $\mathbb{R}$ | $\mathbb{R}$ |
 | $f(x) = x^2$ | $\mathbb{R}$ | $\mathbb{R}$ |
-| $f(x) = \sqrt{x}$ | $\mathbb{R}$, $x \le 0$ | $\mathbb{R}, x \le 0$ |
-| $(x) = \frac{1}{x}$ | $\mathbb{R}$, $x \ne 0$ | $\mathbb{R}, x \ne 0$ |
-| $f(x) = 2^x$ | $\mathbb{R}$ | $\mathbb{R}$, $x > 0$ |
+| $f(x) = \sqrt{x}$ | ${\mathbb{R}: x \le 0}$ | ${\mathbb{R}: x \le 0}$ |
+| $(x) = \frac{1}{x}$ | ${\mathbb{R}: x \ne 0}$ | ${\mathbb{R}: $x \ne 0}$ |
+| $(x) = \abs{x}$ | $\mathbb{R}$ | ${\mathbb{R}: $x \ge 0}$ |
+
 
 What are the domain and range of each of the following functions?
 
@@ -46,6 +47,12 @@ What are the domain and range of each of the following functions?
 2. $f(x) = -x^2 - 1$
 
 3. $f(x) = \frac{1}{x - 3}$
+
+
+When functions are used to model real-life data, sometimes there may be other restrictions. For example, if time is the independent variable, the domain might be ${$\mathbb{R}$: $x \le 0$}$, since negative time does not always make sense.
+
+
+1. A quadratic function represents the relationship between the height of a ball and the time elapsed since the ball was thrown. What physical factors will restrict the domain and range of the quadratic function? 
 
 
 ### Interval Notation

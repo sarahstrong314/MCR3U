@@ -16,7 +16,7 @@ If we use the Sine Law on right triangles, we get SOHCAHTOA.
 
 ### The Ambiguous Case
 
-Ambiguous means "open to one or more interpretations". This is sometimes the case when we have two sides and angle.
+Ambiguous means "open to one or more interpretations". This is sometimes the case when we have two sides and an angle.
 
 Consider the two images below.
 
@@ -35,3 +35,10 @@ Find the missing information of the following triangles using the Sine Law and/o
 1. [TODO: image]
 
 2. [TODO: image]
+
+
+TODO: 
+- pose problems involving right triangles and oblique triangles in two-dimensional settings, and solve these and other such problems using the primary trigonometric ratios, the cosine law, and the sine law (including the ambiguous case) 
+- pose problems involving right triangles and oblique triangles in three-dimensional settings, and solve these and other such problems using the primary trigonometric ratios, the cosine law, and the sine law 
+
+1. Explain how a surveyor could find the height of a vertical cliff that is on the other side of a raging river, using a measuring tape, a theodolite, and some trigonometry. Determine what the surveyor might measure, and use hypothetical values for these data to calculate the height of the cliff.

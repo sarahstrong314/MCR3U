@@ -36,3 +36,8 @@ For each of the following quadratic functions, find its roots, its vertex, its y
 2. $f(x) = 2x^2 + 5$
 
 3. $f(x) = -(x - 4)^2 - 2$
+
+
+Enjoy this word problem.
+
+1. Let $H(t)$ be a quadratic function that model the height, in metres, of a ball $t$ seconds after being thrown upwards. Determine the initial height of the ball if it reaches a maximum height of 5 metres after 4 seconds and hits the ground after 7 seconds.

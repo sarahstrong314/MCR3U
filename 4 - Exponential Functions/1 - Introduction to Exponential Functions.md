@@ -16,6 +16,11 @@ $f(x) = 2*4^{x + 3} + 3$
 All exponential functions have the independent variable occurring only once in an exponent.
 
 
+Investigation: Using Desmos, graph the exponential functiosn above, and verify that they are all indeed functions. 
+
+Investigation: How to exponential functions differ from linear and quadratic functions in terms of their equations, their finite differences in tables of values, and their graphs?
+
+
 ### Properties of Exponential Functions
 
 The **base** of an exponential function is the base to the exponent the variable is in. 
@@ -25,6 +30,16 @@ For example, the base of $2^x$ is 2, and the base of $-3^x - 8$ is 3. In this co
 All exponential functions have a **horizontal asymptote**, which is a horizontal line that the function approaches, but does not cross. This asymptote exists because $0 = b^x$ does not have a solution for any value of $b$.
 
 All exponential functions also have only one $y$-intercept.
+
+All exponential functions are either increasing or decreasing or increasing functions, meaning it is either continuously growing (increasing) or continuously decaying (decreasing).
+
+
+Give a two possible equations for each of the following exponential functions, given its description. 
+
+1. The base is 2, the y-intercept is $(0, 4)$, and the horizontal asymptote is $f(x) = 3$.
+
+2. The base is 3, the y-intercept is $(0, 0)$, and the horizontal asymptote is $f(x) = -2$.
+
 
 
 ### Solving Exponential Equations

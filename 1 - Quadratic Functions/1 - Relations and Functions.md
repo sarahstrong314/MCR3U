@@ -69,7 +69,7 @@ Which of the following relations are not functions? Modify the ones that are not
 | 5 | 3 |
 
 
-3 $2y = x^2 + 2$
+3. $2y = x^2 + 2$
 
 
 
@@ -92,6 +92,14 @@ By writing them using function notation, we can easily refer to each function wi
 When we want to evaluate the function at a specific value of $x$, say 3, we can write $f(3)$ to mean the value of f evaluated at $x = 3$.
 Using the three functions above, $f(3) = 4$, $g(3) = 16$, and $h(3) = 27a - 15$.
 
+Evaluate the following, given that $f(x) = x^2 + 5$
+
+1. $f(2)$
+
+2. $f(-2)$
+
+3. $f(\frac{1}{2})$
+
 We can also substitute polynomials in place of $x$. To do this, we replace every instance of $x$ in the equation with the polynomial.
 Using the three functions above, $f(x + c) = x + c + 1$, $g(x - d) = (x - d)^2 + 3(x - d) - 2$, and $h(kx) = a(kx)^2 - 5kx$. 
 
@@ -103,3 +111,4 @@ If $f(x) = 2x$, express the following.
 2. $f(x + 2)$
 
 3. $f(x^2)$
+

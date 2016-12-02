@@ -18,3 +18,7 @@ Find the missing information of the following triangles using the Cosine Law and
 1. [TODO: image]
 
 2. [TODO: image]
+
+TODO: 
+- pose problems involving right triangles and oblique triangles in two-dimensional settings, and solve these and other such problems using the primary trigonometric ratios, the cosine law, and the sine law (including the ambiguous case) 
+- pose problems involving right triangles and oblique triangles in three-dimensional settings, and solve these and other such problems using the primary trigonometric ratios, the cosine law, and the sine law 

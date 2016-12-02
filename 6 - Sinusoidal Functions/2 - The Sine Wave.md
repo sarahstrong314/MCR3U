@@ -3,6 +3,8 @@ The Sine Wave
 
 ### The Sine Function
 
+The sine function is the function $f(x) = sinx$. This relation is a function since $sinx$ has only one solution for any value $x \in \mathbb{R}$.
+
 Recall the sine values of some of the special angles.
 
 | $\theta$ | $sin\theta$ |

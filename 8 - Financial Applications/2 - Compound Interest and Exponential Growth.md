@@ -36,3 +36,13 @@ If the rate of interest is not annual (i.e. per annum), we would use a slightly 
 Looking at the formula for compound interest, we can see that it is an exponential relation. This means that when you deposit money into an account using a compound interest plan and leave it, your money will grows in an exponential fashion.
 
 Depending on how often the rate is applied, it might not always be growing. Often, the interest is applied after every year, which would resemble an **exponential step function** rather than an exponential function.
+
+1. Describe an investment that could be represented by the function $f(x) = 500(1.05)^x$. 
+
+2. Two investments are available, one at 6% compounded annually and the other at 6% compounded monthly. Investigate graphically the growth of each investment, and determine the interest earned from depositing $1000 in each investment for 10 years. 
+
+TODO:
+- make and describe connections between compound interest, geometric sequences, and exponential growth, through investigation with technology (e.g., use a spreadsheet to make compound interest calculations, determine finite differences in the amounts over time, and graph amount versus time) 
+Sample problem: 
+- solve problems, using a scientific calculator, that involve the calculation of the amount, A (also referred to as future value, FV), the principal, P (also referred to as present value, PV), or the interest rate per compounding period, i, using the compound interest formula in the form A = P(1 + i)n [or FV = PV(1 + i)n] 
+- determine, through investigation using technology, the number of compounding periods, n, using the compound interest formula in the form A = P(1 + i)n [or FV = PV(1 + i)n]; describe strategies (e.g., guessing and checking; using the power of a power rule for exponents; using graphs) for calculating this number; and solve related problems 

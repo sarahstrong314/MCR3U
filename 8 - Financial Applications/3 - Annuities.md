@@ -50,3 +50,13 @@ Let $PV_n$ be the amount of money needed to finance n regular withdrawals. We kn
 | 4 | $(PV_2 + R)(1 + i)^{-1} = (\frac{R(3 + 3i + i^2)}{(1 + i)^2} + R)(1 + i)^{-1} = R(\frac{3 + 3i + i^2}{(1 + i)^2 + 1}(1 + i)^{-1} = ... = \frac{R(4 + 6i + 4i^2 + i^3)}{(1 + i)^2}$ |
 
 Comparing the two tables, we can see that in the second table each $PV_n$ has an additional factor of $\frac{1}{(1 + i)^n}$, but the values are otherwise identical. We can prove in a similar fashion as earlier how and why this formula works.
+
+Investigation: Use technology to determine the effects of changing the conditions (i.e., the payments, the frequency of the payments, the interest rate, the compounding period) of ordinary simple annuities.
+
+TODO:
+- determine the relationships between ordinary simple annuities (i.e., annuities in which payments are made at the end of each period, and compounding and payment periods are the same), geometric series, and exponential growth, through investigation with technology
+- solve problems, using a TVM solver, that involve the amount, the present value, and the regular payment of an ordinary simple annuity (e.g., calculate the total interest paid over the life of a loan, using a spreadsheet, and compare the total interest with the original principal of the loan) 
+
+1. Compare the amounts at age 65 that would result from making an annual deposit of $1000 starting at age 20, or from making an annual deposit of $3000 starting at age 50, to an RRSP that earns 6% interest per annum, compounded annually. What is the total of the deposits in each situation? 
+
+

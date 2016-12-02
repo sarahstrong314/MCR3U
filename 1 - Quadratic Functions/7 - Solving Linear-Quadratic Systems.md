@@ -3,7 +3,7 @@ Solving Linear-Quadratic Systems
 
 Recall from grade 9 that solving a system of equations involves finding points of intersection. This is what we will be doing, except with both linear and quadratic functions.
 
-When we graph a linear function and a quadratic function on the same plane, there are three possibilities for how they intersect. They either intersect 0 times, exactly once, or exactly twice.
+When we graph a linear function and a quadratic function on the same set of axes, there are three possibilities for how they intersect. They either intersect 0 times, exactly once, or exactly twice.
 
 Here are some examples.
 

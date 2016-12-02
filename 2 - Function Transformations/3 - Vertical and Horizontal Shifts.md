@@ -28,7 +28,7 @@ Describe the transformation of each of the following functions from $g(x)$.
 3. $g(x + 1) - 4$
 
 
-Describe the transformation of each of the following functions from its parent function.
+Describe the transformation of each of the following functions from its parent function, state its domain and range, and sketch both it and its parent function on the same set of axes.
 
 1. $f(x) = x + 4$
 

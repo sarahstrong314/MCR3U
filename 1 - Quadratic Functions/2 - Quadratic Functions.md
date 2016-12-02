@@ -63,6 +63,13 @@ Which of the following tables of values represent quadratic functions?
 | 4 | 7 |
 | 5 | 12 |
 
+3. $f(x) = 3x^2 + x + 0.5$
+
+4. $f(x) = x^2 + x/2$
+
+5. [TODO: image of parabola]
+
+6. [TODO: image of cubic]
 
 
 ### Key features of Parabolas 

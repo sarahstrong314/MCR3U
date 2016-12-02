@@ -25,6 +25,14 @@ If the discriminant is 0, we get only one real root, since $\frac{-b + \sqrt{0}}
 
 If the discriminant is negative, we get zero real roots, since the squareroot of a negative real number is not a real number. The quadratic relation still has roots, but they are **nonreal roots**, called complex numbers. Complex numbers cannot be graphed on a Cartesian Plane, so these roots will not be the $x$-intercepts.
 
+Calculate the discriminant of each of the following quadratic equations to determine how many real roots they each have. 
+
+1. $x^2 + 4x + 8$
+
+2. $x^2 + 6x + 9$
+
+3. $x^2 - 8x - 7$
+
 
 ### Finding the Vertex of a Quadratic Relation in Standard Form
 
@@ -70,3 +78,12 @@ Write each of the following quadratic functions in vertex form.
 2. $f(x) = 4x^2 - 4x - 2$
 
 3. $f(x) = (x - 1)(x - 3)$
+
+
+Enjoy these word problems.
+
+1. The profit, $P(x)$, of a video company, in thousands of dollars, is given by $P(x) = -5x^2 + 550x - 5000$, where $x$ is the amount spent on advertising, in thousands of dollars. Determine the maximum profit that the company can make, and the amounts spent on advertising that will result in a profit and that will result in a profit of at least $$4 000 000$. 
+
+2. Two positive integers have a difference of 4 and a product of 252. What are the two integers?
+
+3. A garden's length and width is being expanded by $x$ metres. If the garden's inital dimensions were 14 metres by 17 metres and the new area is 358.75 metres squared, what is $x$?

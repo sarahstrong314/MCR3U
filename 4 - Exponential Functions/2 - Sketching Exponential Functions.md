@@ -18,7 +18,7 @@ We can also check the values of a and b to ensure that the function is...
 * decreasing if $a < 0$ and $b > 1$.
 
 
-Sketch the following exponential functions.
+Sketch the following exponential functions. State their domains and ranges.
 
 1. $f(x) = -(2)^{4x)} + 3$
 
@@ -30,3 +30,17 @@ Without sketching the following exponential functions, determiene whether they a
 1. $f(x) = -(4)^{x - 3)}$
 
 2. $f(x) = -(2)^{-(x - 4)}$
+
+
+Investigation: Determine, using Desmos, that the equation of a given exponential function can be expressed using different bases [e.g., $f(x) = 9^x$ can be expressed as $f(x) = 3^{2x}$]. Explain the connections between the equivalent forms by comparing graphs, using transformations, using the exponent laws.
+
+Investigation: Determine and describe key properties relating to domain and range, intercepts, increasing/decreasing intervals, and asymptotes for exponential functions represented in a variety of ways [e.g., tables of values, mapping diagrams, graphs, equations, function machines].
+
+Investigation:  Determine using Desmos the roles of the parameters $a$, $k$, $d$, and $c$ in functions of the form $y = af (k(x – d)) + c$, and describe these roles in terms of transformations on the graph of $f(x) = a^x$, $a > 0$, $ a \ne 1$. (i.e., translations; reflections in the axes; vertical and horizontal stretches and compressions to and from the x- and y-axes).
+
+
+1. Graph $f(x) = 2^x$, $g(x) = 3^x$ and $h(x) = 0.5^x$ on the same set of axes. Make comparisons between the graphs, and explain the relationship between the $y$-intercepts. 
+
+2. Transform the graph of $f(x) = 3^x$ to sketch $g(x) = 3^{–(x + 1)} – 2$, and state the domain and range of each function
+
+3. Investigate the graph of $f(x) = 3(x – d) – 5$ for various values of $d$, using Desmos, and describe the effects of changing $d$ in terms of a transformation.

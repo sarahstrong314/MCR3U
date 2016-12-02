@@ -6,6 +6,10 @@ An **arithmetic sequence** is a sequence in which each pair of consecutive terms
 
 For example, the sequence 1, 3, 5, 7, 9, ... is an arithmetic sequence where $a = 1$ and $d = 2$.
 
+Arithmetic sequences are discrete linear functions.
+
+Investigation: How can an arithmetic sequence be written in function notation and as a recursive formula?
+
 An arithmetic sequence in function notation is $t(n) = a + d(n - 1)$.
 
 An arithmetic sequence represented as a recursive formula is $t(1) = a$, $t(n) = t(n-1) + d$, $n \ge 1$.

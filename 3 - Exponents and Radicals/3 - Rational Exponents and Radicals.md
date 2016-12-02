@@ -7,6 +7,7 @@ A **radical** is an expression that uses the root symbol: $\sqrt{}$. The express
 
 We will be using one of the previous identities to determine the exponents of radical expressions.
 
+
 Recall the Power of Powers rule: $(a^n)^m = a^{nm}$.
 
 Let $\sqrt{a} = a^n$. Since $(\sqrt{a})^2 = a^1$, we can write $(a^n)^2 = a^{2n} = a^1$. By the Power of Powers rule, $2n = 1$, giving $n = \frac{1}{2}$. This tells us that $\sqrt{a} = a^\frac{1}{2}$.
@@ -24,6 +25,8 @@ Write each of the following expressions as a radical. Check your solutions by ev
 
 ### Rational Exponents
 
+Investigation: Determine the value of a power with a rational exponent.
+
 When we have a rational exponent, such as $a^\frac{n}{m}$, we can express it in these two ways.
 
 $a^\frac{n}{m} = a^{\frac{1}{m}^n} = \sqrt[m]{a}^n$.
@@ -40,6 +43,8 @@ Write each of the following expressions as a radical. Check your solutions by ev
 
 
 ### Distribution Rules of Radicals
+
+Investigation: Verify that $\sqrt{ab} = \sqrt{a} \times \sqrt{b}$ when $a \ge 0$ and $b \ge 0$. 
 
 We know that $a^n \times b^n = (ab)^n$. We proved that this works when $n$ is a natural number. It also works when $n$ is a rational number, as long as $a$ and $b$ are not both negative.
 

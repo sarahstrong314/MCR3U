@@ -31,3 +31,8 @@ If the rate of interest is not annual (i.e. per annum), we can still use the for
 Looking at the formula for simple interest, we can see that it is a linear relation. This means that when you deposit money into an account using a simple interest plan and leave it, your money will grows in a linear fashion.
 
 Depending on how often the rate is applied, it might not always be growing. Often, the interest is applied after every year, which would resemble a **linear step function** rather than a linear function.
+
+1. Describe an investment that could be represented by the function f(x) = 500(1 + 0.05x). 
+
+TODO: 
+- make and describe connections between simple interest, arithmetic sequences, and linear growth, through investigation with technology (e.g., use a spreadsheet or graphing calculator to make simple interest calculations, determine first differences in the amounts over time, and graph amount versus time) 

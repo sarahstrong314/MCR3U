@@ -34,7 +34,7 @@ Describe the transformation of each of the following functions from g(x).
 3. $\frac{g(-2x)}{3}$
 
 
-Describe the transformation of each of the following functions from its parent function, and find the image of the origin.
+Describe the transformation of each of the following functions from its parent function, state its domain and range, and sketch both it and its parent function on the same set of axes. Also, find the image of the origin.
 
 1. $f(x) = \frac{-x}{2} + 4$
 
@@ -43,4 +43,3 @@ Describe the transformation of each of the following functions from its parent f
 3. $f(x) = \sqrt{-3(x + 3)}$
 
 4. $f(x) = \abs{-2x - 8)}$
-

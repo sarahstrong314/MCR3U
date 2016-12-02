@@ -17,3 +17,5 @@ Simplify each of the following rational expressions and state their restrictions
 1. $\frac{x^2 + 7x + 10}{x + 5}$
 
 2. $\frac{2x^2 - 3x - 9}{(2x + 3)(-x + 5)}$
+
+Two algebraic expressions are **equivalent** if they can be simplified to the same expression, with the same restrictions.

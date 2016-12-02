@@ -2,7 +2,7 @@ Parent Functions
 -------
 
 
-* A **family of functions** is a collection of functions that share the same shape. Two functions share the same shape when one can be transformed into the other by any of the following: shifting, stretching/compressing, and reflecting.
+* A **family of functions** is a collection of functions that are transformations of a common shape. Transformations include any of the following: shifting, stretching/compressing, and reflecting.
 
 Examples of families of functions include: linear functions, quadratic functions, cubic functions, absolute value functions, reciprocal functions, and radical functions (given the base).
 

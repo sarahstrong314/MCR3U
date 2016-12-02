@@ -8,6 +8,7 @@ Sketching Sinusoidal Functions
 * The **amplitude** of a periodic function is half the distance between the maximum value and the minimum value.
 * A **phase shift** of a periodic function is the horizontal shift its base function with the vertical compression applied.
 
+Investigation: What are the roles of the parameters $a$, $k$, $d$, and $c$ in functions of the form $y = asin(k(x – d)) + c$, (and $cos()$), and describe these roles in terms of transformations on the graphs of f(x) = sinx and f(x) = cosx (i.e., translations; reflections in the axes; vertical and horizontal stretches and compressions to and from the x- and y-axes) 
 
 ### Key Properties of Sinusoidal Functions
 
@@ -32,8 +33,15 @@ Here is a technique to sketch a sine or cosine function in the form $f(x) = asin
 
 Another technique is to simply draw the base function, apply the vertical stretch/compression, then the vertical shift, then the horizontal stretch/compression, then the horizontal shift. However, that involves a lot of erasing!
 
-Sketch the following trigonometric functions.
+Sketch the following trigonometric functions. State their domain, range, incercepts, amplitude, period, and extreme values.
 
 1. $f(x) = 2sin(x - 90^\circ)$
 
 2. $f(x) = cos(-2x) + 3$
+
+
+Enjoy the following word problems. 
+
+1. Investigate the graph $f(x) = 2sin(x – d) + 10$ for various values of $d$, using Desmos, and describe the effects of changing $d$ in terms of a transformation. 
+
+2. Transform the graph of $f(x) = cosx$ to sketch $g(x) = 3cos(2x) – 1$, and state the domain and range of each function.

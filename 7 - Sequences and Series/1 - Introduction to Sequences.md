@@ -3,6 +3,8 @@ Introduction to Sequences
 
 A **sequence** is an ordered list of values, called **terms**.
 
+Sequences are examples of **discrete functions**. So far we have been focusing on continuous funcitons.
+
 
 ### Function Notation
 
@@ -21,15 +23,23 @@ To represent a sequence with recursive formula, we need the initial term(s) and 
 
 For example, the sequence 1, 3, 7, 15, 31, ... can be written as the recursive formula $t(1) = 1$, $t(n) = 2t(n) + 1$, $n \ge 2$.
 
+Just For Fun: Google "recursive".
+
 
 ### Fibonacci Sequence
 
 The Fibonacci Sequence is this famous sequence: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
 
+Investigation: what are the recursive patterns? How can we write it as a recursive formula
+
 The first two terms are 1, then each term after that is the sum of its two previous terms.
+
+
 
 The Fibonacci Sequence can be written as a recursive formula: $t(1) = 1$, $t(2) = 1$, $t(n) = t(n-1) + t(n-2)$, $n \ge 2$.
 
+
+C.1.5 determine, through investigation, recursive patterns in the Fibonacci sequence
 
 ### Pascal's Triangle
 
