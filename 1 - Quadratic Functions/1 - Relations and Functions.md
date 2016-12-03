@@ -36,9 +36,12 @@ ${(1,1), (1,4), (2,6), (5,2), (3,7)}$
 
 To tell whether a set of ordered pairs or a table of values is a function, check whether each x value appears only once.
 
-${(1,1), (1,4), (2,6), (5,2), (3,7)}$ is not a function since the $x$-coordinate 1 has two corresponding $y$-coordinates: 1 and 4.
 
-The following table of values is a function since each $x$-coordinate has only one corresponding $y$-coordinate.
+Example: Is the set ${(1,1), (1,4), (2,6), (5,2), (3,7)}$ a function?
+
+Is not a function since the $x$-coordinate 1 has two corresponding $y$-coordinates: 1 and 4.
+
+Example: Is the following table of values a function?
 
 | $x$ | $y$ |
 | --- | --- |
@@ -47,8 +50,9 @@ The following table of values is a function since each $x$-coordinate has only o
 | 2 | 8 |
 | 3 | -11 |
 
+It is a function since each $x$-coordinate has only one corresponding $y$-coordinate.
 
-To tell whether a graph of a relation is a function, use the **vertical-line test**. This involves holding a straight-edge, such as a ruler, parallel to the $y$-axis and moving it along to see whether it hits two or more points of the relation at once. If it does not, the relation is a function.
+To tell whether a graph of a relation is a function, use the **vertical-line test**. This involves holding a straight-edge, such as a ruler, parallel to the $y$-axis and moving it along to see whether it ever hits two or more points of the relation at once. If it does not, the relation is a function.
  
 To tell whether an equation is a function, graph it and use the vertical-line test.
 
@@ -79,7 +83,7 @@ Every function is assigned a name when it is written in function notation. Often
 
 When we name a function $f$ and $x$ is the independent variable, the dependent variable is denoted by $f(x)$, pronounced "f of x". If we have more than one independent variable, such as both $x$ and $y$, we write $f(x, y)$.
 
-Here are examples of functions written as equations.
+Here are examples of functions written as equations. All we do differently is replace the usual dependent variable $y$.
 
 $f(x) = x + 1$
 
@@ -87,10 +91,13 @@ $g(x) = x^2 + 3x - 2$
 
 $h(x) = ax^3 - 5x$
 
-By writing them using function notation, we can easily refer to each function without confusing them. We also know for sure that $a$ in function $h$ is a constant, because if it were another variable we would write $h(a, x)$ instead.
+By writing these functions using function notation, we can easily refer to each function without confusing them. We also know for sure that $a$ in function $h$ is a constant, because if it were another variable we would write $h(a, x)$ or $h(x, a)$ instead.
 
 When we want to evaluate the function at a specific value of $x$, say 3, we can write $f(3)$ to mean the value of f evaluated at $x = 3$.
-Using the three functions above, $f(3) = 4$, $g(3) = 16$, and $h(3) = 27a - 15$.
+
+Example: Evaluate each of the functions above at $x = 3$.
+
+$f(3) = 4$, $g(3) = 16$, and $h(3) = 27a - 15$.
 
 Evaluate the following, given that $f(x) = x^2 + 5$
 
@@ -100,8 +107,11 @@ Evaluate the following, given that $f(x) = x^2 + 5$
 
 3. $f(\frac{1}{2})$
 
-We can also substitute polynomials in place of $x$. To do this, we replace every instance of $x$ in the equation with the polynomial.
-Using the three functions above, $f(x + c) = x + c + 1$, $g(x - d) = (x - d)^2 + 3(x - d) - 2$, and $h(kx) = a(kx)^2 - 5kx$. 
+We can also substitute another expression in place of $x$. To do this, we replace every instance of $x$ in the equation with the expression.
+
+Example: Express $f(x + c)$, $g(x - d)$, and $h(kx)$ using the three functions $f$, $g$, and $h$ defined earlier.
+
+$f(x + c) = x + c + 1$, $g(x - d) = (x - d)^2 + 3(x - d) - 2$, and $h(kx) = a(kx)^2 - 5kx$. 
 
 
 If $f(x) = 2x$, express the following.
@@ -111,4 +121,3 @@ If $f(x) = 2x$, express the following.
 2. $f(x + 2)$
 
 3. $f(x^2)$
-

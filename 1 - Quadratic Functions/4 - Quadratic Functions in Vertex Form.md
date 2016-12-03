@@ -12,20 +12,22 @@ All quadratic functions have either a maximum or minimum value. It has a minimum
 Since a parabola has vertical symmetry, the axis of symmetry goes through the vertex. 
 
 
-### Finding the Roots of a Quadratic Function in Vertex Form
+### Finding the Real Roots of a Quadratic Function in Vertex Form
 
 Recall that a quadratic function can have 0, 1, or 2 real roots.
 
-When it has 0 roots, $a$ and $k$ will have the same signs. If $k$ and $a$ are positive, the vertex is above the $x$-axis and the parabola opens up. If $k$ and $a$ are negative, the vertex is below the $x$-axis and the parabola opens down. In both cases, the parabola never touches the $x$-axis, meaning there are no real roots.
+When it has 0 real roots, $a$ and $k$ will have the same signs. If $k$ and $a$ are positive, the vertex is above the $x$-axis and the parabola opens up. If $k$ and $a$ are negative, the vertex is below the $x$-axis and the parabola opens down. In both cases, the parabola never touches the $x$-axis, meaning there are no real roots.
 
-When it has 1 root, $k$ will be 0. This is the case when the vertex is on the $x$-axis, meaning the vertex is the root.
+When it has 1 real root, $k$ will be 0. This is the case when the vertex is on the $x$-axis, meaning the vertex is the root.
 
-When it has 2 roots, $a$ and $k$ will have the opposite sign. To find the roots, we can let the dependent variable be 0, then rearrange the equation and solve for the independent variable.
+When it has 2 real roots, $a$ and $k$ will have the opposite sign. To find the roots, we can let the dependent variable be 0, then rearrange the equation and solve for the independent variable.
 
-Here is an example showing how to find the roots of $f(x) =  2(x - 3)^2 - 4$.
+Example: Find the real roots of $f(x) =  2(x - 3)^2 - 4$.
+
 $0 = 2(x - 3)^2 - 4 \Rightarrow 4 = 2(x - 3)^2 \Rightarrow \frac{4}{2} = (x - 3)^2 \Rightarrow \pm\sqrt{2} = x - 3 \Rightarrow \pm\sqrt{2} + 3 = x$. This gives $(3 + \sqrt{2}, 0)$ and $(3 - \sqrt{2}, 0)$ as the roots.
 
-Here is the general case.
+Here is the general case for finding the real roots.
+
 $0 = a(x - h)^2 + k \Rightarrow -k = a(x - h)^2 \Rightarrow \frac{-k}{a} = (x - h)^2 \Rightarrow \pm\sqrt{\frac{-k}{a}} = x - h \Rightarrow \pm\sqrt{\frac{-k}{a}} + h = x$. As we can see, this only returns real numbers when $k$ and $a$ have opposite signs.
 
 
