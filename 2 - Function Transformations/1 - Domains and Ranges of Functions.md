@@ -83,6 +83,6 @@ A **continuous function** is a function whose domain is one interval of real num
 
 A **discrete function** is a function that can be written explicitly as a finite number of ordered pairs. All discrete functions can be graphed by plotting a point for each coordinate.
 
-Some types of discrete functions are not often graphed. For examples, the Fibonacci Sequence is an example of a discrete function, and it is often simply written as a list of values: $1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...$ In this case, the independent variable is the term number, and the dependent variable is the value.
+Some types of discrete functions are not often graphed. For examples, the Fibonacci Sequence is an example of a discrete function, and it is often simply written as a list of values: $1, 1, 2, 3, 5, 8, 13, 21, 34, 55, ...$. In this case, the independent variable is the term number, and the dependent variable is the value.
 
 Not all functions are either continuous or discrete.

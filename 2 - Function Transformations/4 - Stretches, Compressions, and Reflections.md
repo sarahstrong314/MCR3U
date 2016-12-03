@@ -6,8 +6,11 @@ Stretches, Compressions, and Reflections
 A **vertical stretch** or **vertical compression** is a transformation resulting from a constant being multiplied to the function.
 
 This constant is often denoted $k$. When $\abs{a} > 1$, it is a stretch by a factor of $a$. When $ 0 < \abs{a} < 1$, is a compression by a factor of $a$.
- 
-Examples: When comparing the following functions to $f(x)$, the transformation of $2f(x)$ is a vertical stretch by a factor of 2, and the transformation of $\frac{f(x)}{2}$ is a vertical compression by a factor of $\frac{1}{2}$.
+
+
+Example: Describe $2f(x)$ and $\frac{f(x)}{2}$ in terms of transformations of $f(x)$.
+
+$2f(x)$ is a vertical stretch by a factor of 2, and $\frac{f(x)}{2}$ is a vertical compression by a factor of $\frac{1}{2}$.
  
  
 ### Horizontal Stretches and Compressions
@@ -15,8 +18,11 @@ Examples: When comparing the following functions to $f(x)$, the transformation o
 A **horizontal stretch** or **horizontal compression** is a transformation resulting from a constant being multiplied to the independent variable.
 
 This constant is often denoted $k$. When $\abs{k} > 1$, it is a compression by a factor of $\frac{1}{k}$. When $0 < \abs{k} < 1$, it is a compression by a factor of $\frac{1}{k}$.
- 
-Examples: When comparing the following functions to f(x), the transformation of $f(2x)$ is a horizontal compression by a factor of $\frac{1}{2}$, and the transformation of $f(\frac{x}{2})$ is a horizontal stretch by a factor of $2$.
+
+
+Example: Describe $f(2x)$ and $f(\frac{x}{2})$ in terms of transformations of $f(x)$.
+
+$f(2x)$ is a horizontal compression by a factor of $\frac{1}{2}$, and the transformation of $f(\frac{x}{2})$ is a horizontal stretch by a factor of $2$.
 
 
 ### Reflection
@@ -25,7 +31,10 @@ A **reflection** is a transformation resulting from either the independent varia
 
 If $a$ is negative, it denotes a reflection along the $x$-axis. If $k$ is negative, it denotes a reflection along the $y$-axis.
 
-Examples: When comparing the following functions to $f(x)$, the transformation of $-f(x)$ is a reflection along the $x$-axis, and the transformation of $f(-x)$ is a reflection along the $x$-axis.
+
+Example: Describe $-f(x)$ and $f(-x)$ in terms of transformations of $f(x)$.
+
+$-f(x)$ is a reflection along the $x$-axis, and $f(-x)$ is a reflection along the $x$-axis.
 
 
 Describe the transformation of each of the following functions from g(x).
