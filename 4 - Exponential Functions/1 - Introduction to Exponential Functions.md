@@ -44,28 +44,29 @@ Give a two possible equations for each of the following exponential functions, g
 
 ### Solving Exponential Equations
 
-We know how to evaluate expressions with exponents, but what about solving for variables in the exponent? For example, how would we find the value of $x$ in $256 = 2^x$? 
+We know how to evaluate expressions with exponents, but solving for variables in the exponent is a different process. If the value of the variable happens to be an integer or a rational number, we can simply write both sides using the same base, often the smallest among the choices.
 
-If $x$ happens to be an integer or a rational number, we can simply write both sides using the same base. We can solve the previous example by getting a common base of 2. We continuously dividing 256 by 2 until we get 1, and counting how many times it takes. It took 8 times, so $256 = 2^8$. Then we can write $2^8 = 2^x$, which means $x = 8$.
+Example: Find the value of $x$ in $256 = 2^x$.
 
-Here is another example: $3 = 81^x$. This time, we can get a common base of 3. We divide 81 by 3 over and over again until we get 1, and counting how many times it takes. It took 4 times, so $81 = 3^4$. Then we have $3 = (3^4)^x = 3^{4x}$. We equate the exponents to get $1 = 4x$, so $x = \frac{1}{4}$.
+We can get a common base of 2 on both sides. If we continuously dividing 256 by 2, it takes 8 times to reach 1. This tells us that $256 = 2^8$, which means $x = 8$.
 
-Sometimes we have to change both bases to determine the value of x. For example, we in $8^x = 32$, we cannot multiply 8 by itself over and over again to get 32. However, we can rewrite $8^x$ as $2^{3x}$ since they are both equivalent. After determining that $2^5 = 32$, we get $3x = 5$ and thus $x = \frac{5}{3}$.
+Example: Find the value of $x$ in $3 = 81^x$.
 
-If we cannot get a common base, we can use the **logarithm** function to calculate the exact amount. To solve for $a = b^x$, we calculate $x = \frac{log(a)}{log(b)}$ using the log button on a calculator. The logarithm function is the inverse of the exponential function, and will be covered in more detail in *Advanced Functions*.
+We can get a common base of 3 on both sides. If we continuously divide 81 by 3, it takes 4 times to reach 1. This tells us that $81 = 3^4$, so we can rewrite $81^x$ as $3^{4x}$. By equating the exponents, we get $1 = 4x$, giving $x = \frac{1}{4}$.
+
+Sometimes we have to change both bases to determine the value of x. 
+
+Example: Find the value of $x$ in $8^x = 32$.
+
+We cannot get a common base of 8 since 32 is not a power of 8. However, since 8 and 32 are both powers of 2, we can rewrite $8^x$ as $2^{3x}$ and 32 as $2^5$. By equating the exponents, we get $3x = 5$, giving $x = \frac{5}{3}$.
 
 
-Solve for $x$ without using logarithms.
-
-1. $7^x = 2401$
-
-2. $5 = 5^x$
-
-3. $9^x = 27$
 
 ### Power Table
 
-You may find this following table useful. The initial column represents bases and the initial row represents powers.
+Solving for exponents often requires one to recognize what base to use, so it should be helpful to study the following power table.
+
+The initial column represents bases and the initial row represents powers.
 
 |   | **2** | **3** | **4** | **5** |
 | --- | --- | --- | --- | --- |
@@ -74,6 +75,18 @@ You may find this following table useful. The initial column represents bases an
 | **4** | 16 | 64 | 256 | 1024 |
 | **5** | 25 | 125 | 625 | 3125 |
 
+
+Solve for $x$.
+
+1. $7^x = 2401$
+
+2. $5 = 5^x$
+
+3. $9^x = 27$
+
+### Logarithms
+
+If we cannot get a common base, we can use the **logarithm** function to calculate the exact value of $x$. To solve for $a = b^x$, we calculate $x = \frac{log(a)}{log(b)}$ using the log button on a calculator. The logarithm function is the inverse of the exponential function, and will be covered in more detail in *Advanced Functions*.
 
 ### Real-life Exponential Growth and Decay
 

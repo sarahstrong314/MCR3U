@@ -3,7 +3,10 @@ Exponential Decay
 
 **Exponential Decay** is a pattern of decay in which each term is multiplied by a constant fraction between zero and one to produce the next term.
 
-For example, 48, 24, 12, 6, 3 is decaying exponentially.
+
+Example: Is the sequence 48, 24, 12, 6, 3 decaying exponentially?
+
+Yes, since the pattern is that each term is being divided by 2.
 
 Many applications of exponential decay involve functions that are in the form $f(x) = a(b)^\frac{x}{k}$, where $a$ is the initial amount, $b$ is the decay rate, and $k$ is the decay amount of that rate. Both $a$ and $k$ will be positive and $b$ will be between 0 and 1.
 

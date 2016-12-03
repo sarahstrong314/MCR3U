@@ -3,7 +3,9 @@ Exponential Growth
 
 **Exponential Growth** is a pattern of growth in which each term is multiplied by a constant amount (greater than one) to produce the next term.
 
-For example, 3, 6, 12, 24, 48 is growing exponentially.
+Example: Is the sequence 3, 6, 12, 24, 48 growing exponentially?
+
+Yes, since each term is multiplied by 2 to get the next term.
 
 Many applications of exponential growth involve functions that are in the form $f(x) = a(b)^\frac{x}{k}$, where $a$ is the initial amount, $b$ is the growth rate, and $k$ is the growth amount of that rate. Both $a$ and $k$ will be positive and $b$ will be greater than 1.
 
