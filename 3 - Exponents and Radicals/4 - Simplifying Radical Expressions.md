@@ -5,15 +5,20 @@ Recall that $\sqrt{a} \times \sqrt{b} = \sqrt{ab}$. We will be using this proper
 
 A radical expression is simplified when the radicand is an integer that does not have any square factors greater than 1.
 
-For example, \sqrt{40} can be reduced to \sqrt{4} \times \sqrt{10} = 2\sqrt{10}, whereas \sqrt{30} cannot be reduced further.
+Example: Simplify $\sqrt{40}$.
 
-To know for sure whether a radical can be simplified, we can check all of the square factors less than or equal to radicand.
+$\sqrt{40} = \sqrt{4} \times \sqrt{10} = 2\sqrt{10}$.
 
-For example, to check whether $\sqrt{30}$ can be simplified, we check whether 4, 9, 16, or 25 (the square numbers less than 30) divide 30. None of them do, so $\sqrt{30}$ cannot be simplified.
-
-Here is another example:
+Example: Simplify $\sqrt{224}$.
 
 $\sqrt{224} = \sqrt{4} \times \sqrt{56} = 2\sqrt{56}$. However, we are not done since 4 is a factor of 56. $2\sqrt{56} = 2 \times \sqrt{4} \times \sqrt{14} = 4\sqrt{14}$. Since 14 does not have any square factors greater than 1, we are done.
+
+To know for sure whether a radical can be simplified, we can check all of the square factors less than or equal to the radicand.
+
+Example: Simplify $\sqrt{30}$.
+
+Since all the perfect squares less than 30 (1, 4, 9, 16, 25) do not divide 30 other than 1, 30 does not have a perfect square as a factor. This means that $\sqrt{30}$ cannot be simplified further.
+
 
 When the radicand is a fraction, we can use the property
 $\sqrt{\frac{a}{b}} = \frac{\sqrt{a}}{\sqrt{b}}$. This comes from the Power of Quotients rule.
