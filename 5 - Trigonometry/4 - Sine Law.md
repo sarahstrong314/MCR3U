@@ -1,6 +1,8 @@
 Sine Law
 -------
 
+An **oblique triangle** is a triangle that does not have $90^\circ$ as one of its interior angles.
+
 When we are solving for missing sides or angles in right triangles, we can always use SOHCAHTOA or the Pythagorean Theorem. However, we cannot use them the triangle is not a right triangle.
 
 Consider the following triangle.
@@ -36,9 +38,9 @@ Find the missing information of the following triangles using the Sine Law and/o
 
 2. [TODO: image]
 
+1. Pose a scenario involving an oblique triangle in a two-dimentional setting in which one could use the sine law to solve it.
 
-TODO: 
-- pose problems involving right triangles and oblique triangles in two-dimensional settings, and solve these and other such problems using the primary trigonometric ratios, the cosine law, and the sine law (including the ambiguous case) 
-- pose problems involving right triangles and oblique triangles in three-dimensional settings, and solve these and other such problems using the primary trigonometric ratios, the cosine law, and the sine law 
+2. Pose a scenario involving an oblique triangle in a three-dimentional setting in which one could use the sine law to solve it.
 
-1. Explain how a surveyor could find the height of a vertical cliff that is on the other side of a raging river, using a measuring tape, a theodolite, and some trigonometry. Determine what the surveyor might measure, and use hypothetical values for these data to calculate the height of the cliff.
+
+
