@@ -54,4 +54,4 @@ Determine the sign of each primary trigonometric ratio of the following angles.
 
 4. $572^\circ$
 
-Investigation: Determine the values of the sine, cosine, and tangent of angles from 0 to 360 degrees using a variety of tools (e.g., dynamic geometry software, graphing tools) and strategies (e.g., applying the unit circle; examining angles related to special angles) 
+Investigation: Determine the values of the sine, cosine, and tangent of angles from 0 to 360 degrees using a variety of tools (e.g., dynamic geometry software, graphing tools) and strategies (e.g., applying the unit circle; examining angles related to special angles) .

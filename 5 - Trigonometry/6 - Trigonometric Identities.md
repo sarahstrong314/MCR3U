@@ -1,11 +1,13 @@
 Trigonometric Identities
 -------
 
-An **identity** is an equation that holds true for every value in the variable's domains. **Trigonometric identities** are identities that involve trigonometric ratios.
+An **identity** is an equation that holds true for every value in the variables' domains. **Trigonometric identities** are identities that involve trigonometric ratios.
 
 ### Pythagorean Identity
 
-Since the unit circle has the equation $x^2 + y^2 = 1$, substituting $(sin\theta, cos\theta)$ gives us a useful identity: $sin^2\theta+ cos^2\theta = 1$ for all values of $\theta$. $sin^2\theta$ is the conventional way to write $(sin\theta)^2$, and same goes for $cos^2\theta$. This is called a **Pythagorean Identity** since the equation $x^2 + y^2 = 1$ creating the unit circle is a result of the Pythagorean Theorem.
+Since the unit circle has the equation $x^2 + y^2 = 1$, substituting $(sin\theta, cos\theta)$ gives us a useful identity: $sin^2\theta+ cos^2\theta = 1$ for all values of $\theta$. This is called a **Pythagorean Identity** since the equation $x^2 + y^2 = 1$ creating the unit circle is a result of the Pythagorean Theorem.
+
+$sin^2\theta$ is the conventional way to write $(sin\theta)^2$, and same goes for $cos^2\theta$. 
 
 
 ### Reciprocal Identitites
