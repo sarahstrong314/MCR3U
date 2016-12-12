@@ -25,7 +25,10 @@ Investigation: How to exponential functions differ from linear and quadratic fun
 
 The **base** of an exponential function is the base to the exponent the variable is in. 
 
-For example, the base of $2^x$ is 2, and the base of $-3^x - 8$ is 3. In this course, we will be dealing with only positive bases.
+Example: What is the base of $2^x$ and $-3^x - 8$?
+The base of $2^x$ is 2 and the base $-3^x - 8$ (which is equivalent to $-(3)^x - 8$ ) is 3. 
+
+In this course, we will be dealing with only positive bases.
 
 All exponential functions have a **horizontal asymptote**, which is a horizontal line that the function approaches, but does not cross. This asymptote exists because $0 = b^x$ does not have a solution for any value of $b$.
 
