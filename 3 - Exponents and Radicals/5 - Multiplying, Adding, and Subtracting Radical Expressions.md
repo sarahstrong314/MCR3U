@@ -29,8 +29,7 @@ Rewrite each of the following expressions as a single radical and simplify.
 
 To add two radicals, we cannot apply a similar property as multiplication $\sqrt{a} + \sqrt{b} \ne \sqrt{a + b}$. However, if the radicands are the same, we can add them by simply adding their coefficients. To subtract to radicals with the same radicand, we simply subtract their coefficients.
 
-For example, find the sum and difference of $3\sqrt{5}$ and $\sqrt{5}
-
+Example: find the sum and difference of $3\sqrt{5}$ and $\sqrt{5}.
 $3\sqrt{5} + \sqrt{5} = 4\sqrt{5}$.  
 $3\sqrt{5} - \sqrt{5} = 2\sqrt{5}$.
 
