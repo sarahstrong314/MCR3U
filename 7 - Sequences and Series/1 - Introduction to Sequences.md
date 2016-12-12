@@ -50,7 +50,10 @@ The second diagonal is 1, 2, 3, 4, 5, ..., which can be expressed as $t_2(n) = n
 The third diagonal is 1, 3, 6, 10, 15, ..., which can be expressed as $t_3(1) = 1$, $t_3(n) = t_3(n-1) + n$, $n \ge 2$.
 The fourth diagonal is 1, 4, 10, 20, 35, ..., which can be expressed as $t_4(1) = 1$, $t_4(n) = t_4(n-1) + t_3(n)$, $n \ge 2$.
 
-Each term in Pascal's Triangle can be denoted by $t_n,m$, where $n$ is the horizontal row number and $m$ is the diagonal row number. For example, $t_4,3$ is 6. The very first 1 is considered to be $t_0,0$, and is sometimes even excluded from the triangle.
+Each term in Pascal's Triangle can be denoted by $t_n,m$, where $n$ is the horizontal row number and $m$ is the diagonal row number. The very first 1 is considered to be $t_0,0$, and is sometimes even excluded from the triangle.
+
+Example: What is $t_4,3$ of Pascal's triangle? 
+The 4th row is 1, 4, 6, 4, 1, so $t_4,3 = 6. 
 
 
 Write each of the following sequences either in function notation or as a recursive formula.
