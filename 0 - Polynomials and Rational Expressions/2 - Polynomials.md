@@ -29,8 +29,10 @@ No. It is the sum of $\frac{1}{x}, $-2x$, and $x^2$, but $\frac{1}{x}$ is not a 
 
 ### Simplifying Polynomials
 
+We can simplify polynomials by adding all the sets of like terms. 
 
-We can simplify polynomials by adding all the sets of like terms. For example, we can simplify $-3 + x + y^2 + 2x$ to $ -3 + 3x + y^2$.
+Example: Simplify $-3 + x + y^2 + 2x$.
+$-3 + x + y^2 + 2x = -3 + 3x + y^2$.
 
 
 Simplify the following polynomials.

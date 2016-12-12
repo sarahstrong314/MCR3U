@@ -29,7 +29,10 @@ Which of the following are examples of terms? For each of the six terms, fill in
  
 ### Expanded Form of Terms 
 
-Recall that a term is a product of constants and variables. For example, $8x^2$ is a term because $8x^2$ = $8 \times x \times x$.
+Recall that a term is a product of constants and variables. 
+
+Example: Is $8x^2$ is a term?
+Yes, because $8x^2$ = $8 \times x \times x$.
 
 Here is a table showing terms in expanded form.
 
