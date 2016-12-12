@@ -4,7 +4,11 @@ Arithmetic Sequences
 
 An **arithmetic sequence** is a sequence in which each pair of consecutive terms have the same difference. This **common difference** is denoted by the constant $d$. The first term in an arithmetic sequence is denoted by the constant $a$, which is equivalent to $t_1$.
 
-For example, the sequence 1, 3, 5, 7, 9, ... is an arithmetic sequence where $a = 1$ and $d = 2$.
+Example: What are $a$ and $d$ in the arithmetic sequence 1, 3, 5, 7, 9, ...?
+The initial term is 1 and the terms increases by 2 each time, so $a = 1$ and $d = 2$.
+
+Example: What are $a$ and $d$ in the arithmetic sequence 9, 7, 5, 3, 1, ...?
+The initial term is 9 and the terms decreases by 2 each time, so $a = 9$ and $d = -2$.
 
 Arithmetic sequences are discrete linear functions.
 

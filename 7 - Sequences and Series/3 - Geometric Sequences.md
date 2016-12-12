@@ -3,7 +3,12 @@ Geometric Sequences
 
 A **geometric sequence** is a sequence in which each pair of consecutive terms have the same ratio. The quotient of the **ratio** is denoted by the constant $r$. The first term in a geometric sequence is also denoted by the constant $a$.
 
-For example, the sequence 1, 3, 9, 27, 81, ... is a geometric sequence where $a = 1$ and $r = 3$.
+Example: What are $a$ and $r$ in the geometric sequence 1, 3, 9, 27, 81, ...?
+The initial term is 1 and the terms are tripled each time, so $a = 1$ and $r = 3$.
+
+Example: What are $a$ and $r$ in the geometric sequence 81, 27, 9, 3, 1, ...?
+The initial term is 81 and the terms are divided by 3 each time, so $a = 81$ and $r = \frac{1}{3}$.
+
 
 Geometric sequences are discrete exponential functions.
 

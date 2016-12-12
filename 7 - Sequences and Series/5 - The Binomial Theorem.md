@@ -3,7 +3,8 @@ The Binomial Theorem
 
 Investigation: What patterns do we see when we expand $(x + y)^n$ for various natural numbers $n$?
 
-The Binomial Theorem answers the following question: what is the expanded form of $(x + y)^n$ for any positive natural number $n$?
+The Binomial Theorem answers the following question: What is the expanded form of $(x + y)^n$ for any positive natural number $n$?
+
 
 We can plug in various values of $n$ and expand the binomial to try to find a trend.
 
@@ -27,8 +28,14 @@ If we look at the degrees of $y$, it starts at 0 and increases by 1 each time.
 
 If we put this all together, we get the Binomial Theorem: $(x + y)^n = \sum_{i=0}^n{\binom{n}{i}x^{n-i}y^i}$, $n \ge 1$.
 
-When we are interested in coeffecients of certain terms, we can use square brackets notation. When we put variables of specific degrees in square brackets in front of an expression, it represents the coeffiient of that term in the expression. For example, $[xy](x + y)^2 = 2$ and $[x^2y^3](x + y)^5 = 10$. 
 
+When we are interested in coeffecients of certain terms, we can use square brackets notation. When we put variables of specific degrees in square brackets in front of an expression, it represents the coeffiient of that term in the expression. If there is no such term, the coefficient is 0.
+
+Example: What is $[xy](x + y)^2$?
+$[xy](x + y)^2 = 2$.
+
+Example: What is $[x^2y^3](x + y)^5$?
+$[x^2y^3](x + y)^5 = 10$.
 
 Use the Binomial Theoerm to expand the following functions and find $[x^2]f(x)$.
 

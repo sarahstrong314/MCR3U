@@ -4,6 +4,7 @@ Arithmetic Series
 
 Investigation: Find the sum of all the natural numbers from 1 to 100.
 
+
 We want to find 1 + 2 + 3 + ... + 98 + 99 + 100.
 
 Write it out twice, once forwards and once backwards, to get this:
@@ -21,7 +22,7 @@ Each column adds up to 101, and there are 100 rows so the total sum is 10100. Ho
 This gave us $S_100 = \frac{100(1+100)}{2}$.
 
 
-The series of the first n terms of an arithmetic sequence is $S_n = \frac{n(a+t_n)}{2}$.
+The series of the first $n$ terms of an arithmetic sequence is $S_n = \frac{n(a+t_n)}{2}$.
 
 Here is how the formula is derived.
 
@@ -31,7 +32,7 @@ $S_n = a + (a + d) + (a + 2d) + ... + (a + (n-1)d)$
 $S_n = (a + (n-1)d) + (a + (n-2)d) + (a + (n-3)d) + ... + a$
 
 Each column in the RHS adds up to $2a + (n-1)d$. Since $t_n = a + (n-1)d$, each column $a + t_n$.
-Since there are $n$ terms in the RHS, adding the two equations give $2S_n = n(a + t_n)$, which can be rearranged to get $S_n = \frac{n(a+t_n)}{2}$.
+Since there are $n$ terms in the RHS, adding the two equations give $2S_n = n(a + t_n)$, which can be rearranged to get $S_n = \frac{n(a + t_n)}{2}$.
 
 
 

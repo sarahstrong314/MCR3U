@@ -14,14 +14,18 @@ The variable $n$ is conventionally used instead of $x$ to express that the indep
 
 Sometimes, $t_n$ used instead of $t(n)$ to denote the $n$th term in a sequence.
 
-For example, the sequence 1, 3, 7, 15, 31, ... can be written in function notation as $t(n) = 2^n - 1$ or $t_n = 2^n - 1$.
+Example: Write the sequence 1, 3, 7, 15, 31, ... in function notation. 
+Each term is one less than the sequence 2, 4, 8, 16, 32, which is the sequences of powers of 2 starting at $2^1$. This tells us that the sequence 1, 3, 7, 15, 31, ... is $t(n) = 2^n - 1$ or $t_n = 2^n - 1$.
 
 
 ### Recursive Formulae
 
+A recursive formula involves representing each term of a sequence with regard to the previous term.
+
 To represent a sequence with recursive formula, we need the initial term(s) and an general expression for the other terms based on its previous term(s).
 
-For example, the sequence 1, 3, 7, 15, 31, ... can be written as the recursive formula $t(1) = 1$, $t(n) = 2t(n) + 1$, $n \ge 2$.
+Example: Write the sequence 1, 3, 7, 15, 31, ... as a recursive formula.
+The initial term is 1 and each term after that double the previus term plus 1. This tells us that the sequence 1, 3, 7, 15, 31, ... is $t(1) = 1$, $t(n) = 2t(n) + 1$, $n \ge 2$.
 
 Just For Fun: Google "recursive".
 
@@ -30,16 +34,13 @@ Just For Fun: Google "recursive".
 
 The Fibonacci Sequence is this famous sequence: 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, ...
 
-Investigation: what are the recursive patterns? How can we write it as a recursive formula
+Investigation: What are the recursive patterns? How can we write it as a recursive formula
 
 The first two terms are 1, then each term after that is the sum of its two previous terms.
-
-
 
 The Fibonacci Sequence can be written as a recursive formula: $t(1) = 1$, $t(2) = 1$, $t(n) = t(n-1) + t(n-2)$, $n \ge 2$.
 
 
-C.1.5 determine, through investigation, recursive patterns in the Fibonacci sequence
 
 ### Pascal's Triangle
 
