@@ -42,9 +42,10 @@ A quadratic is a **perfect square** if it can be written as $a(x - s)^2$. In oth
 
 Completing the square involves taking a binomial of the form and finding what other term has to be added in order to get a perfect square.
 
-For example, if we have $x^2 + 6x$, we can add 9 to get a perfect square since $x^2 + 6x + 9 = (x + 3)^2$. All we have to do is half the second term, then square it.
+Example: What constants needs to be added to $x^2 + 6x$ for it to be a perfect square?
+$a = 1$ and $2as = 6$, so $s = 3$ and $as^2 = 9$. The constant is 9 and the perfect square is $x^2 + 6x + 9 = (x + 3)^2$.
 
-Here is an example of how to rewrite a quadratic relation in vertex form from standard form.
+Example: Convert $f(x) = x^2 + 6x + 5$ to vertex form and find the vertex.
 
 $f(x) = x^2 + 6x + 5$
 
@@ -54,9 +55,10 @@ $f(x) = (x^2 + 6x + 9) - 9 + 5$
 
 $f(x) = (x + 3)^2 - 4$
 
-This tells us that the vertex of $f(x) = x^2 + 6x + 5$ is $(-3, -4)$.
+The vertex of $f(x) = x^2 + 6x + 5$ is $(-3, -4)$.
 
-Here is another example.
+
+Example: Convert $f(x) = 2x^2 - 4x + 5$ to vertex form.
 
 $f(x) = 2x^2 - 4x + 5$
 
@@ -68,10 +70,10 @@ $f(x) = 2(x^2 - 2x + 1) - 2 + 5$
 
 $f(x) = 2(x - 2)^2 + 4$
 
-This tells us that the vertex of $2x^2 - 4x + 5$ is $(2, 1)$.
+The vertex of $2x^2 - 4x + 5$ is $(2, 4)$.
 
 
-Write each of the following quadratic functions in vertex form.
+Write each of the following quadratic functions in vertex form and find their vertexß.
 
 1. $f(x) = x^2 + 2x + 15$
 
